@@ -1,0 +1,1673 @@
+country,year,sex,disease,prevalence
+AT,2014,F,Allergy,25.9
+AT,2019,F,Allergy,24.5
+BE,2014,F,Allergy,15.0
+BE,2019,F,Allergy,20.5
+BG,2014,F,Allergy,5.7
+BG,2019,F,Allergy,5.3
+CY,2014,F,Allergy,7.7
+CY,2019,F,Allergy,9.2
+CZ,2014,F,Allergy,14.2
+CZ,2019,F,Allergy,15.7
+DE,2014,F,Allergy,32.5
+DE,2019,F,Allergy,34.9
+DK,2014,F,Allergy,17.6
+DK,2019,F,Allergy,18.1
+EE,2014,F,Allergy,10.5
+EE,2019,F,Allergy,13.0
+EL,2014,F,Allergy,11.6
+EL,2019,F,Allergy,7.6
+ES,2014,F,Allergy,15.7
+ES,2019,F,Allergy,12.8
+FI,2014,F,Allergy,37.1
+FI,2019,F,Allergy,39.4
+FR,2014,F,Allergy,16.3
+FR,2019,F,Allergy,25.5
+HR,2014,F,Allergy,15.6
+HR,2019,F,Allergy,19.6
+HU,2014,F,Allergy,15.8
+HU,2019,F,Allergy,21.1
+IE,2014,F,Allergy,15.6
+IE,2019,F,Allergy,8.4
+IT,2014,F,Allergy,16.2
+IT,2019,F,Allergy,17.4
+LT,2014,F,Allergy,9.9
+LT,2019,F,Allergy,13.5
+LU,2014,F,Allergy,27.2
+LU,2019,F,Allergy,29.1
+LV,2014,F,Allergy,14.5
+LV,2019,F,Allergy,14.2
+MT,2014,F,Allergy,17.4
+MT,2019,F,Allergy,10.0
+NL,2014,F,Allergy,20.8
+NL,2019,F,Allergy,23.2
+PL,2014,F,Allergy,10.4
+PL,2019,F,Allergy,10.0
+PT,2014,F,Allergy,23.3
+PT,2019,F,Allergy,24.5
+RO,2014,F,Allergy,1.8
+RO,2019,F,Allergy,0.9
+SE,2014,F,Allergy,25.2
+SE,2019,F,Allergy,26.8
+SI,2014,F,Allergy,20.1
+SI,2019,F,Allergy,19.0
+SK,2014,F,Allergy,15.5
+SK,2019,F,Allergy,16.0
+AT,2014,M,Allergy,21.2
+AT,2019,M,Allergy,22.0
+BE,2014,M,Allergy,12.7
+BE,2019,M,Allergy,17.8
+BG,2014,M,Allergy,2.9
+BG,2019,M,Allergy,2.4
+CY,2014,M,Allergy,4.8
+CY,2019,M,Allergy,5.9
+CZ,2014,M,Allergy,9.3
+CZ,2019,M,Allergy,9.4
+DE,2014,M,Allergy,25.8
+DE,2019,M,Allergy,27.4
+DK,2014,M,Allergy,14.7
+DK,2019,M,Allergy,15.4
+EE,2014,M,Allergy,6.3
+EE,2019,M,Allergy,8.9
+EL,2014,M,Allergy,6.9
+EL,2019,M,Allergy,5.4
+ES,2014,M,Allergy,12.1
+ES,2019,M,Allergy,9.8
+FI,2014,M,Allergy,26.6
+FI,2019,M,Allergy,28.5
+FR,2014,M,Allergy,11.5
+FR,2019,M,Allergy,20.5
+HR,2014,M,Allergy,10.5
+HR,2019,M,Allergy,13.5
+HU,2014,M,Allergy,13.5
+HU,2019,M,Allergy,16.9
+IE,2014,M,Allergy,9.7
+IE,2019,M,Allergy,6.6
+IT,2014,M,Allergy,14.0
+IT,2019,M,Allergy,15.5
+LT,2014,M,Allergy,4.7
+LT,2019,M,Allergy,7.7
+LU,2014,M,Allergy,21.5
+LU,2019,M,Allergy,24.8
+LV,2014,M,Allergy,7.6
+LV,2019,M,Allergy,8.3
+MT,2014,M,Allergy,13.8
+MT,2019,M,Allergy,6.7
+NL,2014,M,Allergy,15.6
+NL,2019,M,Allergy,18.0
+PL,2014,M,Allergy,6.7
+PL,2019,M,Allergy,6.5
+PT,2014,M,Allergy,14.6
+PT,2019,M,Allergy,17.7
+RO,2014,M,Allergy,0.9
+RO,2019,M,Allergy,0.5
+SE,2014,M,Allergy,20.2
+SE,2019,M,Allergy,22.1
+SI,2014,M,Allergy,13.5
+SI,2019,M,Allergy,13.8
+SK,2014,M,Allergy,10.9
+SK,2019,M,Allergy,10.4
+AT,2014,F,Arthrosis,16.1
+AT,2019,F,Arthrosis,18.3
+BE,2014,F,Arthrosis,22.1
+BE,2019,F,Arthrosis,23.7
+BG,2014,F,Arthrosis,10.2
+BG,2019,F,Arthrosis,8.1
+CY,2014,F,Arthrosis,6.4
+CY,2019,F,Arthrosis,13.5
+CZ,2014,F,Arthrosis,14.4
+CZ,2019,F,Arthrosis,15.5
+DE,2014,F,Arthrosis,21.1
+DE,2019,F,Arthrosis,21.7
+DK,2014,F,Arthrosis,20.6
+DK,2019,F,Arthrosis,22.7
+EE,2014,F,Arthrosis,3.3
+EE,2019,F,Arthrosis,5.5
+EL,2014,F,Arthrosis,10.0
+EL,2019,F,Arthrosis,8.2
+ES,2014,F,Arthrosis,25.4
+ES,2019,F,Arthrosis,22.4
+FI,2014,F,Arthrosis,26.3
+FI,2019,F,Arthrosis,28.2
+FR,2014,F,Arthrosis,25.4
+FR,2019,F,Arthrosis,27.7
+HR,2014,F,Arthrosis,7.9
+HR,2019,F,Arthrosis,14.7
+HU,2014,F,Arthrosis,22.6
+HU,2019,F,Arthrosis,19.4
+IE,2014,F,Arthrosis,3.3
+IE,2019,F,Arthrosis,2.1
+IT,2014,F,Arthrosis,24.7
+IT,2019,F,Arthrosis,25.5
+LT,2014,F,Arthrosis,11.0
+LT,2019,F,Arthrosis,11.2
+LU,2014,F,Arthrosis,23.3
+LU,2019,F,Arthrosis,21.6
+LV,2014,F,Arthrosis,13.3
+LV,2019,F,Arthrosis,14.8
+MT,2014,F,Arthrosis,16.0
+MT,2019,F,Arthrosis,8.3
+NL,2014,F,Arthrosis,18.6
+NL,2019,F,Arthrosis,19.4
+PL,2014,F,Arthrosis,19.3
+PL,2019,F,Arthrosis,19.8
+PT,2014,F,Arthrosis,32.9
+PT,2019,F,Arthrosis,32.2
+RO,2014,F,Arthrosis,6.2
+RO,2019,F,Arthrosis,5.4
+SE,2014,F,Arthrosis,16.4
+SE,2019,F,Arthrosis,19.5
+SI,2014,F,Arthrosis,6.3
+SI,2019,F,Arthrosis,6.2
+SK,2014,F,Arthrosis,15.0
+SK,2019,F,Arthrosis,16.0
+AT,2014,M,Arthrosis,8.6
+AT,2019,M,Arthrosis,11.0
+BE,2014,M,Arthrosis,12.4
+BE,2019,M,Arthrosis,15.0
+BG,2014,M,Arthrosis,4.5
+BG,2019,M,Arthrosis,3.3
+CY,2014,M,Arthrosis,3.0
+CY,2019,M,Arthrosis,8.2
+CZ,2014,M,Arthrosis,9.7
+CZ,2019,M,Arthrosis,10.6
+DE,2014,M,Arthrosis,13.0
+DE,2019,M,Arthrosis,12.3
+DK,2014,M,Arthrosis,14.4
+DK,2019,M,Arthrosis,13.9
+EE,2014,M,Arthrosis,1.4
+EE,2019,M,Arthrosis,3.5
+EL,2014,M,Arthrosis,3.6
+EL,2019,M,Arthrosis,2.7
+ES,2014,M,Arthrosis,12.2
+ES,2019,M,Arthrosis,10.3
+FI,2014,M,Arthrosis,17.2
+FI,2019,M,Arthrosis,19.2
+FR,2014,M,Arthrosis,15.4
+FR,2019,M,Arthrosis,17.6
+HR,2014,M,Arthrosis,3.5
+HR,2019,M,Arthrosis,8.6
+HU,2014,M,Arthrosis,17.3
+HU,2019,M,Arthrosis,16.4
+IE,2014,M,Arthrosis,3.6
+IE,2019,M,Arthrosis,1.3
+IT,2014,M,Arthrosis,12.7
+IT,2019,M,Arthrosis,13.2
+LT,2014,M,Arthrosis,3.8
+LT,2019,M,Arthrosis,4.2
+LU,2014,M,Arthrosis,14.3
+LU,2019,M,Arthrosis,13.6
+LV,2014,M,Arthrosis,6.0
+LV,2019,M,Arthrosis,5.5
+MT,2014,M,Arthrosis,9.2
+MT,2019,M,Arthrosis,4.2
+NL,2014,M,Arthrosis,12.1
+NL,2019,M,Arthrosis,12.9
+PL,2014,M,Arthrosis,10.2
+PL,2019,M,Arthrosis,10.4
+PT,2014,M,Arthrosis,16.1
+PT,2019,M,Arthrosis,16.8
+RO,2014,M,Arthrosis,3.0
+RO,2019,M,Arthrosis,2.4
+SE,2014,M,Arthrosis,8.8
+SE,2019,M,Arthrosis,11.9
+SI,2014,M,Arthrosis,2.5
+SI,2019,M,Arthrosis,3.5
+SK,2014,M,Arthrosis,7.9
+SK,2019,M,Arthrosis,10.6
+AT,2014,F,Asthma,4.6
+AT,2019,F,Asthma,4.4
+BE,2014,F,Asthma,4.1
+BE,2019,F,Asthma,6.6
+BG,2014,F,Asthma,3.3
+BG,2019,F,Asthma,2.5
+CY,2014,F,Asthma,5.2
+CY,2019,F,Asthma,5.0
+CZ,2014,F,Asthma,5.5
+CZ,2019,F,Asthma,5.9
+DE,2014,F,Asthma,6.9
+DE,2019,F,Asthma,9.3
+DK,2014,F,Asthma,6.2
+DK,2019,F,Asthma,7.7
+EE,2014,F,Asthma,2.9
+EE,2019,F,Asthma,3.7
+EL,2014,F,Asthma,5.2
+EL,2019,F,Asthma,4.3
+ES,2014,F,Asthma,5.0
+ES,2019,F,Asthma,4.7
+FI,2014,F,Asthma,11.3
+FI,2019,F,Asthma,11.5
+FR,2014,F,Asthma,9.4
+FR,2019,F,Asthma,8.4
+HR,2014,F,Asthma,2.9
+HR,2019,F,Asthma,5.2
+HU,2014,F,Asthma,5.7
+HU,2019,F,Asthma,5.8
+IE,2014,F,Asthma,10.1
+IE,2019,F,Asthma,7.0
+IT,2014,F,Asthma,5.0
+IT,2019,F,Asthma,4.7
+LT,2014,F,Asthma,3.0
+LT,2019,F,Asthma,3.8
+LU,2014,F,Asthma,7.0
+LU,2019,F,Asthma,6.9
+LV,2014,F,Asthma,3.9
+LV,2019,F,Asthma,4.1
+MT,2014,F,Asthma,6.9
+MT,2019,F,Asthma,6.9
+NL,2014,F,Asthma,6.2
+NL,2019,F,Asthma,7.2
+PL,2014,F,Asthma,4.6
+PL,2019,F,Asthma,4.7
+PT,2014,F,Asthma,6.1
+PT,2019,F,Asthma,7.1
+RO,2014,F,Asthma,2.1
+RO,2019,F,Asthma,1.7
+SE,2014,F,Asthma,9.4
+SE,2019,F,Asthma,9.1
+SI,2014,F,Asthma,5.5
+SI,2019,F,Asthma,4.9
+SK,2014,F,Asthma,4.8
+SK,2019,F,Asthma,5.3
+AT,2014,M,Asthma,3.9
+AT,2019,M,Asthma,3.9
+BE,2014,M,Asthma,4.3
+BE,2019,M,Asthma,5.2
+BG,2014,M,Asthma,2.1
+BG,2019,M,Asthma,1.9
+CY,2014,M,Asthma,4.0
+CY,2019,M,Asthma,3.3
+CZ,2014,M,Asthma,3.6
+CZ,2019,M,Asthma,3.3
+DE,2014,M,Asthma,5.4
+DE,2019,M,Asthma,7.0
+DK,2014,M,Asthma,6.6
+DK,2019,M,Asthma,6.6
+EE,2014,M,Asthma,2.2
+EE,2019,M,Asthma,3.7
+EL,2014,M,Asthma,3.6
+EL,2019,M,Asthma,2.3
+ES,2014,M,Asthma,4.4
+ES,2019,M,Asthma,3.6
+FI,2014,M,Asthma,7.4
+FI,2019,M,Asthma,7.6
+FR,2014,M,Asthma,8.1
+FR,2019,M,Asthma,6.9
+HR,2014,M,Asthma,3.0
+HR,2019,M,Asthma,4.3
+HU,2014,M,Asthma,4.1
+HU,2019,M,Asthma,3.9
+IE,2014,M,Asthma,8.8
+IE,2019,M,Asthma,8.7
+IT,2014,M,Asthma,4.9
+IT,2019,M,Asthma,4.6
+LT,2014,M,Asthma,2.3
+LT,2019,M,Asthma,1.6
+LU,2014,M,Asthma,6.0
+LU,2019,M,Asthma,5.7
+LV,2014,M,Asthma,2.4
+LV,2019,M,Asthma,3.2
+MT,2014,M,Asthma,4.8
+MT,2019,M,Asthma,5.2
+NL,2014,M,Asthma,4.3
+NL,2019,M,Asthma,5.1
+PL,2014,M,Asthma,3.5
+PL,2019,M,Asthma,3.4
+PT,2014,M,Asthma,4.2
+PT,2019,M,Asthma,5.5
+RO,2014,M,Asthma,1.8
+RO,2019,M,Asthma,1.2
+SE,2014,M,Asthma,6.2
+SE,2019,M,Asthma,6.1
+SI,2014,M,Asthma,4.7
+SI,2019,M,Asthma,4.7
+SK,2014,M,Asthma,2.7
+SK,2019,M,Asthma,2.7
+AT,2014,F,Coronary heart disease or angina pectoris,2.5
+AT,2019,F,Coronary heart disease or angina pectoris,3.1
+BE,2014,F,Coronary heart disease or angina pectoris,1.3
+BE,2019,F,Coronary heart disease or angina pectoris,1.3
+BG,2014,F,Coronary heart disease or angina pectoris,10.3
+BG,2019,F,Coronary heart disease or angina pectoris,8.1
+CY,2014,F,Coronary heart disease or angina pectoris,1.1
+CY,2019,F,Coronary heart disease or angina pectoris,1.6
+CZ,2014,F,Coronary heart disease or angina pectoris,4.2
+CZ,2019,F,Coronary heart disease or angina pectoris,2.8
+DE,2014,F,Coronary heart disease or angina pectoris,3.1
+DE,2019,F,Coronary heart disease or angina pectoris,4.4
+DK,2014,F,Coronary heart disease or angina pectoris,1.7
+DK,2019,F,Coronary heart disease or angina pectoris,1.4
+EE,2014,F,Coronary heart disease or angina pectoris,5.1
+EE,2019,F,Coronary heart disease or angina pectoris,4.3
+EL,2014,F,Coronary heart disease or angina pectoris,2.9
+EL,2019,F,Coronary heart disease or angina pectoris,2.3
+ES,2014,F,Coronary heart disease or angina pectoris,0.8
+ES,2019,F,Coronary heart disease or angina pectoris,0.7
+FI,2014,F,Coronary heart disease or angina pectoris,4.8
+FI,2019,F,Coronary heart disease or angina pectoris,4.1
+FR,2014,F,Coronary heart disease or angina pectoris,1.2
+FR,2019,F,Coronary heart disease or angina pectoris,1.2
+HR,2014,F,Coronary heart disease or angina pectoris,5.8
+HR,2019,F,Coronary heart disease or angina pectoris,8.8
+HU,2014,F,Coronary heart disease or angina pectoris,5.2
+HU,2019,F,Coronary heart disease or angina pectoris,3.8
+IE,2014,F,Coronary heart disease or angina pectoris,2.4
+IE,2019,F,Coronary heart disease or angina pectoris,1.5
+IT,2014,F,Coronary heart disease or angina pectoris,2.4
+IT,2019,F,Coronary heart disease or angina pectoris,1.9
+LT,2014,F,Coronary heart disease or angina pectoris,8.6
+LT,2019,F,Coronary heart disease or angina pectoris,7.2
+LU,2014,F,Coronary heart disease or angina pectoris,2.1
+LU,2019,F,Coronary heart disease or angina pectoris,1.3
+LV,2014,F,Coronary heart disease or angina pectoris,6.7
+LV,2019,F,Coronary heart disease or angina pectoris,6.3
+MT,2014,F,Coronary heart disease or angina pectoris,2.5
+MT,2019,F,Coronary heart disease or angina pectoris,1.9
+NL,2014,F,Coronary heart disease or angina pectoris,1.6
+NL,2019,F,Coronary heart disease or angina pectoris,2.8
+PL,2014,F,Coronary heart disease or angina pectoris,9.6
+PL,2019,F,Coronary heart disease or angina pectoris,7.9
+PT,2014,F,Coronary heart disease or angina pectoris,5.6
+PT,2019,F,Coronary heart disease or angina pectoris,4.6
+RO,2014,F,Coronary heart disease or angina pectoris,4.1
+RO,2019,F,Coronary heart disease or angina pectoris,1.8
+SE,2014,F,Coronary heart disease or angina pectoris,1.3
+SE,2019,F,Coronary heart disease or angina pectoris,1.0
+SI,2014,F,Coronary heart disease or angina pectoris,3.4
+SI,2019,F,Coronary heart disease or angina pectoris,3.5
+SK,2014,F,Coronary heart disease or angina pectoris,6.4
+SK,2019,F,Coronary heart disease or angina pectoris,7.2
+AT,2014,M,Coronary heart disease or angina pectoris,2.2
+AT,2019,M,Coronary heart disease or angina pectoris,3.8
+BE,2014,M,Coronary heart disease or angina pectoris,1.5
+BE,2019,M,Coronary heart disease or angina pectoris,1.7
+BG,2014,M,Coronary heart disease or angina pectoris,7.9
+BG,2019,M,Coronary heart disease or angina pectoris,5.8
+CY,2014,M,Coronary heart disease or angina pectoris,2.8
+CY,2019,M,Coronary heart disease or angina pectoris,3.2
+CZ,2014,M,Coronary heart disease or angina pectoris,4.4
+CZ,2019,M,Coronary heart disease or angina pectoris,2.6
+DE,2014,M,Coronary heart disease or angina pectoris,4.6
+DE,2019,M,Coronary heart disease or angina pectoris,4.8
+DK,2014,M,Coronary heart disease or angina pectoris,2.2
+DK,2019,M,Coronary heart disease or angina pectoris,1.4
+EE,2014,M,Coronary heart disease or angina pectoris,3.8
+EE,2019,M,Coronary heart disease or angina pectoris,3.1
+EL,2014,M,Coronary heart disease or angina pectoris,4.0
+EL,2019,M,Coronary heart disease or angina pectoris,3.8
+ES,2014,M,Coronary heart disease or angina pectoris,1.0
+ES,2019,M,Coronary heart disease or angina pectoris,0.9
+FI,2014,M,Coronary heart disease or angina pectoris,5.3
+FI,2019,M,Coronary heart disease or angina pectoris,5.9
+FR,2014,M,Coronary heart disease or angina pectoris,2.6
+FR,2019,M,Coronary heart disease or angina pectoris,2.8
+HR,2014,M,Coronary heart disease or angina pectoris,4.2
+HR,2019,M,Coronary heart disease or angina pectoris,8.3
+HU,2014,M,Coronary heart disease or angina pectoris,4.6
+HU,2019,M,Coronary heart disease or angina pectoris,3.5
+IE,2014,M,Coronary heart disease or angina pectoris,3.5
+IE,2019,M,Coronary heart disease or angina pectoris,3.0
+IT,2014,M,Coronary heart disease or angina pectoris,2.9
+IT,2019,M,Coronary heart disease or angina pectoris,2.6
+LT,2014,M,Coronary heart disease or angina pectoris,5.6
+LT,2019,M,Coronary heart disease or angina pectoris,4.4
+LU,2014,M,Coronary heart disease or angina pectoris,3.8
+LU,2019,M,Coronary heart disease or angina pectoris,2.7
+LV,2014,M,Coronary heart disease or angina pectoris,4.4
+LV,2019,M,Coronary heart disease or angina pectoris,4.1
+MT,2014,M,Coronary heart disease or angina pectoris,2.7
+MT,2019,M,Coronary heart disease or angina pectoris,3.2
+NL,2014,M,Coronary heart disease or angina pectoris,2.4
+NL,2019,M,Coronary heart disease or angina pectoris,2.4
+PL,2014,M,Coronary heart disease or angina pectoris,7.9
+PL,2019,M,Coronary heart disease or angina pectoris,6.9
+PT,2014,M,Coronary heart disease or angina pectoris,3.3
+PT,2019,M,Coronary heart disease or angina pectoris,4.0
+RO,2014,M,Coronary heart disease or angina pectoris,2.7
+RO,2019,M,Coronary heart disease or angina pectoris,1.1
+SE,2014,M,Coronary heart disease or angina pectoris,1.3
+SE,2019,M,Coronary heart disease or angina pectoris,1.4
+SI,2014,M,Coronary heart disease or angina pectoris,3.2
+SI,2019,M,Coronary heart disease or angina pectoris,3.0
+SK,2014,M,Coronary heart disease or angina pectoris,5.4
+SK,2019,M,Coronary heart disease or angina pectoris,4.8
+AT,2014,F,Chronic lower respiratory diseases (excluding asthma),4.6
+AT,2019,F,Chronic lower respiratory diseases (excluding asthma),4.7
+BE,2014,F,Chronic lower respiratory diseases (excluding asthma),4.6
+BE,2019,F,Chronic lower respiratory diseases (excluding asthma),4.5
+BG,2014,F,Chronic lower respiratory diseases (excluding asthma),5.1
+BG,2019,F,Chronic lower respiratory diseases (excluding asthma),3.4
+CY,2014,F,Chronic lower respiratory diseases (excluding asthma),2.9
+CY,2019,F,Chronic lower respiratory diseases (excluding asthma),3.7
+CZ,2014,F,Chronic lower respiratory diseases (excluding asthma),2.0
+CZ,2019,F,Chronic lower respiratory diseases (excluding asthma),2.2
+DE,2014,F,Chronic lower respiratory diseases (excluding asthma),5.2
+DE,2019,F,Chronic lower respiratory diseases (excluding asthma),6.4
+DK,2014,F,Chronic lower respiratory diseases (excluding asthma),3.0
+DK,2019,F,Chronic lower respiratory diseases (excluding asthma),3.4
+EE,2014,F,Chronic lower respiratory diseases (excluding asthma),1.9
+EE,2019,F,Chronic lower respiratory diseases (excluding asthma),1.9
+EL,2014,F,Chronic lower respiratory diseases (excluding asthma),2.9
+EL,2019,F,Chronic lower respiratory diseases (excluding asthma),1.9
+ES,2014,F,Chronic lower respiratory diseases (excluding asthma),3.3
+ES,2019,F,Chronic lower respiratory diseases (excluding asthma),3.0
+FI,2014,F,Chronic lower respiratory diseases (excluding asthma),2.9
+FI,2019,F,Chronic lower respiratory diseases (excluding asthma),2.8
+FR,2014,F,Chronic lower respiratory diseases (excluding asthma),6.4
+FR,2019,F,Chronic lower respiratory diseases (excluding asthma),6.5
+HR,2014,F,Chronic lower respiratory diseases (excluding asthma),4.0
+HR,2019,F,Chronic lower respiratory diseases (excluding asthma),6.2
+HU,2014,F,Chronic lower respiratory diseases (excluding asthma),5.2
+HU,2019,F,Chronic lower respiratory diseases (excluding asthma),4.4
+IE,2014,F,Chronic lower respiratory diseases (excluding asthma),2.9
+IE,2019,F,Chronic lower respiratory diseases (excluding asthma),2.4
+IT,2014,F,Chronic lower respiratory diseases (excluding asthma),5.6
+IT,2019,F,Chronic lower respiratory diseases (excluding asthma),4.9
+LT,2014,F,Chronic lower respiratory diseases (excluding asthma),7.0
+LT,2019,F,Chronic lower respiratory diseases (excluding asthma),7.1
+LU,2014,F,Chronic lower respiratory diseases (excluding asthma),4.8
+LU,2019,F,Chronic lower respiratory diseases (excluding asthma),6.0
+LV,2014,F,Chronic lower respiratory diseases (excluding asthma),4.5
+LV,2019,F,Chronic lower respiratory diseases (excluding asthma),3.9
+MT,2014,F,Chronic lower respiratory diseases (excluding asthma),1.5
+MT,2019,F,Chronic lower respiratory diseases (excluding asthma),0.5
+NL,2014,F,Chronic lower respiratory diseases (excluding asthma),6.2
+NL,2019,F,Chronic lower respiratory diseases (excluding asthma),5.6
+PL,2014,F,Chronic lower respiratory diseases (excluding asthma),3.4
+PL,2019,F,Chronic lower respiratory diseases (excluding asthma),3.1
+PT,2014,F,Chronic lower respiratory diseases (excluding asthma),6.9
+PT,2019,F,Chronic lower respiratory diseases (excluding asthma),6.5
+RO,2014,F,Chronic lower respiratory diseases (excluding asthma),1.7
+RO,2019,F,Chronic lower respiratory diseases (excluding asthma),1.0
+SE,2014,F,Chronic lower respiratory diseases (excluding asthma),1.6
+SE,2019,F,Chronic lower respiratory diseases (excluding asthma),2.0
+SI,2014,F,Chronic lower respiratory diseases (excluding asthma),4.0
+SI,2019,F,Chronic lower respiratory diseases (excluding asthma),3.4
+SK,2014,F,Chronic lower respiratory diseases (excluding asthma),3.0
+SK,2019,F,Chronic lower respiratory diseases (excluding asthma),3.2
+AT,2014,M,Chronic lower respiratory diseases (excluding asthma),4.3
+AT,2019,M,Chronic lower respiratory diseases (excluding asthma),4.4
+BE,2014,M,Chronic lower respiratory diseases (excluding asthma),3.4
+BE,2019,M,Chronic lower respiratory diseases (excluding asthma),3.6
+BG,2014,M,Chronic lower respiratory diseases (excluding asthma),4.1
+BG,2019,M,Chronic lower respiratory diseases (excluding asthma),2.9
+CY,2014,M,Chronic lower respiratory diseases (excluding asthma),1.9
+CY,2019,M,Chronic lower respiratory diseases (excluding asthma),2.3
+CZ,2014,M,Chronic lower respiratory diseases (excluding asthma),2.3
+CZ,2019,M,Chronic lower respiratory diseases (excluding asthma),2.1
+DE,2014,M,Chronic lower respiratory diseases (excluding asthma),5.1
+DE,2019,M,Chronic lower respiratory diseases (excluding asthma),5.5
+DK,2014,M,Chronic lower respiratory diseases (excluding asthma),3.8
+DK,2019,M,Chronic lower respiratory diseases (excluding asthma),3.5
+EE,2014,M,Chronic lower respiratory diseases (excluding asthma),1.8
+EE,2019,M,Chronic lower respiratory diseases (excluding asthma),2.0
+EL,2014,M,Chronic lower respiratory diseases (excluding asthma),3.8
+EL,2019,M,Chronic lower respiratory diseases (excluding asthma),2.0
+ES,2014,M,Chronic lower respiratory diseases (excluding asthma),3.9
+ES,2019,M,Chronic lower respiratory diseases (excluding asthma),2.9
+FI,2014,M,Chronic lower respiratory diseases (excluding asthma),3.3
+FI,2019,M,Chronic lower respiratory diseases (excluding asthma),4.1
+FR,2014,M,Chronic lower respiratory diseases (excluding asthma),5.0
+FR,2019,M,Chronic lower respiratory diseases (excluding asthma),6.2
+HR,2014,M,Chronic lower respiratory diseases (excluding asthma),4.1
+HR,2019,M,Chronic lower respiratory diseases (excluding asthma),4.2
+HU,2014,M,Chronic lower respiratory diseases (excluding asthma),3.0
+HU,2019,M,Chronic lower respiratory diseases (excluding asthma),3.6
+IE,2014,M,Chronic lower respiratory diseases (excluding asthma),3.2
+IE,2019,M,Chronic lower respiratory diseases (excluding asthma),2.1
+IT,2014,M,Chronic lower respiratory diseases (excluding asthma),5.2
+IT,2019,M,Chronic lower respiratory diseases (excluding asthma),4.2
+LT,2014,M,Chronic lower respiratory diseases (excluding asthma),4.5
+LT,2019,M,Chronic lower respiratory diseases (excluding asthma),5.2
+LU,2014,M,Chronic lower respiratory diseases (excluding asthma),5.5
+LU,2019,M,Chronic lower respiratory diseases (excluding asthma),4.6
+LV,2014,M,Chronic lower respiratory diseases (excluding asthma),2.6
+LV,2019,M,Chronic lower respiratory diseases (excluding asthma),2.8
+MT,2014,M,Chronic lower respiratory diseases (excluding asthma),0.8
+MT,2019,M,Chronic lower respiratory diseases (excluding asthma),0.7
+NL,2014,M,Chronic lower respiratory diseases (excluding asthma),5.0
+NL,2019,M,Chronic lower respiratory diseases (excluding asthma),4.6
+PL,2014,M,Chronic lower respiratory diseases (excluding asthma),2.7
+PL,2019,M,Chronic lower respiratory diseases (excluding asthma),2.2
+PT,2014,M,Chronic lower respiratory diseases (excluding asthma),4.8
+PT,2019,M,Chronic lower respiratory diseases (excluding asthma),4.8
+RO,2014,M,Chronic lower respiratory diseases (excluding asthma),2.3
+RO,2019,M,Chronic lower respiratory diseases (excluding asthma),1.4
+SE,2014,M,Chronic lower respiratory diseases (excluding asthma),1.2
+SE,2019,M,Chronic lower respiratory diseases (excluding asthma),1.4
+SI,2014,M,Chronic lower respiratory diseases (excluding asthma),3.7
+SI,2019,M,Chronic lower respiratory diseases (excluding asthma),3.3
+SK,2014,M,Chronic lower respiratory diseases (excluding asthma),2.3
+SK,2019,M,Chronic lower respiratory diseases (excluding asthma),2.5
+AT,2014,F,Cirrhosis of the liver,0.2
+AT,2019,F,Cirrhosis of the liver,0.2
+BE,2014,F,Cirrhosis of the liver,0.5
+BE,2019,F,Cirrhosis of the liver,1.3
+BG,2014,F,Cirrhosis of the liver,0.3
+BG,2019,F,Cirrhosis of the liver,0.3
+CY,2014,F,Cirrhosis of the liver,0.2
+CY,2019,F,Cirrhosis of the liver,0.1
+CZ,2014,F,Cirrhosis of the liver,0.2
+CZ,2019,F,Cirrhosis of the liver,0.3
+DE,2014,F,Cirrhosis of the liver,0.2
+DE,2019,F,Cirrhosis of the liver,0.3
+DK,2014,F,Cirrhosis of the liver,0.2
+DK,2019,F,Cirrhosis of the liver,0.2
+EE,2014,F,Cirrhosis of the liver,0.2
+EE,2019,F,Cirrhosis of the liver,0.4
+EL,2014,F,Cirrhosis of the liver,0.3
+EL,2019,F,Cirrhosis of the liver,0.3
+ES,2014,F,Cirrhosis of the liver,0.7
+ES,2019,F,Cirrhosis of the liver,0.7
+FI,2014,F,Cirrhosis of the liver,0.2
+FI,2019,F,Cirrhosis of the liver,0.3
+FR,2014,F,Cirrhosis of the liver,0.1
+FR,2019,F,Cirrhosis of the liver,0.2
+HR,2014,F,Cirrhosis of the liver,0.4
+HR,2019,F,Cirrhosis of the liver,0.5
+HU,2014,F,Cirrhosis of the liver,0.4
+HU,2019,F,Cirrhosis of the liver,0.6
+IE,2014,F,Cirrhosis of the liver,0.1
+IE,2019,F,Cirrhosis of the liver,0.2
+IT,2014,F,Cirrhosis of the liver,0.3
+IT,2019,F,Cirrhosis of the liver,0.2
+LT,2014,F,Cirrhosis of the liver,0.4
+LT,2019,F,Cirrhosis of the liver,0.6
+LU,2014,F,Cirrhosis of the liver,0.2
+LU,2019,F,Cirrhosis of the liver,0.1
+LV,2014,F,Cirrhosis of the liver,0.4
+LV,2019,F,Cirrhosis of the liver,0.2
+MT,2014,F,Cirrhosis of the liver,0.4
+MT,2019,F,Cirrhosis of the liver,0.4
+NL,2014,F,Cirrhosis of the liver,0.3
+NL,2019,F,Cirrhosis of the liver,0.2
+PL,2014,F,Cirrhosis of the liver,0.5
+PL,2019,F,Cirrhosis of the liver,0.4
+PT,2014,F,Cirrhosis of the liver,0.5
+PT,2019,F,Cirrhosis of the liver,0.4
+RO,2014,F,Cirrhosis of the liver,0.4
+RO,2019,F,Cirrhosis of the liver,0.2
+SE,2014,F,Cirrhosis of the liver,0.0
+SE,2019,F,Cirrhosis of the liver,0.1
+SI,2014,F,Cirrhosis of the liver,0.2
+SI,2019,F,Cirrhosis of the liver,0.4
+SK,2014,F,Cirrhosis of the liver,0.6
+SK,2019,F,Cirrhosis of the liver,0.7
+AT,2014,M,Cirrhosis of the liver,0.3
+AT,2019,M,Cirrhosis of the liver,0.2
+BE,2014,M,Cirrhosis of the liver,0.5
+BE,2019,M,Cirrhosis of the liver,0.6
+BG,2014,M,Cirrhosis of the liver,0.4
+BG,2019,M,Cirrhosis of the liver,0.4
+CY,2014,M,Cirrhosis of the liver,0.5
+CY,2019,M,Cirrhosis of the liver,0.4
+CZ,2014,M,Cirrhosis of the liver,0.2
+CZ,2019,M,Cirrhosis of the liver,0.5
+DE,2014,M,Cirrhosis of the liver,0.3
+DE,2019,M,Cirrhosis of the liver,0.5
+DK,2014,M,Cirrhosis of the liver,0.2
+DK,2019,M,Cirrhosis of the liver,0.3
+EE,2014,M,Cirrhosis of the liver,0.3
+EE,2019,M,Cirrhosis of the liver,0.4
+EL,2014,M,Cirrhosis of the liver,0.2
+EL,2019,M,Cirrhosis of the liver,0.5
+ES,2014,M,Cirrhosis of the liver,0.8
+ES,2019,M,Cirrhosis of the liver,0.7
+FI,2014,M,Cirrhosis of the liver,0.3
+FI,2019,M,Cirrhosis of the liver,0.4
+FR,2014,M,Cirrhosis of the liver,0.1
+FR,2019,M,Cirrhosis of the liver,0.3
+HR,2014,M,Cirrhosis of the liver,0.7
+HR,2019,M,Cirrhosis of the liver,1.3
+HU,2014,M,Cirrhosis of the liver,0.6
+HU,2019,M,Cirrhosis of the liver,0.5
+IE,2014,M,Cirrhosis of the liver,0.5
+IE,2019,M,Cirrhosis of the liver,0.4
+IT,2014,M,Cirrhosis of the liver,0.3
+IT,2019,M,Cirrhosis of the liver,0.3
+LT,2014,M,Cirrhosis of the liver,0.5
+LT,2019,M,Cirrhosis of the liver,0.4
+LU,2014,M,Cirrhosis of the liver,0.2
+LU,2019,M,Cirrhosis of the liver,0.3
+LV,2014,M,Cirrhosis of the liver,0.7
+LV,2019,M,Cirrhosis of the liver,0.2
+MT,2014,M,Cirrhosis of the liver,0.4
+MT,2019,M,Cirrhosis of the liver,0.2
+NL,2014,M,Cirrhosis of the liver,0.2
+NL,2019,M,Cirrhosis of the liver,0.2
+PL,2014,M,Cirrhosis of the liver,0.7
+PL,2019,M,Cirrhosis of the liver,0.5
+PT,2014,M,Cirrhosis of the liver,0.9
+PT,2019,M,Cirrhosis of the liver,0.5
+RO,2014,M,Cirrhosis of the liver,0.6
+RO,2019,M,Cirrhosis of the liver,0.3
+SE,2014,M,Cirrhosis of the liver,0.3
+SE,2019,M,Cirrhosis of the liver,0.2
+SI,2014,M,Cirrhosis of the liver,1.0
+SI,2019,M,Cirrhosis of the liver,0.6
+SK,2014,M,Cirrhosis of the liver,0.6
+SK,2019,M,Cirrhosis of the liver,0.7
+AT,2014,F,Diabetes,4.5
+AT,2019,F,Diabetes,5.4
+BE,2014,F,Diabetes,5.3
+BE,2019,F,Diabetes,5.1
+BG,2014,F,Diabetes,7.2
+BG,2019,F,Diabetes,7.2
+CY,2014,F,Diabetes,6.2
+CY,2019,F,Diabetes,7.2
+CZ,2014,F,Diabetes,8.0
+CZ,2019,F,Diabetes,8.5
+DE,2014,F,Diabetes,6.4
+DE,2019,F,Diabetes,8.3
+DK,2014,F,Diabetes,4.0
+DK,2019,F,Diabetes,4.7
+EE,2014,F,Diabetes,4.8
+EE,2019,F,Diabetes,5.7
+EL,2014,F,Diabetes,10.1
+EL,2019,F,Diabetes,8.1
+ES,2014,F,Diabetes,6.8
+ES,2019,F,Diabetes,7.4
+FI,2014,F,Diabetes,6.5
+FI,2019,F,Diabetes,8.2
+FR,2014,F,Diabetes,10.3
+FR,2019,F,Diabetes,5.6
+HR,2014,F,Diabetes,7.1
+HR,2019,F,Diabetes,11.1
+HU,2014,F,Diabetes,8.1
+HU,2019,F,Diabetes,8.8
+IE,2014,F,Diabetes,3.7
+IE,2019,F,Diabetes,3.3
+IT,2014,F,Diabetes,6.8
+IT,2019,F,Diabetes,6.4
+LT,2014,F,Diabetes,5.3
+LT,2019,F,Diabetes,5.4
+LU,2014,F,Diabetes,4.1
+LU,2019,F,Diabetes,3.2
+LV,2014,F,Diabetes,4.5
+LV,2019,F,Diabetes,5.8
+MT,2014,F,Diabetes,7.8
+MT,2019,F,Diabetes,6.8
+NL,2014,F,Diabetes,4.6
+NL,2019,F,Diabetes,4.6
+PL,2014,F,Diabetes,6.7
+PL,2019,F,Diabetes,8.9
+PT,2014,F,Diabetes,9.7
+PT,2019,F,Diabetes,10.5
+RO,2014,F,Diabetes,5.7
+RO,2019,F,Diabetes,5.9
+SE,2014,F,Diabetes,4.0
+SE,2019,F,Diabetes,5.4
+SI,2014,F,Diabetes,6.3
+SI,2019,F,Diabetes,7.2
+SK,2014,F,Diabetes,7.2
+SK,2019,F,Diabetes,7.6
+AT,2014,M,Diabetes,5.6
+AT,2019,M,Diabetes,6.3
+BE,2014,M,Diabetes,5.1
+BE,2019,M,Diabetes,5.8
+BG,2014,M,Diabetes,5.4
+BG,2019,M,Diabetes,6.5
+CY,2014,M,Diabetes,7.4
+CY,2019,M,Diabetes,8.4
+CZ,2014,M,Diabetes,7.2
+CZ,2019,M,Diabetes,9.3
+DE,2014,M,Diabetes,7.7
+DE,2019,M,Diabetes,9.8
+DK,2014,M,Diabetes,5.5
+DK,2019,M,Diabetes,5.9
+EE,2014,M,Diabetes,4.4
+EE,2019,M,Diabetes,3.8
+EL,2014,M,Diabetes,8.9
+EL,2019,M,Diabetes,8.4
+ES,2014,M,Diabetes,7.9
+ES,2019,M,Diabetes,8.7
+FI,2014,M,Diabetes,9.4
+FI,2019,M,Diabetes,11.5
+FR,2014,M,Diabetes,9.4
+FR,2019,M,Diabetes,7.5
+HR,2014,M,Diabetes,6.8
+HR,2019,M,Diabetes,12.2
+HU,2014,M,Diabetes,8.0
+HU,2019,M,Diabetes,8.9
+IE,2014,M,Diabetes,5.5
+IE,2019,M,Diabetes,4.1
+IT,2014,M,Diabetes,7.0
+IT,2019,M,Diabetes,7.3
+LT,2014,M,Diabetes,3.0
+LT,2019,M,Diabetes,3.9
+LU,2014,M,Diabetes,7.1
+LU,2019,M,Diabetes,6.2
+LV,2014,M,Diabetes,2.8
+LV,2019,M,Diabetes,3.8
+MT,2014,M,Diabetes,9.1
+MT,2019,M,Diabetes,8.9
+NL,2014,M,Diabetes,5.7
+NL,2019,M,Diabetes,6.2
+PL,2014,M,Diabetes,6.3
+PL,2019,M,Diabetes,7.2
+PT,2014,M,Diabetes,9.8
+PT,2019,M,Diabetes,10.6
+RO,2014,M,Diabetes,3.8
+RO,2019,M,Diabetes,4.0
+SE,2014,M,Diabetes,5.2
+SE,2019,M,Diabetes,7.1
+SI,2014,M,Diabetes,7.0
+SI,2019,M,Diabetes,7.5
+SK,2014,M,Diabetes,6.2
+SK,2019,M,Diabetes,7.5
+AT,2014,F,Chronic depression,8.6
+AT,2019,F,Chronic depression,8.7
+BE,2014,F,Chronic depression,8.3
+BE,2019,F,Chronic depression,9.2
+BG,2014,F,Chronic depression,4.3
+BG,2019,F,Chronic depression,3.4
+CY,2014,F,Chronic depression,5.6
+CY,2019,F,Chronic depression,6.3
+CZ,2014,F,Chronic depression,4.7
+CZ,2019,F,Chronic depression,5.4
+DE,2014,F,Chronic depression,11.7
+DE,2019,F,Chronic depression,12.6
+DK,2014,F,Chronic depression,8.8
+DK,2019,F,Chronic depression,10.4
+EE,2014,F,Chronic depression,5.6
+EE,2019,F,Chronic depression,8.9
+EL,2014,F,Chronic depression,6.3
+EL,2019,F,Chronic depression,5.2
+ES,2014,F,Chronic depression,11.2
+ES,2019,F,Chronic depression,7.9
+FI,2014,F,Chronic depression,11.5
+FI,2019,F,Chronic depression,9.7
+FR,2014,F,Chronic depression,7.5
+FR,2019,F,Chronic depression,9.1
+HR,2014,F,Chronic depression,6.2
+HR,2019,F,Chronic depression,12.7
+HU,2014,F,Chronic depression,6.6
+HU,2019,F,Chronic depression,5.1
+IE,2014,F,Chronic depression,13.5
+IE,2019,F,Chronic depression,4.4
+IT,2014,F,Chronic depression,7.4
+IT,2019,F,Chronic depression,7.3
+LT,2014,F,Chronic depression,6.0
+LT,2019,F,Chronic depression,8.7
+LU,2014,F,Chronic depression,10.0
+LU,2019,F,Chronic depression,12.4
+LV,2014,F,Chronic depression,11.4
+LV,2019,F,Chronic depression,9.9
+MT,2014,F,Chronic depression,6.6
+MT,2019,F,Chronic depression,4.6
+NL,2014,F,Chronic depression,8.0
+NL,2019,F,Chronic depression,8.5
+PL,2014,F,Chronic depression,5.5
+PL,2019,F,Chronic depression,5.1
+PT,2014,F,Chronic depression,17.5
+PT,2019,F,Chronic depression,17.2
+RO,2014,F,Chronic depression,2.0
+RO,2019,F,Chronic depression,1.3
+SE,2014,F,Chronic depression,12.4
+SE,2019,F,Chronic depression,13.4
+SI,2014,F,Chronic depression,10.3
+SI,2019,F,Chronic depression,9.6
+SK,2014,F,Chronic depression,5.1
+SK,2019,F,Chronic depression,5.5
+AT,2014,M,Chronic depression,4.7
+AT,2019,M,Chronic depression,5.3
+BE,2014,M,Chronic depression,4.7
+BE,2019,M,Chronic depression,5.8
+BG,2014,M,Chronic depression,2.1
+BG,2019,M,Chronic depression,1.8
+CY,2014,M,Chronic depression,2.6
+CY,2019,M,Chronic depression,3.6
+CZ,2014,M,Chronic depression,3.2
+CZ,2019,M,Chronic depression,3.3
+DE,2014,M,Chronic depression,8.6
+DE,2019,M,Chronic depression,9.5
+DK,2014,M,Chronic depression,6.2
+DK,2019,M,Chronic depression,8.4
+EE,2014,M,Chronic depression,4.0
+EE,2019,M,Chronic depression,5.3
+EL,2014,M,Chronic depression,3.1
+EL,2019,M,Chronic depression,2.5
+ES,2014,M,Chronic depression,5.0
+ES,2019,M,Chronic depression,3.7
+FI,2014,M,Chronic depression,8.8
+FI,2019,M,Chronic depression,7.2
+FR,2014,M,Chronic depression,3.9
+FR,2019,M,Chronic depression,5.6
+HR,2014,M,Chronic depression,4.9
+HR,2019,M,Chronic depression,8.9
+HU,2014,M,Chronic depression,3.2
+HU,2019,M,Chronic depression,2.9
+IE,2014,M,Chronic depression,10.9
+IE,2019,M,Chronic depression,3.3
+IT,2014,M,Chronic depression,4.0
+IT,2019,M,Chronic depression,3.7
+LT,2014,M,Chronic depression,3.0
+LT,2019,M,Chronic depression,5.0
+LU,2014,M,Chronic depression,8.5
+LU,2019,M,Chronic depression,9.3
+LV,2014,M,Chronic depression,6.1
+LV,2019,M,Chronic depression,6.1
+MT,2014,M,Chronic depression,4.3
+MT,2019,M,Chronic depression,2.8
+NL,2014,M,Chronic depression,5.8
+NL,2019,M,Chronic depression,6.6
+PL,2014,M,Chronic depression,2.7
+PL,2019,M,Chronic depression,3.1
+PT,2014,M,Chronic depression,6.1
+PT,2019,M,Chronic depression,7.7
+RO,2014,M,Chronic depression,1.0
+RO,2019,M,Chronic depression,0.7
+SE,2014,M,Chronic depression,6.2
+SE,2019,M,Chronic depression,9.7
+SI,2014,M,Chronic depression,6.8
+SI,2019,M,Chronic depression,5.8
+SK,2014,M,Chronic depression,3.1
+SK,2019,M,Chronic depression,3.0
+AT,2019,F,High blood lipids,19.0
+BE,2019,F,High blood lipids,17.6
+BG,2019,F,High blood lipids,2.6
+CY,2019,F,High blood lipids,18.8
+CZ,2019,F,High blood lipids,14.7
+DE,2019,F,High blood lipids,18.2
+DK,2019,F,High blood lipids,13.5
+EE,2019,F,High blood lipids,7.2
+EL,2019,F,High blood lipids,16.7
+ES,2019,F,High blood lipids,16.4
+FI,2019,F,High blood lipids,23.2
+FR,2019,F,High blood lipids,13.5
+HR,2019,F,High blood lipids,20.8
+HU,2019,F,High blood lipids,14.4
+IE,2019,F,High blood lipids,6.3
+IT,2019,F,High blood lipids,14.1
+LT,2019,F,High blood lipids,16.2
+LU,2019,F,High blood lipids,15.8
+LV,2019,F,High blood lipids,17.4
+MT,2019,F,High blood lipids,14.2
+PL,2019,F,High blood lipids,9.8
+PT,2019,F,High blood lipids,26.5
+RO,2019,F,High blood lipids,4.2
+SE,2019,F,High blood lipids,6.0
+SI,2019,F,High blood lipids,15.7
+SK,2019,F,High blood lipids,12.4
+AT,2019,M,High blood lipids,18.6
+BE,2019,M,High blood lipids,19.4
+BG,2019,M,High blood lipids,2.7
+CY,2019,M,High blood lipids,21.1
+CZ,2019,M,High blood lipids,13.3
+DE,2019,M,High blood lipids,17.7
+DK,2019,M,High blood lipids,13.2
+EE,2019,M,High blood lipids,4.9
+EL,2019,M,High blood lipids,15.8
+ES,2019,M,High blood lipids,16.7
+FI,2019,M,High blood lipids,23.3
+FR,2019,M,High blood lipids,13.2
+HR,2019,M,High blood lipids,16.7
+HU,2019,M,High blood lipids,11.4
+IE,2019,M,High blood lipids,6.2
+IT,2019,M,High blood lipids,11.9
+LT,2019,M,High blood lipids,9.7
+LU,2019,M,High blood lipids,16.6
+LV,2019,M,High blood lipids,9.9
+MT,2019,M,High blood lipids,12.5
+PL,2019,M,High blood lipids,8.9
+PT,2019,M,High blood lipids,22.0
+RO,2019,M,High blood lipids,2.9
+SE,2019,M,High blood lipids,7.9
+SI,2019,M,High blood lipids,13.8
+SK,2019,M,High blood lipids,9.6
+AT,2014,F,High blood pressure,21.9
+AT,2019,F,High blood pressure,22.0
+BE,2014,F,High blood pressure,17.8
+BE,2019,F,High blood pressure,17.8
+BG,2014,F,High blood pressure,33.0
+BG,2019,F,High blood pressure,32.7
+CY,2014,F,High blood pressure,19.9
+CY,2019,F,High blood pressure,20.5
+CZ,2014,F,High blood pressure,23.9
+CZ,2019,F,High blood pressure,25.7
+DE,2014,F,High blood pressure,27.9
+DE,2019,F,High blood pressure,27.4
+DK,2014,F,High blood pressure,18.1
+DK,2019,F,High blood pressure,19.6
+EE,2014,F,High blood pressure,21.0
+EE,2019,F,High blood pressure,21.8
+EL,2014,F,High blood pressure,23.6
+EL,2019,F,High blood pressure,21.6
+ES,2014,F,High blood pressure,20.6
+ES,2019,F,High blood pressure,21.0
+FI,2014,F,High blood pressure,24.4
+FI,2019,F,High blood pressure,27.4
+FR,2014,F,High blood pressure,14.9
+FR,2019,F,High blood pressure,17.1
+HR,2014,F,High blood pressure,26.1
+HR,2019,F,High blood pressure,37.8
+HU,2014,F,High blood pressure,34.2
+HU,2019,F,High blood pressure,33.8
+IE,2014,F,High blood pressure,16.3
+IE,2019,F,High blood pressure,13.1
+IT,2014,F,High blood pressure,22.6
+IT,2019,F,High blood pressure,22.4
+LT,2014,F,High blood pressure,32.1
+LT,2019,F,High blood pressure,32.0
+LU,2014,F,High blood pressure,16.2
+LU,2019,F,High blood pressure,13.6
+LV,2014,F,High blood pressure,30.9
+LV,2019,F,High blood pressure,33.5
+MT,2014,F,High blood pressure,22.3
+MT,2019,F,High blood pressure,20.2
+NL,2014,F,High blood pressure,17.1
+NL,2019,F,High blood pressure,16.9
+PL,2014,F,High blood pressure,24.9
+PL,2019,F,High blood pressure,28.1
+PT,2014,F,High blood pressure,29.5
+PT,2019,F,High blood pressure,29.9
+RO,2014,F,High blood pressure,21.0
+RO,2019,F,High blood pressure,18.6
+SE,2014,F,High blood pressure,17.8
+SE,2019,F,High blood pressure,18.1
+SI,2014,F,High blood pressure,24.9
+SI,2019,F,High blood pressure,25.3
+SK,2014,F,High blood pressure,28.8
+SK,2019,F,High blood pressure,29.2
+AT,2014,M,High blood pressure,21.2
+AT,2019,M,High blood pressure,22.5
+BE,2014,M,High blood pressure,15.9
+BE,2019,M,High blood pressure,17.4
+BG,2014,M,High blood pressure,26.2
+BG,2019,M,High blood pressure,26.5
+CY,2014,M,High blood pressure,18.8
+CY,2019,M,High blood pressure,21.6
+CZ,2014,M,High blood pressure,23.4
+CZ,2019,M,High blood pressure,27.2
+DE,2014,M,High blood pressure,29.4
+DE,2019,M,High blood pressure,26.9
+DK,2014,M,High blood pressure,18.4
+DK,2019,M,High blood pressure,19.4
+EE,2014,M,High blood pressure,17.6
+EE,2019,M,High blood pressure,18.5
+EL,2014,M,High blood pressure,19.5
+EL,2019,M,High blood pressure,18.9
+ES,2014,M,High blood pressure,19.5
+ES,2019,M,High blood pressure,20.7
+FI,2014,M,High blood pressure,26.5
+FI,2019,M,High blood pressure,28.9
+FR,2014,M,High blood pressure,14.4
+FR,2019,M,High blood pressure,15.1
+HR,2014,M,High blood pressure,21.7
+HR,2019,M,High blood pressure,34.6
+HU,2014,M,High blood pressure,29.4
+HU,2019,M,High blood pressure,29.3
+IE,2014,M,High blood pressure,15.9
+IE,2019,M,High blood pressure,11.7
+IT,2014,M,High blood pressure,20.9
+IT,2019,M,High blood pressure,20.5
+LT,2014,M,High blood pressure,20.8
+LT,2019,M,High blood pressure,24.9
+LU,2014,M,High blood pressure,20.5
+LU,2019,M,High blood pressure,19.8
+LV,2014,M,High blood pressure,21.0
+LV,2019,M,High blood pressure,24.1
+MT,2014,M,High blood pressure,21.2
+MT,2019,M,High blood pressure,17.8
+NL,2014,M,High blood pressure,16.1
+NL,2019,M,High blood pressure,15.7
+PL,2014,M,High blood pressure,20.6
+PL,2019,M,High blood pressure,24.5
+PT,2014,M,High blood pressure,22.1
+PT,2019,M,High blood pressure,25.3
+RO,2014,M,High blood pressure,12.9
+RO,2019,M,High blood pressure,12.6
+SE,2014,M,High blood pressure,15.2
+SE,2019,M,High blood pressure,18.8
+SI,2014,M,High blood pressure,23.9
+SI,2019,M,High blood pressure,24.4
+SK,2014,M,High blood pressure,22.1
+SK,2019,M,High blood pressure,27.3
+AT,2014,F,Heart attack or chronic consequences of heart attack,0.6
+AT,2019,F,Heart attack or chronic consequences of heart attack,1.3
+BE,2014,F,Heart attack or chronic consequences of heart attack,0.9
+BE,2019,F,Heart attack or chronic consequences of heart attack,0.6
+BG,2014,F,Heart attack or chronic consequences of heart attack,1.7
+BG,2019,F,Heart attack or chronic consequences of heart attack,1.4
+CY,2014,F,Heart attack or chronic consequences of heart attack,2.0
+CY,2019,F,Heart attack or chronic consequences of heart attack,1.6
+CZ,2014,F,Heart attack or chronic consequences of heart attack,1.2
+CZ,2019,F,Heart attack or chronic consequences of heart attack,1.5
+DE,2014,F,Heart attack or chronic consequences of heart attack,0.9
+DE,2019,F,Heart attack or chronic consequences of heart attack,1.6
+DK,2014,F,Heart attack or chronic consequences of heart attack,0.6
+DK,2019,F,Heart attack or chronic consequences of heart attack,0.6
+EE,2014,F,Heart attack or chronic consequences of heart attack,1.0
+EE,2019,F,Heart attack or chronic consequences of heart attack,0.9
+EL,2014,F,Heart attack or chronic consequences of heart attack,1.3
+EL,2019,F,Heart attack or chronic consequences of heart attack,1.7
+ES,2014,F,Heart attack or chronic consequences of heart attack,0.6
+ES,2019,F,Heart attack or chronic consequences of heart attack,0.6
+FI,2014,F,Heart attack or chronic consequences of heart attack,1.2
+FI,2019,F,Heart attack or chronic consequences of heart attack,1.2
+FR,2014,F,Heart attack or chronic consequences of heart attack,0.6
+FR,2019,F,Heart attack or chronic consequences of heart attack,1.0
+HR,2014,F,Heart attack or chronic consequences of heart attack,1.5
+HR,2019,F,Heart attack or chronic consequences of heart attack,2.8
+HU,2014,F,Heart attack or chronic consequences of heart attack,2.1
+HU,2019,F,Heart attack or chronic consequences of heart attack,2.0
+IE,2014,F,Heart attack or chronic consequences of heart attack,0.7
+IE,2019,F,Heart attack or chronic consequences of heart attack,0.8
+IT,2014,F,Heart attack or chronic consequences of heart attack,1.4
+IT,2019,F,Heart attack or chronic consequences of heart attack,1.1
+LT,2014,F,Heart attack or chronic consequences of heart attack,1.7
+LT,2019,F,Heart attack or chronic consequences of heart attack,1.8
+LU,2014,F,Heart attack or chronic consequences of heart attack,0.0
+LU,2019,F,Heart attack or chronic consequences of heart attack,0.2
+LV,2014,F,Heart attack or chronic consequences of heart attack,1.1
+LV,2019,F,Heart attack or chronic consequences of heart attack,0.4
+MT,2014,F,Heart attack or chronic consequences of heart attack,0.7
+MT,2019,F,Heart attack or chronic consequences of heart attack,0.4
+NL,2014,F,Heart attack or chronic consequences of heart attack,0.4
+NL,2019,F,Heart attack or chronic consequences of heart attack,0.9
+PL,2014,F,Heart attack or chronic consequences of heart attack,2.3
+PL,2019,F,Heart attack or chronic consequences of heart attack,1.7
+PT,2014,F,Heart attack or chronic consequences of heart attack,1.7
+PT,2019,F,Heart attack or chronic consequences of heart attack,1.5
+RO,2014,F,Heart attack or chronic consequences of heart attack,1.1
+RO,2019,F,Heart attack or chronic consequences of heart attack,1.1
+SE,2014,F,Heart attack or chronic consequences of heart attack,0.6
+SE,2019,F,Heart attack or chronic consequences of heart attack,0.6
+SI,2014,F,Heart attack or chronic consequences of heart attack,1.1
+SI,2019,F,Heart attack or chronic consequences of heart attack,1.1
+SK,2014,F,Heart attack or chronic consequences of heart attack,2.0
+SK,2019,F,Heart attack or chronic consequences of heart attack,1.5
+AT,2014,M,Heart attack or chronic consequences of heart attack,1.4
+AT,2019,M,Heart attack or chronic consequences of heart attack,2.0
+BE,2014,M,Heart attack or chronic consequences of heart attack,1.3
+BE,2019,M,Heart attack or chronic consequences of heart attack,1.2
+BG,2014,M,Heart attack or chronic consequences of heart attack,2.7
+BG,2019,M,Heart attack or chronic consequences of heart attack,1.8
+CY,2014,M,Heart attack or chronic consequences of heart attack,3.7
+CY,2019,M,Heart attack or chronic consequences of heart attack,4.9
+CZ,2014,M,Heart attack or chronic consequences of heart attack,2.1
+CZ,2019,M,Heart attack or chronic consequences of heart attack,2.8
+DE,2014,M,Heart attack or chronic consequences of heart attack,2.2
+DE,2019,M,Heart attack or chronic consequences of heart attack,3.4
+DK,2014,M,Heart attack or chronic consequences of heart attack,1.1
+DK,2019,M,Heart attack or chronic consequences of heart attack,1.2
+EE,2014,M,Heart attack or chronic consequences of heart attack,1.3
+EE,2019,M,Heart attack or chronic consequences of heart attack,1.5
+EL,2014,M,Heart attack or chronic consequences of heart attack,3.2
+EL,2019,M,Heart attack or chronic consequences of heart attack,4.5
+ES,2014,M,Heart attack or chronic consequences of heart attack,1.0
+ES,2019,M,Heart attack or chronic consequences of heart attack,1.4
+FI,2014,M,Heart attack or chronic consequences of heart attack,2.3
+FI,2019,M,Heart attack or chronic consequences of heart attack,2.4
+FR,2014,M,Heart attack or chronic consequences of heart attack,1.5
+FR,2019,M,Heart attack or chronic consequences of heart attack,1.5
+HR,2014,M,Heart attack or chronic consequences of heart attack,2.4
+HR,2019,M,Heart attack or chronic consequences of heart attack,3.8
+HU,2014,M,Heart attack or chronic consequences of heart attack,2.6
+HU,2019,M,Heart attack or chronic consequences of heart attack,2.5
+IE,2014,M,Heart attack or chronic consequences of heart attack,2.1
+IE,2019,M,Heart attack or chronic consequences of heart attack,1.8
+IT,2014,M,Heart attack or chronic consequences of heart attack,3.0
+IT,2019,M,Heart attack or chronic consequences of heart attack,2.7
+LT,2014,M,Heart attack or chronic consequences of heart attack,2.6
+LT,2019,M,Heart attack or chronic consequences of heart attack,1.9
+LU,2014,M,Heart attack or chronic consequences of heart attack,1.8
+LU,2019,M,Heart attack or chronic consequences of heart attack,0.7
+LV,2014,M,Heart attack or chronic consequences of heart attack,0.8
+LV,2019,M,Heart attack or chronic consequences of heart attack,0.9
+MT,2014,M,Heart attack or chronic consequences of heart attack,1.7
+MT,2019,M,Heart attack or chronic consequences of heart attack,2.0
+NL,2014,M,Heart attack or chronic consequences of heart attack,0.4
+NL,2019,M,Heart attack or chronic consequences of heart attack,1.5
+PL,2014,M,Heart attack or chronic consequences of heart attack,3.9
+PL,2019,M,Heart attack or chronic consequences of heart attack,3.4
+PT,2014,M,Heart attack or chronic consequences of heart attack,2.0
+PT,2019,M,Heart attack or chronic consequences of heart attack,1.5
+RO,2014,M,Heart attack or chronic consequences of heart attack,1.3
+RO,2019,M,Heart attack or chronic consequences of heart attack,1.2
+SE,2014,M,Heart attack or chronic consequences of heart attack,1.7
+SE,2019,M,Heart attack or chronic consequences of heart attack,1.3
+SI,2014,M,Heart attack or chronic consequences of heart attack,1.6
+SI,2019,M,Heart attack or chronic consequences of heart attack,2.2
+SK,2014,M,Heart attack or chronic consequences of heart attack,2.8
+SK,2019,M,Heart attack or chronic consequences of heart attack,2.4
+AT,2014,F,Kidney problems,1.9
+AT,2019,F,Kidney problems,2.3
+BE,2014,F,Kidney problems,0.9
+BE,2019,F,Kidney problems,1.1
+BG,2014,F,Kidney problems,6.7
+BG,2019,F,Kidney problems,5.1
+CY,2014,F,Kidney problems,1.3
+CY,2019,F,Kidney problems,2.2
+CZ,2014,F,Kidney problems,2.6
+CZ,2019,F,Kidney problems,3.1
+DE,2014,F,Kidney problems,2.1
+DE,2019,F,Kidney problems,2.4
+DK,2014,F,Kidney problems,1.4
+DK,2019,F,Kidney problems,1.1
+EE,2014,F,Kidney problems,2.6
+EE,2019,F,Kidney problems,2.3
+EL,2014,F,Kidney problems,3.0
+EL,2019,F,Kidney problems,2.1
+ES,2014,F,Kidney problems,3.1
+ES,2019,F,Kidney problems,2.5
+FI,2014,F,Kidney problems,1.4
+FI,2019,F,Kidney problems,1.7
+FR,2014,F,Kidney problems,1.8
+FR,2019,F,Kidney problems,3.3
+HR,2014,F,Kidney problems,5.2
+HR,2019,F,Kidney problems,6.4
+HU,2014,F,Kidney problems,2.3
+HU,2019,F,Kidney problems,2.9
+IE,2014,F,Kidney problems,4.5
+IE,2019,F,Kidney problems,2.1
+IT,2014,F,Kidney problems,3.8
+IT,2019,F,Kidney problems,3.9
+LT,2014,F,Kidney problems,6.0
+LT,2019,F,Kidney problems,5.9
+LU,2014,F,Kidney problems,3.0
+LU,2019,F,Kidney problems,3.5
+LV,2014,F,Kidney problems,7.3
+LV,2019,F,Kidney problems,5.7
+MT,2014,F,Kidney problems,0.6
+MT,2019,F,Kidney problems,0.9
+NL,2014,F,Kidney problems,2.0
+NL,2019,F,Kidney problems,2.4
+PL,2014,F,Kidney problems,4.7
+PL,2019,F,Kidney problems,4.7
+PT,2014,F,Kidney problems,5.6
+PT,2019,F,Kidney problems,4.8
+RO,2014,F,Kidney problems,2.4
+RO,2019,F,Kidney problems,1.2
+SE,2014,F,Kidney problems,1.2
+SE,2019,F,Kidney problems,1.4
+SI,2014,F,Kidney problems,5.8
+SI,2019,F,Kidney problems,5.4
+SK,2014,F,Kidney problems,3.9
+SK,2019,F,Kidney problems,4.0
+AT,2014,M,Kidney problems,1.3
+AT,2019,M,Kidney problems,2.2
+BE,2014,M,Kidney problems,0.7
+BE,2019,M,Kidney problems,0.7
+BG,2014,M,Kidney problems,4.9
+BG,2019,M,Kidney problems,4.3
+CY,2014,M,Kidney problems,2.2
+CY,2019,M,Kidney problems,2.0
+CZ,2014,M,Kidney problems,2.1
+CZ,2019,M,Kidney problems,2.4
+DE,2014,M,Kidney problems,1.8
+DE,2019,M,Kidney problems,1.9
+DK,2014,M,Kidney problems,1.8
+DK,2019,M,Kidney problems,1.6
+EE,2014,M,Kidney problems,1.1
+EE,2019,M,Kidney problems,1.3
+EL,2014,M,Kidney problems,2.3
+EL,2019,M,Kidney problems,1.9
+ES,2014,M,Kidney problems,2.5
+ES,2019,M,Kidney problems,2.4
+FI,2014,M,Kidney problems,1.5
+FI,2019,M,Kidney problems,1.7
+FR,2014,M,Kidney problems,1.9
+FR,2019,M,Kidney problems,3.5
+HR,2014,M,Kidney problems,3.1
+HR,2019,M,Kidney problems,6.5
+HU,2014,M,Kidney problems,2.4
+HU,2019,M,Kidney problems,2.2
+IE,2014,M,Kidney problems,3.1
+IE,2019,M,Kidney problems,2.2
+IT,2014,M,Kidney problems,3.7
+IT,2019,M,Kidney problems,4.0
+LT,2014,M,Kidney problems,3.8
+LT,2019,M,Kidney problems,3.0
+LU,2014,M,Kidney problems,2.2
+LU,2019,M,Kidney problems,3.2
+LV,2014,M,Kidney problems,2.8
+LV,2019,M,Kidney problems,2.2
+MT,2014,M,Kidney problems,1.0
+MT,2019,M,Kidney problems,1.0
+NL,2014,M,Kidney problems,1.9
+NL,2019,M,Kidney problems,2.2
+PL,2014,M,Kidney problems,3.2
+PL,2019,M,Kidney problems,3.5
+PT,2014,M,Kidney problems,3.8
+PT,2019,M,Kidney problems,3.9
+RO,2014,M,Kidney problems,1.4
+RO,2019,M,Kidney problems,1.2
+SE,2014,M,Kidney problems,1.9
+SE,2019,M,Kidney problems,1.5
+SI,2014,M,Kidney problems,3.5
+SI,2019,M,Kidney problems,4.2
+SK,2014,M,Kidney problems,2.9
+SK,2019,M,Kidney problems,3.0
+AT,2014,F,Low back disorder or other chronic back defect,26.1
+AT,2019,F,Low back disorder or other chronic back defect,26.8
+BE,2014,F,Low back disorder or other chronic back defect,22.6
+BE,2019,F,Low back disorder or other chronic back defect,27.0
+BG,2014,F,Low back disorder or other chronic back defect,12.1
+BG,2019,F,Low back disorder or other chronic back defect,11.7
+CY,2014,F,Low back disorder or other chronic back defect,17.0
+CY,2019,F,Low back disorder or other chronic back defect,19.1
+CZ,2014,F,Low back disorder or other chronic back defect,19.4
+CZ,2019,F,Low back disorder or other chronic back defect,18.6
+DE,2014,F,Low back disorder or other chronic back defect,41.3
+DE,2019,F,Low back disorder or other chronic back defect,32.8
+DK,2014,F,Low back disorder or other chronic back defect,13.9
+DK,2019,F,Low back disorder or other chronic back defect,15.0
+EE,2014,F,Low back disorder or other chronic back defect,23.2
+EE,2019,F,Low back disorder or other chronic back defect,25.0
+EL,2014,F,Low back disorder or other chronic back defect,21.7
+EL,2019,F,Low back disorder or other chronic back defect,14.8
+ES,2014,F,Low back disorder or other chronic back defect,23.8
+ES,2019,F,Low back disorder or other chronic back defect,18.7
+FI,2014,F,Low back disorder or other chronic back defect,35.3
+FI,2019,F,Low back disorder or other chronic back defect,36.6
+FR,2014,F,Low back disorder or other chronic back defect,31.7
+FR,2019,F,Low back disorder or other chronic back defect,35.6
+HR,2014,F,Low back disorder or other chronic back defect,31.7
+HR,2019,F,Low back disorder or other chronic back defect,44.3
+HU,2014,F,Low back disorder or other chronic back defect,31.8
+HU,2019,F,Low back disorder or other chronic back defect,33.2
+IE,2014,F,Low back disorder or other chronic back defect,18.6
+IE,2019,F,Low back disorder or other chronic back defect,9.3
+IT,2014,F,Low back disorder or other chronic back defect,21.8
+IT,2019,F,Low back disorder or other chronic back defect,20.6
+LT,2014,F,Low back disorder or other chronic back defect,26.8
+LT,2019,F,Low back disorder or other chronic back defect,32.3
+LU,2014,F,Low back disorder or other chronic back defect,33.3
+LU,2019,F,Low back disorder or other chronic back defect,31.8
+LV,2014,F,Low back disorder or other chronic back defect,37.6
+LV,2019,F,Low back disorder or other chronic back defect,36.8
+MT,2014,F,Low back disorder or other chronic back defect,15.5
+MT,2019,F,Low back disorder or other chronic back defect,8.5
+NL,2014,F,Low back disorder or other chronic back defect,11.7
+NL,2019,F,Low back disorder or other chronic back defect,10.7
+PL,2014,F,Low back disorder or other chronic back defect,28.2
+PL,2019,F,Low back disorder or other chronic back defect,28.5
+PT,2014,F,Low back disorder or other chronic back defect,40.5
+PT,2019,F,Low back disorder or other chronic back defect,44.5
+RO,2014,F,Low back disorder or other chronic back defect,12.6
+RO,2019,F,Low back disorder or other chronic back defect,8.7
+SE,2014,F,Low back disorder or other chronic back defect,17.4
+SE,2019,F,Low back disorder or other chronic back defect,18.6
+SI,2014,F,Low back disorder or other chronic back defect,41.2
+SI,2019,F,Low back disorder or other chronic back defect,37.1
+SK,2014,F,Low back disorder or other chronic back defect,19.6
+SK,2019,F,Low back disorder or other chronic back defect,19.0
+AT,2014,M,Low back disorder or other chronic back defect,22.7
+AT,2019,M,Low back disorder or other chronic back defect,24.3
+BE,2014,M,Low back disorder or other chronic back defect,18.5
+BE,2019,M,Low back disorder or other chronic back defect,23.1
+BG,2014,M,Low back disorder or other chronic back defect,7.9
+BG,2019,M,Low back disorder or other chronic back defect,8.9
+CY,2014,M,Low back disorder or other chronic back defect,11.3
+CY,2019,M,Low back disorder or other chronic back defect,14.8
+CZ,2014,M,Low back disorder or other chronic back defect,16.9
+CZ,2019,M,Low back disorder or other chronic back defect,15.5
+DE,2014,M,Low back disorder or other chronic back defect,34.9
+DE,2019,M,Low back disorder or other chronic back defect,29.3
+DK,2014,M,Low back disorder or other chronic back defect,11.9
+DK,2019,M,Low back disorder or other chronic back defect,12.4
+EE,2014,M,Low back disorder or other chronic back defect,20.7
+EE,2019,M,Low back disorder or other chronic back defect,20.8
+EL,2014,M,Low back disorder or other chronic back defect,14.4
+EL,2019,M,Low back disorder or other chronic back defect,10.2
+ES,2014,M,Low back disorder or other chronic back defect,16.4
+ES,2019,M,Low back disorder or other chronic back defect,11.4
+FI,2014,M,Low back disorder or other chronic back defect,32.3
+FI,2019,M,Low back disorder or other chronic back defect,33.0
+FR,2014,M,Low back disorder or other chronic back defect,28.6
+FR,2019,M,Low back disorder or other chronic back defect,33.2
+HR,2014,M,Low back disorder or other chronic back defect,24.5
+HR,2019,M,Low back disorder or other chronic back defect,35.2
+HU,2014,M,Low back disorder or other chronic back defect,29.0
+HU,2019,M,Low back disorder or other chronic back defect,29.0
+IE,2014,M,Low back disorder or other chronic back defect,16.5
+IE,2019,M,Low back disorder or other chronic back defect,8.4
+IT,2014,M,Low back disorder or other chronic back defect,16.6
+IT,2019,M,Low back disorder or other chronic back defect,16.6
+LT,2014,M,Low back disorder or other chronic back defect,22.1
+LT,2019,M,Low back disorder or other chronic back defect,27.4
+LU,2014,M,Low back disorder or other chronic back defect,29.3
+LU,2019,M,Low back disorder or other chronic back defect,28.7
+LV,2014,M,Low back disorder or other chronic back defect,31.0
+LV,2019,M,Low back disorder or other chronic back defect,34.3
+MT,2014,M,Low back disorder or other chronic back defect,11.5
+MT,2019,M,Low back disorder or other chronic back defect,5.1
+NL,2014,M,Low back disorder or other chronic back defect,9.0
+NL,2019,M,Low back disorder or other chronic back defect,8.4
+PL,2014,M,Low back disorder or other chronic back defect,21.1
+PL,2019,M,Low back disorder or other chronic back defect,22.8
+PT,2014,M,Low back disorder or other chronic back defect,25.6
+PT,2019,M,Low back disorder or other chronic back defect,31.9
+RO,2014,M,Low back disorder or other chronic back defect,9.3
+RO,2019,M,Low back disorder or other chronic back defect,6.4
+SE,2014,M,Low back disorder or other chronic back defect,13.1
+SE,2019,M,Low back disorder or other chronic back defect,14.1
+SI,2014,M,Low back disorder or other chronic back defect,34.8
+SI,2019,M,Low back disorder or other chronic back defect,34.6
+SK,2014,M,Low back disorder or other chronic back defect,13.2
+SK,2019,M,Low back disorder or other chronic back defect,13.7
+AT,2014,F,Neck disorder or other chronic neck defect,23.0
+AT,2019,F,Neck disorder or other chronic neck defect,24.5
+BE,2014,F,Neck disorder or other chronic neck defect,14.4
+BE,2019,F,Neck disorder or other chronic neck defect,19.8
+BG,2014,F,Neck disorder or other chronic neck defect,6.8
+BG,2019,F,Neck disorder or other chronic neck defect,5.6
+CY,2014,F,Neck disorder or other chronic neck defect,11.8
+CY,2019,F,Neck disorder or other chronic neck defect,14.0
+CZ,2014,F,Neck disorder or other chronic neck defect,14.0
+CZ,2019,F,Neck disorder or other chronic neck defect,14.6
+DE,2014,F,Neck disorder or other chronic neck defect,40.6
+DE,2019,F,Neck disorder or other chronic neck defect,28.4
+DK,2014,F,Neck disorder or other chronic neck defect,8.8
+DK,2019,F,Neck disorder or other chronic neck defect,10.0
+EE,2014,F,Neck disorder or other chronic neck defect,11.5
+EE,2019,F,Neck disorder or other chronic neck defect,12.7
+EL,2014,F,Neck disorder or other chronic neck defect,14.2
+EL,2019,F,Neck disorder or other chronic neck defect,8.9
+ES,2014,F,Neck disorder or other chronic neck defect,23.2
+ES,2019,F,Neck disorder or other chronic neck defect,17.4
+FI,2014,F,Neck disorder or other chronic neck defect,42.0
+FI,2019,F,Neck disorder or other chronic neck defect,39.2
+FR,2014,F,Neck disorder or other chronic neck defect,20.3
+FR,2019,F,Neck disorder or other chronic neck defect,25.5
+HR,2014,F,Neck disorder or other chronic neck defect,26.6
+HR,2019,F,Neck disorder or other chronic neck defect,35.8
+HU,2014,F,Neck disorder or other chronic neck defect,17.1
+HU,2019,F,Neck disorder or other chronic neck defect,15.1
+IE,2014,F,Neck disorder or other chronic neck defect,9.1
+IE,2019,F,Neck disorder or other chronic neck defect,2.9
+IT,2014,F,Neck disorder or other chronic neck defect,22.5
+IT,2019,F,Neck disorder or other chronic neck defect,22.5
+LT,2014,F,Neck disorder or other chronic neck defect,13.3
+LT,2019,F,Neck disorder or other chronic neck defect,14.7
+LU,2014,F,Neck disorder or other chronic neck defect,18.0
+LU,2019,F,Neck disorder or other chronic neck defect,19.1
+LV,2014,F,Neck disorder or other chronic neck defect,27.9
+LV,2019,F,Neck disorder or other chronic neck defect,27.4
+MT,2014,F,Neck disorder or other chronic neck defect,8.1
+MT,2019,F,Neck disorder or other chronic neck defect,3.7
+NL,2014,F,Neck disorder or other chronic neck defect,12.3
+NL,2019,F,Neck disorder or other chronic neck defect,12.6
+PL,2014,F,Neck disorder or other chronic neck defect,20.9
+PL,2019,F,Neck disorder or other chronic neck defect,20.1
+PT,2014,F,Neck disorder or other chronic neck defect,32.4
+PT,2019,F,Neck disorder or other chronic neck defect,35.2
+RO,2014,F,Neck disorder or other chronic neck defect,8.3
+RO,2019,F,Neck disorder or other chronic neck defect,4.7
+SE,2014,F,Neck disorder or other chronic neck defect,17.2
+SE,2019,F,Neck disorder or other chronic neck defect,18.0
+SI,2014,F,Neck disorder or other chronic neck defect,28.0
+SI,2019,F,Neck disorder or other chronic neck defect,25.5
+SK,2014,F,Neck disorder or other chronic neck defect,17.4
+SK,2019,F,Neck disorder or other chronic neck defect,14.0
+AT,2014,M,Neck disorder or other chronic neck defect,13.6
+AT,2019,M,Neck disorder or other chronic neck defect,14.2
+BE,2014,M,Neck disorder or other chronic neck defect,9.1
+BE,2019,M,Neck disorder or other chronic neck defect,10.5
+BG,2014,M,Neck disorder or other chronic neck defect,3.6
+BG,2019,M,Neck disorder or other chronic neck defect,2.8
+CY,2014,M,Neck disorder or other chronic neck defect,5.0
+CY,2019,M,Neck disorder or other chronic neck defect,7.7
+CZ,2014,M,Neck disorder or other chronic neck defect,6.7
+CZ,2019,M,Neck disorder or other chronic neck defect,8.8
+DE,2014,M,Neck disorder or other chronic neck defect,25.8
+DE,2019,M,Neck disorder or other chronic neck defect,17.0
+DK,2014,M,Neck disorder or other chronic neck defect,5.6
+DK,2019,M,Neck disorder or other chronic neck defect,5.6
+EE,2014,M,Neck disorder or other chronic neck defect,5.9
+EE,2019,M,Neck disorder or other chronic neck defect,6.4
+EL,2014,M,Neck disorder or other chronic neck defect,6.4
+EL,2019,M,Neck disorder or other chronic neck defect,3.7
+ES,2014,M,Neck disorder or other chronic neck defect,11.5
+ES,2019,M,Neck disorder or other chronic neck defect,8.2
+FI,2014,M,Neck disorder or other chronic neck defect,26.8
+FI,2019,M,Neck disorder or other chronic neck defect,26.2
+FR,2014,M,Neck disorder or other chronic neck defect,11.9
+FR,2019,M,Neck disorder or other chronic neck defect,17.4
+HR,2014,M,Neck disorder or other chronic neck defect,17.2
+HR,2019,M,Neck disorder or other chronic neck defect,23.2
+HU,2014,M,Neck disorder or other chronic neck defect,11.0
+HU,2019,M,Neck disorder or other chronic neck defect,9.8
+IE,2014,M,Neck disorder or other chronic neck defect,7.2
+IE,2019,M,Neck disorder or other chronic neck defect,2.6
+IT,2014,M,Neck disorder or other chronic neck defect,13.2
+IT,2019,M,Neck disorder or other chronic neck defect,13.2
+LT,2014,M,Neck disorder or other chronic neck defect,6.2
+LT,2019,M,Neck disorder or other chronic neck defect,6.7
+LU,2014,M,Neck disorder or other chronic neck defect,13.2
+LU,2019,M,Neck disorder or other chronic neck defect,11.5
+LV,2014,M,Neck disorder or other chronic neck defect,15.2
+LV,2019,M,Neck disorder or other chronic neck defect,14.1
+MT,2014,M,Neck disorder or other chronic neck defect,4.4
+MT,2019,M,Neck disorder or other chronic neck defect,1.8
+NL,2014,M,Neck disorder or other chronic neck defect,8.0
+NL,2019,M,Neck disorder or other chronic neck defect,7.8
+PL,2014,M,Neck disorder or other chronic neck defect,13.0
+PL,2019,M,Neck disorder or other chronic neck defect,11.5
+PT,2014,M,Neck disorder or other chronic neck defect,15.8
+PT,2019,M,Neck disorder or other chronic neck defect,20.2
+RO,2014,M,Neck disorder or other chronic neck defect,4.0
+RO,2019,M,Neck disorder or other chronic neck defect,2.3
+SE,2014,M,Neck disorder or other chronic neck defect,12.1
+SE,2019,M,Neck disorder or other chronic neck defect,11.0
+SI,2014,M,Neck disorder or other chronic neck defect,17.8
+SI,2019,M,Neck disorder or other chronic neck defect,17.7
+SK,2014,M,Neck disorder or other chronic neck defect,8.3
+SK,2019,M,Neck disorder or other chronic neck defect,7.2
+AT,2014,F,Stroke or chronic consequences of stroke,0.9
+AT,2019,F,Stroke or chronic consequences of stroke,1.5
+BE,2014,F,Stroke or chronic consequences of stroke,1.0
+BE,2019,F,Stroke or chronic consequences of stroke,0.4
+BG,2014,F,Stroke or chronic consequences of stroke,2.6
+BG,2019,F,Stroke or chronic consequences of stroke,2.5
+CY,2014,F,Stroke or chronic consequences of stroke,1.4
+CY,2019,F,Stroke or chronic consequences of stroke,1.4
+CZ,2014,F,Stroke or chronic consequences of stroke,1.4
+CZ,2019,F,Stroke or chronic consequences of stroke,1.0
+DE,2014,F,Stroke or chronic consequences of stroke,1.5
+DE,2019,F,Stroke or chronic consequences of stroke,2.2
+DK,2014,F,Stroke or chronic consequences of stroke,1.0
+DK,2019,F,Stroke or chronic consequences of stroke,1.3
+EE,2014,F,Stroke or chronic consequences of stroke,0.6
+EE,2019,F,Stroke or chronic consequences of stroke,0.7
+EL,2014,F,Stroke or chronic consequences of stroke,2.1
+EL,2019,F,Stroke or chronic consequences of stroke,1.7
+ES,2014,F,Stroke or chronic consequences of stroke,0.7
+ES,2019,F,Stroke or chronic consequences of stroke,1.1
+FI,2014,F,Stroke or chronic consequences of stroke,1.0
+FI,2019,F,Stroke or chronic consequences of stroke,1.4
+FR,2014,F,Stroke or chronic consequences of stroke,0.8
+FR,2019,F,Stroke or chronic consequences of stroke,1.1
+HR,2014,F,Stroke or chronic consequences of stroke,2.5
+HR,2019,F,Stroke or chronic consequences of stroke,3.3
+HU,2014,F,Stroke or chronic consequences of stroke,2.0
+HU,2019,F,Stroke or chronic consequences of stroke,2.1
+IE,2014,F,Stroke or chronic consequences of stroke,0.6
+IE,2019,F,Stroke or chronic consequences of stroke,0.7
+IT,2014,F,Stroke or chronic consequences of stroke,1.5
+IT,2019,F,Stroke or chronic consequences of stroke,1.4
+LT,2014,F,Stroke or chronic consequences of stroke,2.6
+LT,2019,F,Stroke or chronic consequences of stroke,2.2
+LU,2014,F,Stroke or chronic consequences of stroke,0.7
+LU,2019,F,Stroke or chronic consequences of stroke,0.8
+LV,2014,F,Stroke or chronic consequences of stroke,1.1
+LV,2019,F,Stroke or chronic consequences of stroke,0.6
+MT,2014,F,Stroke or chronic consequences of stroke,0.4
+MT,2019,F,Stroke or chronic consequences of stroke,0.2
+NL,2014,F,Stroke or chronic consequences of stroke,0.4
+NL,2019,F,Stroke or chronic consequences of stroke,1.4
+PL,2014,F,Stroke or chronic consequences of stroke,1.8
+PL,2019,F,Stroke or chronic consequences of stroke,1.4
+PT,2014,F,Stroke or chronic consequences of stroke,2.0
+PT,2019,F,Stroke or chronic consequences of stroke,2.5
+RO,2014,F,Stroke or chronic consequences of stroke,1.4
+RO,2019,F,Stroke or chronic consequences of stroke,1.2
+SE,2014,F,Stroke or chronic consequences of stroke,1.2
+SE,2019,F,Stroke or chronic consequences of stroke,1.1
+SI,2014,F,Stroke or chronic consequences of stroke,1.1
+SI,2019,F,Stroke or chronic consequences of stroke,1.1
+SK,2014,F,Stroke or chronic consequences of stroke,1.7
+SK,2019,F,Stroke or chronic consequences of stroke,2.2
+AT,2014,M,Stroke or chronic consequences of stroke,0.8
+AT,2019,M,Stroke or chronic consequences of stroke,1.8
+BE,2014,M,Stroke or chronic consequences of stroke,1.1
+BE,2019,M,Stroke or chronic consequences of stroke,1.4
+BG,2014,M,Stroke or chronic consequences of stroke,2.9
+BG,2019,M,Stroke or chronic consequences of stroke,2.6
+CY,2014,M,Stroke or chronic consequences of stroke,1.5
+CY,2019,M,Stroke or chronic consequences of stroke,1.6
+CZ,2014,M,Stroke or chronic consequences of stroke,1.3
+CZ,2019,M,Stroke or chronic consequences of stroke,1.5
+DE,2014,M,Stroke or chronic consequences of stroke,1.4
+DE,2019,M,Stroke or chronic consequences of stroke,2.3
+DK,2014,M,Stroke or chronic consequences of stroke,1.3
+DK,2019,M,Stroke or chronic consequences of stroke,1.7
+EE,2014,M,Stroke or chronic consequences of stroke,0.9
+EE,2019,M,Stroke or chronic consequences of stroke,0.7
+EL,2014,M,Stroke or chronic consequences of stroke,2.2
+EL,2019,M,Stroke or chronic consequences of stroke,1.8
+ES,2014,M,Stroke or chronic consequences of stroke,1.1
+ES,2019,M,Stroke or chronic consequences of stroke,1.0
+FI,2014,M,Stroke or chronic consequences of stroke,2.0
+FI,2019,M,Stroke or chronic consequences of stroke,2.3
+FR,2014,M,Stroke or chronic consequences of stroke,1.1
+FR,2019,M,Stroke or chronic consequences of stroke,1.2
+HR,2014,M,Stroke or chronic consequences of stroke,2.1
+HR,2019,M,Stroke or chronic consequences of stroke,2.8
+HU,2014,M,Stroke or chronic consequences of stroke,2.8
+HU,2019,M,Stroke or chronic consequences of stroke,2.0
+IE,2014,M,Stroke or chronic consequences of stroke,0.9
+IE,2019,M,Stroke or chronic consequences of stroke,1.1
+IT,2014,M,Stroke or chronic consequences of stroke,1.5
+IT,2019,M,Stroke or chronic consequences of stroke,1.4
+LT,2014,M,Stroke or chronic consequences of stroke,2.5
+LT,2019,M,Stroke or chronic consequences of stroke,2.3
+LU,2014,M,Stroke or chronic consequences of stroke,1.9
+LU,2019,M,Stroke or chronic consequences of stroke,0.8
+LV,2014,M,Stroke or chronic consequences of stroke,1.0
+LV,2019,M,Stroke or chronic consequences of stroke,0.9
+MT,2014,M,Stroke or chronic consequences of stroke,0.4
+MT,2019,M,Stroke or chronic consequences of stroke,0.4
+NL,2014,M,Stroke or chronic consequences of stroke,0.3
+NL,2019,M,Stroke or chronic consequences of stroke,1.7
+PL,2014,M,Stroke or chronic consequences of stroke,2.2
+PL,2019,M,Stroke or chronic consequences of stroke,2.0
+PT,2014,M,Stroke or chronic consequences of stroke,2.0
+PT,2019,M,Stroke or chronic consequences of stroke,1.6
+RO,2014,M,Stroke or chronic consequences of stroke,1.2
+RO,2019,M,Stroke or chronic consequences of stroke,1.1
+SE,2014,M,Stroke or chronic consequences of stroke,1.1
+SE,2019,M,Stroke or chronic consequences of stroke,1.0
+SI,2014,M,Stroke or chronic consequences of stroke,1.9
+SI,2019,M,Stroke or chronic consequences of stroke,1.7
+SK,2014,M,Stroke or chronic consequences of stroke,2.0
+SK,2019,M,Stroke or chronic consequences of stroke,2.0
+AT,2014,F,"Urinary incontinence, problems in controlling the bladder",5.1
+AT,2019,F,"Urinary incontinence, problems in controlling the bladder",5.9
+BE,2014,F,"Urinary incontinence, problems in controlling the bladder",5.6
+BE,2019,F,"Urinary incontinence, problems in controlling the bladder",6.0
+BG,2014,F,"Urinary incontinence, problems in controlling the bladder",2.6
+BG,2019,F,"Urinary incontinence, problems in controlling the bladder",2.4
+CY,2014,F,"Urinary incontinence, problems in controlling the bladder",2.5
+CY,2019,F,"Urinary incontinence, problems in controlling the bladder",4.7
+CZ,2014,F,"Urinary incontinence, problems in controlling the bladder",5.8
+CZ,2019,F,"Urinary incontinence, problems in controlling the bladder",5.2
+DE,2014,F,"Urinary incontinence, problems in controlling the bladder",10.2
+DE,2019,F,"Urinary incontinence, problems in controlling the bladder",10.3
+DK,2014,F,"Urinary incontinence, problems in controlling the bladder",7.6
+DK,2019,F,"Urinary incontinence, problems in controlling the bladder",8.8
+EE,2014,F,"Urinary incontinence, problems in controlling the bladder",2.9
+EE,2019,F,"Urinary incontinence, problems in controlling the bladder",4.3
+EL,2014,F,"Urinary incontinence, problems in controlling the bladder",4.1
+EL,2019,F,"Urinary incontinence, problems in controlling the bladder",2.3
+ES,2014,F,"Urinary incontinence, problems in controlling the bladder",5.6
+ES,2019,F,"Urinary incontinence, problems in controlling the bladder",5.3
+FI,2014,F,"Urinary incontinence, problems in controlling the bladder",13.6
+FI,2019,F,"Urinary incontinence, problems in controlling the bladder",13.4
+FR,2014,F,"Urinary incontinence, problems in controlling the bladder",7.5
+FR,2019,F,"Urinary incontinence, problems in controlling the bladder",9.5
+HR,2014,F,"Urinary incontinence, problems in controlling the bladder",7.3
+HR,2019,F,"Urinary incontinence, problems in controlling the bladder",15.3
+HU,2014,F,"Urinary incontinence, problems in controlling the bladder",6.5
+HU,2019,F,"Urinary incontinence, problems in controlling the bladder",6.5
+IE,2014,F,"Urinary incontinence, problems in controlling the bladder",9.4
+IE,2019,F,"Urinary incontinence, problems in controlling the bladder",1.7
+IT,2014,F,"Urinary incontinence, problems in controlling the bladder",5.6
+IT,2019,F,"Urinary incontinence, problems in controlling the bladder",5.3
+LT,2014,F,"Urinary incontinence, problems in controlling the bladder",7.0
+LT,2019,F,"Urinary incontinence, problems in controlling the bladder",8.4
+LU,2014,F,"Urinary incontinence, problems in controlling the bladder",7.7
+LU,2019,F,"Urinary incontinence, problems in controlling the bladder",7.3
+LV,2014,F,"Urinary incontinence, problems in controlling the bladder",11.4
+LV,2019,F,"Urinary incontinence, problems in controlling the bladder",10.2
+MT,2014,F,"Urinary incontinence, problems in controlling the bladder",3.9
+MT,2019,F,"Urinary incontinence, problems in controlling the bladder",2.0
+NL,2014,F,"Urinary incontinence, problems in controlling the bladder",10.4
+NL,2019,F,"Urinary incontinence, problems in controlling the bladder",11.6
+PL,2014,F,"Urinary incontinence, problems in controlling the bladder",5.9
+PL,2019,F,"Urinary incontinence, problems in controlling the bladder",6.4
+PT,2014,F,"Urinary incontinence, problems in controlling the bladder",9.8
+PT,2019,F,"Urinary incontinence, problems in controlling the bladder",10.8
+RO,2014,F,"Urinary incontinence, problems in controlling the bladder",1.3
+RO,2019,F,"Urinary incontinence, problems in controlling the bladder",1.5
+SE,2014,F,"Urinary incontinence, problems in controlling the bladder",9.6
+SE,2019,F,"Urinary incontinence, problems in controlling the bladder",11.9
+SI,2014,F,"Urinary incontinence, problems in controlling the bladder",10.7
+SI,2019,F,"Urinary incontinence, problems in controlling the bladder",10.3
+SK,2014,F,"Urinary incontinence, problems in controlling the bladder",5.1
+SK,2019,F,"Urinary incontinence, problems in controlling the bladder",5.7
+AT,2014,M,"Urinary incontinence, problems in controlling the bladder",2.1
+AT,2019,M,"Urinary incontinence, problems in controlling the bladder",3.0
+BE,2014,M,"Urinary incontinence, problems in controlling the bladder",2.8
+BE,2019,M,"Urinary incontinence, problems in controlling the bladder",3.7
+BG,2014,M,"Urinary incontinence, problems in controlling the bladder",3.1
+BG,2019,M,"Urinary incontinence, problems in controlling the bladder",2.7
+CY,2014,M,"Urinary incontinence, problems in controlling the bladder",1.2
+CY,2019,M,"Urinary incontinence, problems in controlling the bladder",2.6
+CZ,2014,M,"Urinary incontinence, problems in controlling the bladder",3.8
+CZ,2019,M,"Urinary incontinence, problems in controlling the bladder",0.9
+DE,2014,M,"Urinary incontinence, problems in controlling the bladder",5.5
+DE,2019,M,"Urinary incontinence, problems in controlling the bladder",5.3
+DK,2014,M,"Urinary incontinence, problems in controlling the bladder",6.2
+DK,2019,M,"Urinary incontinence, problems in controlling the bladder",6.0
+EE,2014,M,"Urinary incontinence, problems in controlling the bladder",0.7
+EE,2019,M,"Urinary incontinence, problems in controlling the bladder",2.3
+EL,2014,M,"Urinary incontinence, problems in controlling the bladder",2.4
+EL,2019,M,"Urinary incontinence, problems in controlling the bladder",1.7
+ES,2014,M,"Urinary incontinence, problems in controlling the bladder",3.3
+ES,2019,M,"Urinary incontinence, problems in controlling the bladder",2.5
+FI,2014,M,"Urinary incontinence, problems in controlling the bladder",4.5
+FI,2019,M,"Urinary incontinence, problems in controlling the bladder",4.5
+FR,2014,M,"Urinary incontinence, problems in controlling the bladder",3.8
+FR,2019,M,"Urinary incontinence, problems in controlling the bladder",4.9
+HR,2014,M,"Urinary incontinence, problems in controlling the bladder",5.5
+HR,2019,M,"Urinary incontinence, problems in controlling the bladder",10.8
+HU,2014,M,"Urinary incontinence, problems in controlling the bladder",3.9
+HU,2019,M,"Urinary incontinence, problems in controlling the bladder",2.9
+IE,2014,M,"Urinary incontinence, problems in controlling the bladder",5.2
+IE,2019,M,"Urinary incontinence, problems in controlling the bladder",1.4
+IT,2014,M,"Urinary incontinence, problems in controlling the bladder",4.1
+IT,2019,M,"Urinary incontinence, problems in controlling the bladder",3.8
+LT,2014,M,"Urinary incontinence, problems in controlling the bladder",3.7
+LT,2019,M,"Urinary incontinence, problems in controlling the bladder",4.0
+LU,2014,M,"Urinary incontinence, problems in controlling the bladder",4.6
+LU,2019,M,"Urinary incontinence, problems in controlling the bladder",4.7
+LV,2014,M,"Urinary incontinence, problems in controlling the bladder",4.2
+LV,2019,M,"Urinary incontinence, problems in controlling the bladder",4.5
+MT,2014,M,"Urinary incontinence, problems in controlling the bladder",1.6
+MT,2019,M,"Urinary incontinence, problems in controlling the bladder",1.4
+NL,2014,M,"Urinary incontinence, problems in controlling the bladder",2.6
+NL,2019,M,"Urinary incontinence, problems in controlling the bladder",3.2
+PL,2014,M,"Urinary incontinence, problems in controlling the bladder",2.1
+PL,2019,M,"Urinary incontinence, problems in controlling the bladder",2.6
+PT,2014,M,"Urinary incontinence, problems in controlling the bladder",5.0
+PT,2019,M,"Urinary incontinence, problems in controlling the bladder",4.9
+RO,2014,M,"Urinary incontinence, problems in controlling the bladder",1.6
+RO,2019,M,"Urinary incontinence, problems in controlling the bladder",1.5
+SE,2014,M,"Urinary incontinence, problems in controlling the bladder",4.2
+SE,2019,M,"Urinary incontinence, problems in controlling the bladder",5.2
+SI,2014,M,"Urinary incontinence, problems in controlling the bladder",5.7
+SI,2019,M,"Urinary incontinence, problems in controlling the bladder",5.3
+SK,2014,M,"Urinary incontinence, problems in controlling the bladder",3.1
+SK,2019,M,"Urinary incontinence, problems in controlling the bladder",3.1

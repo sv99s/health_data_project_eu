@@ -1,0 +1,1673 @@
+country,year,sex,disease,prevalence
+Austria,2014,F,Allergia,25.9
+Austria,2019,F,Allergia,24.5
+Belgio,2014,F,Allergia,15.0
+Belgio,2019,F,Allergia,20.5
+Bulgaria,2014,F,Allergia,5.7
+Bulgaria,2019,F,Allergia,5.3
+Cipro,2014,F,Allergia,7.7
+Cipro,2019,F,Allergia,9.2
+Repubblica Ceca,2014,F,Allergia,14.2
+Repubblica Ceca,2019,F,Allergia,15.7
+Germania,2014,F,Allergia,32.5
+Germania,2019,F,Allergia,34.9
+Danimarca,2014,F,Allergia,17.6
+Danimarca,2019,F,Allergia,18.1
+Estonia,2014,F,Allergia,10.5
+Estonia,2019,F,Allergia,13.0
+Grecia,2014,F,Allergia,11.6
+Grecia,2019,F,Allergia,7.6
+Spagna,2014,F,Allergia,15.7
+Spagna,2019,F,Allergia,12.8
+Finlandia,2014,F,Allergia,37.1
+Finlandia,2019,F,Allergia,39.4
+Francia,2014,F,Allergia,16.3
+Francia,2019,F,Allergia,25.5
+Croazia,2014,F,Allergia,15.6
+Croazia,2019,F,Allergia,19.6
+Ungheria,2014,F,Allergia,15.8
+Ungheria,2019,F,Allergia,21.1
+Irlanda,2014,F,Allergia,15.6
+Irlanda,2019,F,Allergia,8.4
+Italia,2014,F,Allergia,16.2
+Italia,2019,F,Allergia,17.4
+Lituania,2014,F,Allergia,9.9
+Lituania,2019,F,Allergia,13.5
+Lussemburgo,2014,F,Allergia,27.2
+Lussemburgo,2019,F,Allergia,29.1
+Lettonia,2014,F,Allergia,14.5
+Lettonia,2019,F,Allergia,14.2
+Malta,2014,F,Allergia,17.4
+Malta,2019,F,Allergia,10.0
+Paesi Bassi,2014,F,Allergia,20.8
+Paesi Bassi,2019,F,Allergia,23.2
+Polonia,2014,F,Allergia,10.4
+Polonia,2019,F,Allergia,10.0
+Portogallo,2014,F,Allergia,23.3
+Portogallo,2019,F,Allergia,24.5
+Romania,2014,F,Allergia,1.8
+Romania,2019,F,Allergia,0.9
+Svezia,2014,F,Allergia,25.2
+Svezia,2019,F,Allergia,26.8
+Slovenia,2014,F,Allergia,20.1
+Slovenia,2019,F,Allergia,19.0
+Slovacchia,2014,F,Allergia,15.5
+Slovacchia,2019,F,Allergia,16.0
+Austria,2014,M,Allergia,21.2
+Austria,2019,M,Allergia,22.0
+Belgio,2014,M,Allergia,12.7
+Belgio,2019,M,Allergia,17.8
+Bulgaria,2014,M,Allergia,2.9
+Bulgaria,2019,M,Allergia,2.4
+Cipro,2014,M,Allergia,4.8
+Cipro,2019,M,Allergia,5.9
+Repubblica Ceca,2014,M,Allergia,9.3
+Repubblica Ceca,2019,M,Allergia,9.4
+Germania,2014,M,Allergia,25.8
+Germania,2019,M,Allergia,27.4
+Danimarca,2014,M,Allergia,14.7
+Danimarca,2019,M,Allergia,15.4
+Estonia,2014,M,Allergia,6.3
+Estonia,2019,M,Allergia,8.9
+Grecia,2014,M,Allergia,6.9
+Grecia,2019,M,Allergia,5.4
+Spagna,2014,M,Allergia,12.1
+Spagna,2019,M,Allergia,9.8
+Finlandia,2014,M,Allergia,26.6
+Finlandia,2019,M,Allergia,28.5
+Francia,2014,M,Allergia,11.5
+Francia,2019,M,Allergia,20.5
+Croazia,2014,M,Allergia,10.5
+Croazia,2019,M,Allergia,13.5
+Ungheria,2014,M,Allergia,13.5
+Ungheria,2019,M,Allergia,16.9
+Irlanda,2014,M,Allergia,9.7
+Irlanda,2019,M,Allergia,6.6
+Italia,2014,M,Allergia,14.0
+Italia,2019,M,Allergia,15.5
+Lituania,2014,M,Allergia,4.7
+Lituania,2019,M,Allergia,7.7
+Lussemburgo,2014,M,Allergia,21.5
+Lussemburgo,2019,M,Allergia,24.8
+Lettonia,2014,M,Allergia,7.6
+Lettonia,2019,M,Allergia,8.3
+Malta,2014,M,Allergia,13.8
+Malta,2019,M,Allergia,6.7
+Paesi Bassi,2014,M,Allergia,15.6
+Paesi Bassi,2019,M,Allergia,18.0
+Polonia,2014,M,Allergia,6.7
+Polonia,2019,M,Allergia,6.5
+Portogallo,2014,M,Allergia,14.6
+Portogallo,2019,M,Allergia,17.7
+Romania,2014,M,Allergia,0.9
+Romania,2019,M,Allergia,0.5
+Svezia,2014,M,Allergia,20.2
+Svezia,2019,M,Allergia,22.1
+Slovenia,2014,M,Allergia,13.5
+Slovenia,2019,M,Allergia,13.8
+Slovacchia,2014,M,Allergia,10.9
+Slovacchia,2019,M,Allergia,10.4
+Austria,2014,F,Artrosi,16.1
+Austria,2019,F,Artrosi,18.3
+Belgio,2014,F,Artrosi,22.1
+Belgio,2019,F,Artrosi,23.7
+Bulgaria,2014,F,Artrosi,10.2
+Bulgaria,2019,F,Artrosi,8.1
+Cipro,2014,F,Artrosi,6.4
+Cipro,2019,F,Artrosi,13.5
+Repubblica Ceca,2014,F,Artrosi,14.4
+Repubblica Ceca,2019,F,Artrosi,15.5
+Germania,2014,F,Artrosi,21.1
+Germania,2019,F,Artrosi,21.7
+Danimarca,2014,F,Artrosi,20.6
+Danimarca,2019,F,Artrosi,22.7
+Estonia,2014,F,Artrosi,3.3
+Estonia,2019,F,Artrosi,5.5
+Grecia,2014,F,Artrosi,10.0
+Grecia,2019,F,Artrosi,8.2
+Spagna,2014,F,Artrosi,25.4
+Spagna,2019,F,Artrosi,22.4
+Finlandia,2014,F,Artrosi,26.3
+Finlandia,2019,F,Artrosi,28.2
+Francia,2014,F,Artrosi,25.4
+Francia,2019,F,Artrosi,27.7
+Croazia,2014,F,Artrosi,7.9
+Croazia,2019,F,Artrosi,14.7
+Ungheria,2014,F,Artrosi,22.6
+Ungheria,2019,F,Artrosi,19.4
+Irlanda,2014,F,Artrosi,3.3
+Irlanda,2019,F,Artrosi,2.1
+Italia,2014,F,Artrosi,24.7
+Italia,2019,F,Artrosi,25.5
+Lituania,2014,F,Artrosi,11.0
+Lituania,2019,F,Artrosi,11.2
+Lussemburgo,2014,F,Artrosi,23.3
+Lussemburgo,2019,F,Artrosi,21.6
+Lettonia,2014,F,Artrosi,13.3
+Lettonia,2019,F,Artrosi,14.8
+Malta,2014,F,Artrosi,16.0
+Malta,2019,F,Artrosi,8.3
+Paesi Bassi,2014,F,Artrosi,18.6
+Paesi Bassi,2019,F,Artrosi,19.4
+Polonia,2014,F,Artrosi,19.3
+Polonia,2019,F,Artrosi,19.8
+Portogallo,2014,F,Artrosi,32.9
+Portogallo,2019,F,Artrosi,32.2
+Romania,2014,F,Artrosi,6.2
+Romania,2019,F,Artrosi,5.4
+Svezia,2014,F,Artrosi,16.4
+Svezia,2019,F,Artrosi,19.5
+Slovenia,2014,F,Artrosi,6.3
+Slovenia,2019,F,Artrosi,6.2
+Slovacchia,2014,F,Artrosi,15.0
+Slovacchia,2019,F,Artrosi,16.0
+Austria,2014,M,Artrosi,8.6
+Austria,2019,M,Artrosi,11.0
+Belgio,2014,M,Artrosi,12.4
+Belgio,2019,M,Artrosi,15.0
+Bulgaria,2014,M,Artrosi,4.5
+Bulgaria,2019,M,Artrosi,3.3
+Cipro,2014,M,Artrosi,3.0
+Cipro,2019,M,Artrosi,8.2
+Repubblica Ceca,2014,M,Artrosi,9.7
+Repubblica Ceca,2019,M,Artrosi,10.6
+Germania,2014,M,Artrosi,13.0
+Germania,2019,M,Artrosi,12.3
+Danimarca,2014,M,Artrosi,14.4
+Danimarca,2019,M,Artrosi,13.9
+Estonia,2014,M,Artrosi,1.4
+Estonia,2019,M,Artrosi,3.5
+Grecia,2014,M,Artrosi,3.6
+Grecia,2019,M,Artrosi,2.7
+Spagna,2014,M,Artrosi,12.2
+Spagna,2019,M,Artrosi,10.3
+Finlandia,2014,M,Artrosi,17.2
+Finlandia,2019,M,Artrosi,19.2
+Francia,2014,M,Artrosi,15.4
+Francia,2019,M,Artrosi,17.6
+Croazia,2014,M,Artrosi,3.5
+Croazia,2019,M,Artrosi,8.6
+Ungheria,2014,M,Artrosi,17.3
+Ungheria,2019,M,Artrosi,16.4
+Irlanda,2014,M,Artrosi,3.6
+Irlanda,2019,M,Artrosi,1.3
+Italia,2014,M,Artrosi,12.7
+Italia,2019,M,Artrosi,13.2
+Lituania,2014,M,Artrosi,3.8
+Lituania,2019,M,Artrosi,4.2
+Lussemburgo,2014,M,Artrosi,14.3
+Lussemburgo,2019,M,Artrosi,13.6
+Lettonia,2014,M,Artrosi,6.0
+Lettonia,2019,M,Artrosi,5.5
+Malta,2014,M,Artrosi,9.2
+Malta,2019,M,Artrosi,4.2
+Paesi Bassi,2014,M,Artrosi,12.1
+Paesi Bassi,2019,M,Artrosi,12.9
+Polonia,2014,M,Artrosi,10.2
+Polonia,2019,M,Artrosi,10.4
+Portogallo,2014,M,Artrosi,16.1
+Portogallo,2019,M,Artrosi,16.8
+Romania,2014,M,Artrosi,3.0
+Romania,2019,M,Artrosi,2.4
+Svezia,2014,M,Artrosi,8.8
+Svezia,2019,M,Artrosi,11.9
+Slovenia,2014,M,Artrosi,2.5
+Slovenia,2019,M,Artrosi,3.5
+Slovacchia,2014,M,Artrosi,7.9
+Slovacchia,2019,M,Artrosi,10.6
+Austria,2014,F,Asma,4.6
+Austria,2019,F,Asma,4.4
+Belgio,2014,F,Asma,4.1
+Belgio,2019,F,Asma,6.6
+Bulgaria,2014,F,Asma,3.3
+Bulgaria,2019,F,Asma,2.5
+Cipro,2014,F,Asma,5.2
+Cipro,2019,F,Asma,5.0
+Repubblica Ceca,2014,F,Asma,5.5
+Repubblica Ceca,2019,F,Asma,5.9
+Germania,2014,F,Asma,6.9
+Germania,2019,F,Asma,9.3
+Danimarca,2014,F,Asma,6.2
+Danimarca,2019,F,Asma,7.7
+Estonia,2014,F,Asma,2.9
+Estonia,2019,F,Asma,3.7
+Grecia,2014,F,Asma,5.2
+Grecia,2019,F,Asma,4.3
+Spagna,2014,F,Asma,5.0
+Spagna,2019,F,Asma,4.7
+Finlandia,2014,F,Asma,11.3
+Finlandia,2019,F,Asma,11.5
+Francia,2014,F,Asma,9.4
+Francia,2019,F,Asma,8.4
+Croazia,2014,F,Asma,2.9
+Croazia,2019,F,Asma,5.2
+Ungheria,2014,F,Asma,5.7
+Ungheria,2019,F,Asma,5.8
+Irlanda,2014,F,Asma,10.1
+Irlanda,2019,F,Asma,7.0
+Italia,2014,F,Asma,5.0
+Italia,2019,F,Asma,4.7
+Lituania,2014,F,Asma,3.0
+Lituania,2019,F,Asma,3.8
+Lussemburgo,2014,F,Asma,7.0
+Lussemburgo,2019,F,Asma,6.9
+Lettonia,2014,F,Asma,3.9
+Lettonia,2019,F,Asma,4.1
+Malta,2014,F,Asma,6.9
+Malta,2019,F,Asma,6.9
+Paesi Bassi,2014,F,Asma,6.2
+Paesi Bassi,2019,F,Asma,7.2
+Polonia,2014,F,Asma,4.6
+Polonia,2019,F,Asma,4.7
+Portogallo,2014,F,Asma,6.1
+Portogallo,2019,F,Asma,7.1
+Romania,2014,F,Asma,2.1
+Romania,2019,F,Asma,1.7
+Svezia,2014,F,Asma,9.4
+Svezia,2019,F,Asma,9.1
+Slovenia,2014,F,Asma,5.5
+Slovenia,2019,F,Asma,4.9
+Slovacchia,2014,F,Asma,4.8
+Slovacchia,2019,F,Asma,5.3
+Austria,2014,M,Asma,3.9
+Austria,2019,M,Asma,3.9
+Belgio,2014,M,Asma,4.3
+Belgio,2019,M,Asma,5.2
+Bulgaria,2014,M,Asma,2.1
+Bulgaria,2019,M,Asma,1.9
+Cipro,2014,M,Asma,4.0
+Cipro,2019,M,Asma,3.3
+Repubblica Ceca,2014,M,Asma,3.6
+Repubblica Ceca,2019,M,Asma,3.3
+Germania,2014,M,Asma,5.4
+Germania,2019,M,Asma,7.0
+Danimarca,2014,M,Asma,6.6
+Danimarca,2019,M,Asma,6.6
+Estonia,2014,M,Asma,2.2
+Estonia,2019,M,Asma,3.7
+Grecia,2014,M,Asma,3.6
+Grecia,2019,M,Asma,2.3
+Spagna,2014,M,Asma,4.4
+Spagna,2019,M,Asma,3.6
+Finlandia,2014,M,Asma,7.4
+Finlandia,2019,M,Asma,7.6
+Francia,2014,M,Asma,8.1
+Francia,2019,M,Asma,6.9
+Croazia,2014,M,Asma,3.0
+Croazia,2019,M,Asma,4.3
+Ungheria,2014,M,Asma,4.1
+Ungheria,2019,M,Asma,3.9
+Irlanda,2014,M,Asma,8.8
+Irlanda,2019,M,Asma,8.7
+Italia,2014,M,Asma,4.9
+Italia,2019,M,Asma,4.6
+Lituania,2014,M,Asma,2.3
+Lituania,2019,M,Asma,1.6
+Lussemburgo,2014,M,Asma,6.0
+Lussemburgo,2019,M,Asma,5.7
+Lettonia,2014,M,Asma,2.4
+Lettonia,2019,M,Asma,3.2
+Malta,2014,M,Asma,4.8
+Malta,2019,M,Asma,5.2
+Paesi Bassi,2014,M,Asma,4.3
+Paesi Bassi,2019,M,Asma,5.1
+Polonia,2014,M,Asma,3.5
+Polonia,2019,M,Asma,3.4
+Portogallo,2014,M,Asma,4.2
+Portogallo,2019,M,Asma,5.5
+Romania,2014,M,Asma,1.8
+Romania,2019,M,Asma,1.2
+Svezia,2014,M,Asma,6.2
+Svezia,2019,M,Asma,6.1
+Slovenia,2014,M,Asma,4.7
+Slovenia,2019,M,Asma,4.7
+Slovacchia,2014,M,Asma,2.7
+Slovacchia,2019,M,Asma,2.7
+Austria,2014,F,Cardiopatia coronarica o angina pectoris,2.5
+Austria,2019,F,Cardiopatia coronarica o angina pectoris,3.1
+Belgio,2014,F,Cardiopatia coronarica o angina pectoris,1.3
+Belgio,2019,F,Cardiopatia coronarica o angina pectoris,1.3
+Bulgaria,2014,F,Cardiopatia coronarica o angina pectoris,10.3
+Bulgaria,2019,F,Cardiopatia coronarica o angina pectoris,8.1
+Cipro,2014,F,Cardiopatia coronarica o angina pectoris,1.1
+Cipro,2019,F,Cardiopatia coronarica o angina pectoris,1.6
+Repubblica Ceca,2014,F,Cardiopatia coronarica o angina pectoris,4.2
+Repubblica Ceca,2019,F,Cardiopatia coronarica o angina pectoris,2.8
+Germania,2014,F,Cardiopatia coronarica o angina pectoris,3.1
+Germania,2019,F,Cardiopatia coronarica o angina pectoris,4.4
+Danimarca,2014,F,Cardiopatia coronarica o angina pectoris,1.7
+Danimarca,2019,F,Cardiopatia coronarica o angina pectoris,1.4
+Estonia,2014,F,Cardiopatia coronarica o angina pectoris,5.1
+Estonia,2019,F,Cardiopatia coronarica o angina pectoris,4.3
+Grecia,2014,F,Cardiopatia coronarica o angina pectoris,2.9
+Grecia,2019,F,Cardiopatia coronarica o angina pectoris,2.3
+Spagna,2014,F,Cardiopatia coronarica o angina pectoris,0.8
+Spagna,2019,F,Cardiopatia coronarica o angina pectoris,0.7
+Finlandia,2014,F,Cardiopatia coronarica o angina pectoris,4.8
+Finlandia,2019,F,Cardiopatia coronarica o angina pectoris,4.1
+Francia,2014,F,Cardiopatia coronarica o angina pectoris,1.2
+Francia,2019,F,Cardiopatia coronarica o angina pectoris,1.2
+Croazia,2014,F,Cardiopatia coronarica o angina pectoris,5.8
+Croazia,2019,F,Cardiopatia coronarica o angina pectoris,8.8
+Ungheria,2014,F,Cardiopatia coronarica o angina pectoris,5.2
+Ungheria,2019,F,Cardiopatia coronarica o angina pectoris,3.8
+Irlanda,2014,F,Cardiopatia coronarica o angina pectoris,2.4
+Irlanda,2019,F,Cardiopatia coronarica o angina pectoris,1.5
+Italia,2014,F,Cardiopatia coronarica o angina pectoris,2.4
+Italia,2019,F,Cardiopatia coronarica o angina pectoris,1.9
+Lituania,2014,F,Cardiopatia coronarica o angina pectoris,8.6
+Lituania,2019,F,Cardiopatia coronarica o angina pectoris,7.2
+Lussemburgo,2014,F,Cardiopatia coronarica o angina pectoris,2.1
+Lussemburgo,2019,F,Cardiopatia coronarica o angina pectoris,1.3
+Lettonia,2014,F,Cardiopatia coronarica o angina pectoris,6.7
+Lettonia,2019,F,Cardiopatia coronarica o angina pectoris,6.3
+Malta,2014,F,Cardiopatia coronarica o angina pectoris,2.5
+Malta,2019,F,Cardiopatia coronarica o angina pectoris,1.9
+Paesi Bassi,2014,F,Cardiopatia coronarica o angina pectoris,1.6
+Paesi Bassi,2019,F,Cardiopatia coronarica o angina pectoris,2.8
+Polonia,2014,F,Cardiopatia coronarica o angina pectoris,9.6
+Polonia,2019,F,Cardiopatia coronarica o angina pectoris,7.9
+Portogallo,2014,F,Cardiopatia coronarica o angina pectoris,5.6
+Portogallo,2019,F,Cardiopatia coronarica o angina pectoris,4.6
+Romania,2014,F,Cardiopatia coronarica o angina pectoris,4.1
+Romania,2019,F,Cardiopatia coronarica o angina pectoris,1.8
+Svezia,2014,F,Cardiopatia coronarica o angina pectoris,1.3
+Svezia,2019,F,Cardiopatia coronarica o angina pectoris,1.0
+Slovenia,2014,F,Cardiopatia coronarica o angina pectoris,3.4
+Slovenia,2019,F,Cardiopatia coronarica o angina pectoris,3.5
+Slovacchia,2014,F,Cardiopatia coronarica o angina pectoris,6.4
+Slovacchia,2019,F,Cardiopatia coronarica o angina pectoris,7.2
+Austria,2014,M,Cardiopatia coronarica o angina pectoris,2.2
+Austria,2019,M,Cardiopatia coronarica o angina pectoris,3.8
+Belgio,2014,M,Cardiopatia coronarica o angina pectoris,1.5
+Belgio,2019,M,Cardiopatia coronarica o angina pectoris,1.7
+Bulgaria,2014,M,Cardiopatia coronarica o angina pectoris,7.9
+Bulgaria,2019,M,Cardiopatia coronarica o angina pectoris,5.8
+Cipro,2014,M,Cardiopatia coronarica o angina pectoris,2.8
+Cipro,2019,M,Cardiopatia coronarica o angina pectoris,3.2
+Repubblica Ceca,2014,M,Cardiopatia coronarica o angina pectoris,4.4
+Repubblica Ceca,2019,M,Cardiopatia coronarica o angina pectoris,2.6
+Germania,2014,M,Cardiopatia coronarica o angina pectoris,4.6
+Germania,2019,M,Cardiopatia coronarica o angina pectoris,4.8
+Danimarca,2014,M,Cardiopatia coronarica o angina pectoris,2.2
+Danimarca,2019,M,Cardiopatia coronarica o angina pectoris,1.4
+Estonia,2014,M,Cardiopatia coronarica o angina pectoris,3.8
+Estonia,2019,M,Cardiopatia coronarica o angina pectoris,3.1
+Grecia,2014,M,Cardiopatia coronarica o angina pectoris,4.0
+Grecia,2019,M,Cardiopatia coronarica o angina pectoris,3.8
+Spagna,2014,M,Cardiopatia coronarica o angina pectoris,1.0
+Spagna,2019,M,Cardiopatia coronarica o angina pectoris,0.9
+Finlandia,2014,M,Cardiopatia coronarica o angina pectoris,5.3
+Finlandia,2019,M,Cardiopatia coronarica o angina pectoris,5.9
+Francia,2014,M,Cardiopatia coronarica o angina pectoris,2.6
+Francia,2019,M,Cardiopatia coronarica o angina pectoris,2.8
+Croazia,2014,M,Cardiopatia coronarica o angina pectoris,4.2
+Croazia,2019,M,Cardiopatia coronarica o angina pectoris,8.3
+Ungheria,2014,M,Cardiopatia coronarica o angina pectoris,4.6
+Ungheria,2019,M,Cardiopatia coronarica o angina pectoris,3.5
+Irlanda,2014,M,Cardiopatia coronarica o angina pectoris,3.5
+Irlanda,2019,M,Cardiopatia coronarica o angina pectoris,3.0
+Italia,2014,M,Cardiopatia coronarica o angina pectoris,2.9
+Italia,2019,M,Cardiopatia coronarica o angina pectoris,2.6
+Lituania,2014,M,Cardiopatia coronarica o angina pectoris,5.6
+Lituania,2019,M,Cardiopatia coronarica o angina pectoris,4.4
+Lussemburgo,2014,M,Cardiopatia coronarica o angina pectoris,3.8
+Lussemburgo,2019,M,Cardiopatia coronarica o angina pectoris,2.7
+Lettonia,2014,M,Cardiopatia coronarica o angina pectoris,4.4
+Lettonia,2019,M,Cardiopatia coronarica o angina pectoris,4.1
+Malta,2014,M,Cardiopatia coronarica o angina pectoris,2.7
+Malta,2019,M,Cardiopatia coronarica o angina pectoris,3.2
+Paesi Bassi,2014,M,Cardiopatia coronarica o angina pectoris,2.4
+Paesi Bassi,2019,M,Cardiopatia coronarica o angina pectoris,2.4
+Polonia,2014,M,Cardiopatia coronarica o angina pectoris,7.9
+Polonia,2019,M,Cardiopatia coronarica o angina pectoris,6.9
+Portogallo,2014,M,Cardiopatia coronarica o angina pectoris,3.3
+Portogallo,2019,M,Cardiopatia coronarica o angina pectoris,4.0
+Romania,2014,M,Cardiopatia coronarica o angina pectoris,2.7
+Romania,2019,M,Cardiopatia coronarica o angina pectoris,1.1
+Svezia,2014,M,Cardiopatia coronarica o angina pectoris,1.3
+Svezia,2019,M,Cardiopatia coronarica o angina pectoris,1.4
+Slovenia,2014,M,Cardiopatia coronarica o angina pectoris,3.2
+Slovenia,2019,M,Cardiopatia coronarica o angina pectoris,3.0
+Slovacchia,2014,M,Cardiopatia coronarica o angina pectoris,5.4
+Slovacchia,2019,M,Cardiopatia coronarica o angina pectoris,4.8
+Austria,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.6
+Austria,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.7
+Belgio,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.6
+Belgio,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.5
+Bulgaria,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),5.1
+Bulgaria,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.4
+Cipro,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.9
+Cipro,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.7
+Repubblica Ceca,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.0
+Repubblica Ceca,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.2
+Germania,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),5.2
+Germania,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),6.4
+Danimarca,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.0
+Danimarca,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.4
+Estonia,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),1.9
+Estonia,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),1.9
+Grecia,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.9
+Grecia,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),1.9
+Spagna,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.3
+Spagna,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.0
+Finlandia,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.9
+Finlandia,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.8
+Francia,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),6.4
+Francia,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),6.5
+Croazia,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.0
+Croazia,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),6.2
+Ungheria,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),5.2
+Ungheria,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.4
+Irlanda,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.9
+Irlanda,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.4
+Italia,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),5.6
+Italia,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.9
+Lituania,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),7.0
+Lituania,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),7.1
+Lussemburgo,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.8
+Lussemburgo,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),6.0
+Lettonia,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.5
+Lettonia,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.9
+Malta,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),1.5
+Malta,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),0.5
+Paesi Bassi,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),6.2
+Paesi Bassi,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),5.6
+Polonia,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.4
+Polonia,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.1
+Portogallo,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),6.9
+Portogallo,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),6.5
+Romania,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),1.7
+Romania,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),1.0
+Svezia,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),1.6
+Svezia,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.0
+Slovenia,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.0
+Slovenia,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.4
+Slovacchia,2014,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.0
+Slovacchia,2019,F,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.2
+Austria,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.3
+Austria,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.4
+Belgio,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.4
+Belgio,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.6
+Bulgaria,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.1
+Bulgaria,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.9
+Cipro,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),1.9
+Cipro,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.3
+Repubblica Ceca,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.3
+Repubblica Ceca,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.1
+Germania,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),5.1
+Germania,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),5.5
+Danimarca,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.8
+Danimarca,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.5
+Estonia,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),1.8
+Estonia,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.0
+Grecia,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.8
+Grecia,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.0
+Spagna,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.9
+Spagna,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.9
+Finlandia,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.3
+Finlandia,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.1
+Francia,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),5.0
+Francia,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),6.2
+Croazia,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.1
+Croazia,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.2
+Ungheria,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.0
+Ungheria,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.6
+Irlanda,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.2
+Irlanda,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.1
+Italia,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),5.2
+Italia,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.2
+Lituania,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.5
+Lituania,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),5.2
+Lussemburgo,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),5.5
+Lussemburgo,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.6
+Lettonia,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.6
+Lettonia,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.8
+Malta,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),0.8
+Malta,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),0.7
+Paesi Bassi,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),5.0
+Paesi Bassi,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.6
+Polonia,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.7
+Polonia,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.2
+Portogallo,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.8
+Portogallo,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),4.8
+Romania,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.3
+Romania,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),1.4
+Svezia,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),1.2
+Svezia,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),1.4
+Slovenia,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.7
+Slovenia,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),3.3
+Slovacchia,2014,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.3
+Slovacchia,2019,M,Malattie croniche delle vie respiratorie inferiori (escl. asma),2.5
+Austria,2014,F,Cirrosi epatica,0.2
+Austria,2019,F,Cirrosi epatica,0.2
+Belgio,2014,F,Cirrosi epatica,0.5
+Belgio,2019,F,Cirrosi epatica,1.3
+Bulgaria,2014,F,Cirrosi epatica,0.3
+Bulgaria,2019,F,Cirrosi epatica,0.3
+Cipro,2014,F,Cirrosi epatica,0.2
+Cipro,2019,F,Cirrosi epatica,0.1
+Repubblica Ceca,2014,F,Cirrosi epatica,0.2
+Repubblica Ceca,2019,F,Cirrosi epatica,0.3
+Germania,2014,F,Cirrosi epatica,0.2
+Germania,2019,F,Cirrosi epatica,0.3
+Danimarca,2014,F,Cirrosi epatica,0.2
+Danimarca,2019,F,Cirrosi epatica,0.2
+Estonia,2014,F,Cirrosi epatica,0.2
+Estonia,2019,F,Cirrosi epatica,0.4
+Grecia,2014,F,Cirrosi epatica,0.3
+Grecia,2019,F,Cirrosi epatica,0.3
+Spagna,2014,F,Cirrosi epatica,0.7
+Spagna,2019,F,Cirrosi epatica,0.7
+Finlandia,2014,F,Cirrosi epatica,0.2
+Finlandia,2019,F,Cirrosi epatica,0.3
+Francia,2014,F,Cirrosi epatica,0.1
+Francia,2019,F,Cirrosi epatica,0.2
+Croazia,2014,F,Cirrosi epatica,0.4
+Croazia,2019,F,Cirrosi epatica,0.5
+Ungheria,2014,F,Cirrosi epatica,0.4
+Ungheria,2019,F,Cirrosi epatica,0.6
+Irlanda,2014,F,Cirrosi epatica,0.1
+Irlanda,2019,F,Cirrosi epatica,0.2
+Italia,2014,F,Cirrosi epatica,0.3
+Italia,2019,F,Cirrosi epatica,0.2
+Lituania,2014,F,Cirrosi epatica,0.4
+Lituania,2019,F,Cirrosi epatica,0.6
+Lussemburgo,2014,F,Cirrosi epatica,0.2
+Lussemburgo,2019,F,Cirrosi epatica,0.1
+Lettonia,2014,F,Cirrosi epatica,0.4
+Lettonia,2019,F,Cirrosi epatica,0.2
+Malta,2014,F,Cirrosi epatica,0.4
+Malta,2019,F,Cirrosi epatica,0.4
+Paesi Bassi,2014,F,Cirrosi epatica,0.3
+Paesi Bassi,2019,F,Cirrosi epatica,0.2
+Polonia,2014,F,Cirrosi epatica,0.5
+Polonia,2019,F,Cirrosi epatica,0.4
+Portogallo,2014,F,Cirrosi epatica,0.5
+Portogallo,2019,F,Cirrosi epatica,0.4
+Romania,2014,F,Cirrosi epatica,0.4
+Romania,2019,F,Cirrosi epatica,0.2
+Svezia,2014,F,Cirrosi epatica,0.0
+Svezia,2019,F,Cirrosi epatica,0.1
+Slovenia,2014,F,Cirrosi epatica,0.2
+Slovenia,2019,F,Cirrosi epatica,0.4
+Slovacchia,2014,F,Cirrosi epatica,0.6
+Slovacchia,2019,F,Cirrosi epatica,0.7
+Austria,2014,M,Cirrosi epatica,0.3
+Austria,2019,M,Cirrosi epatica,0.2
+Belgio,2014,M,Cirrosi epatica,0.5
+Belgio,2019,M,Cirrosi epatica,0.6
+Bulgaria,2014,M,Cirrosi epatica,0.4
+Bulgaria,2019,M,Cirrosi epatica,0.4
+Cipro,2014,M,Cirrosi epatica,0.5
+Cipro,2019,M,Cirrosi epatica,0.4
+Repubblica Ceca,2014,M,Cirrosi epatica,0.2
+Repubblica Ceca,2019,M,Cirrosi epatica,0.5
+Germania,2014,M,Cirrosi epatica,0.3
+Germania,2019,M,Cirrosi epatica,0.5
+Danimarca,2014,M,Cirrosi epatica,0.2
+Danimarca,2019,M,Cirrosi epatica,0.3
+Estonia,2014,M,Cirrosi epatica,0.3
+Estonia,2019,M,Cirrosi epatica,0.4
+Grecia,2014,M,Cirrosi epatica,0.2
+Grecia,2019,M,Cirrosi epatica,0.5
+Spagna,2014,M,Cirrosi epatica,0.8
+Spagna,2019,M,Cirrosi epatica,0.7
+Finlandia,2014,M,Cirrosi epatica,0.3
+Finlandia,2019,M,Cirrosi epatica,0.4
+Francia,2014,M,Cirrosi epatica,0.1
+Francia,2019,M,Cirrosi epatica,0.3
+Croazia,2014,M,Cirrosi epatica,0.7
+Croazia,2019,M,Cirrosi epatica,1.3
+Ungheria,2014,M,Cirrosi epatica,0.6
+Ungheria,2019,M,Cirrosi epatica,0.5
+Irlanda,2014,M,Cirrosi epatica,0.5
+Irlanda,2019,M,Cirrosi epatica,0.4
+Italia,2014,M,Cirrosi epatica,0.3
+Italia,2019,M,Cirrosi epatica,0.3
+Lituania,2014,M,Cirrosi epatica,0.5
+Lituania,2019,M,Cirrosi epatica,0.4
+Lussemburgo,2014,M,Cirrosi epatica,0.2
+Lussemburgo,2019,M,Cirrosi epatica,0.3
+Lettonia,2014,M,Cirrosi epatica,0.7
+Lettonia,2019,M,Cirrosi epatica,0.2
+Malta,2014,M,Cirrosi epatica,0.4
+Malta,2019,M,Cirrosi epatica,0.2
+Paesi Bassi,2014,M,Cirrosi epatica,0.2
+Paesi Bassi,2019,M,Cirrosi epatica,0.2
+Polonia,2014,M,Cirrosi epatica,0.7
+Polonia,2019,M,Cirrosi epatica,0.5
+Portogallo,2014,M,Cirrosi epatica,0.9
+Portogallo,2019,M,Cirrosi epatica,0.5
+Romania,2014,M,Cirrosi epatica,0.6
+Romania,2019,M,Cirrosi epatica,0.3
+Svezia,2014,M,Cirrosi epatica,0.3
+Svezia,2019,M,Cirrosi epatica,0.2
+Slovenia,2014,M,Cirrosi epatica,1.0
+Slovenia,2019,M,Cirrosi epatica,0.6
+Slovacchia,2014,M,Cirrosi epatica,0.6
+Slovacchia,2019,M,Cirrosi epatica,0.7
+Austria,2014,F,Diabete,4.5
+Austria,2019,F,Diabete,5.4
+Belgio,2014,F,Diabete,5.3
+Belgio,2019,F,Diabete,5.1
+Bulgaria,2014,F,Diabete,7.2
+Bulgaria,2019,F,Diabete,7.2
+Cipro,2014,F,Diabete,6.2
+Cipro,2019,F,Diabete,7.2
+Repubblica Ceca,2014,F,Diabete,8.0
+Repubblica Ceca,2019,F,Diabete,8.5
+Germania,2014,F,Diabete,6.4
+Germania,2019,F,Diabete,8.3
+Danimarca,2014,F,Diabete,4.0
+Danimarca,2019,F,Diabete,4.7
+Estonia,2014,F,Diabete,4.8
+Estonia,2019,F,Diabete,5.7
+Grecia,2014,F,Diabete,10.1
+Grecia,2019,F,Diabete,8.1
+Spagna,2014,F,Diabete,6.8
+Spagna,2019,F,Diabete,7.4
+Finlandia,2014,F,Diabete,6.5
+Finlandia,2019,F,Diabete,8.2
+Francia,2014,F,Diabete,10.3
+Francia,2019,F,Diabete,5.6
+Croazia,2014,F,Diabete,7.1
+Croazia,2019,F,Diabete,11.1
+Ungheria,2014,F,Diabete,8.1
+Ungheria,2019,F,Diabete,8.8
+Irlanda,2014,F,Diabete,3.7
+Irlanda,2019,F,Diabete,3.3
+Italia,2014,F,Diabete,6.8
+Italia,2019,F,Diabete,6.4
+Lituania,2014,F,Diabete,5.3
+Lituania,2019,F,Diabete,5.4
+Lussemburgo,2014,F,Diabete,4.1
+Lussemburgo,2019,F,Diabete,3.2
+Lettonia,2014,F,Diabete,4.5
+Lettonia,2019,F,Diabete,5.8
+Malta,2014,F,Diabete,7.8
+Malta,2019,F,Diabete,6.8
+Paesi Bassi,2014,F,Diabete,4.6
+Paesi Bassi,2019,F,Diabete,4.6
+Polonia,2014,F,Diabete,6.7
+Polonia,2019,F,Diabete,8.9
+Portogallo,2014,F,Diabete,9.7
+Portogallo,2019,F,Diabete,10.5
+Romania,2014,F,Diabete,5.7
+Romania,2019,F,Diabete,5.9
+Svezia,2014,F,Diabete,4.0
+Svezia,2019,F,Diabete,5.4
+Slovenia,2014,F,Diabete,6.3
+Slovenia,2019,F,Diabete,7.2
+Slovacchia,2014,F,Diabete,7.2
+Slovacchia,2019,F,Diabete,7.6
+Austria,2014,M,Diabete,5.6
+Austria,2019,M,Diabete,6.3
+Belgio,2014,M,Diabete,5.1
+Belgio,2019,M,Diabete,5.8
+Bulgaria,2014,M,Diabete,5.4
+Bulgaria,2019,M,Diabete,6.5
+Cipro,2014,M,Diabete,7.4
+Cipro,2019,M,Diabete,8.4
+Repubblica Ceca,2014,M,Diabete,7.2
+Repubblica Ceca,2019,M,Diabete,9.3
+Germania,2014,M,Diabete,7.7
+Germania,2019,M,Diabete,9.8
+Danimarca,2014,M,Diabete,5.5
+Danimarca,2019,M,Diabete,5.9
+Estonia,2014,M,Diabete,4.4
+Estonia,2019,M,Diabete,3.8
+Grecia,2014,M,Diabete,8.9
+Grecia,2019,M,Diabete,8.4
+Spagna,2014,M,Diabete,7.9
+Spagna,2019,M,Diabete,8.7
+Finlandia,2014,M,Diabete,9.4
+Finlandia,2019,M,Diabete,11.5
+Francia,2014,M,Diabete,9.4
+Francia,2019,M,Diabete,7.5
+Croazia,2014,M,Diabete,6.8
+Croazia,2019,M,Diabete,12.2
+Ungheria,2014,M,Diabete,8.0
+Ungheria,2019,M,Diabete,8.9
+Irlanda,2014,M,Diabete,5.5
+Irlanda,2019,M,Diabete,4.1
+Italia,2014,M,Diabete,7.0
+Italia,2019,M,Diabete,7.3
+Lituania,2014,M,Diabete,3.0
+Lituania,2019,M,Diabete,3.9
+Lussemburgo,2014,M,Diabete,7.1
+Lussemburgo,2019,M,Diabete,6.2
+Lettonia,2014,M,Diabete,2.8
+Lettonia,2019,M,Diabete,3.8
+Malta,2014,M,Diabete,9.1
+Malta,2019,M,Diabete,8.9
+Paesi Bassi,2014,M,Diabete,5.7
+Paesi Bassi,2019,M,Diabete,6.2
+Polonia,2014,M,Diabete,6.3
+Polonia,2019,M,Diabete,7.2
+Portogallo,2014,M,Diabete,9.8
+Portogallo,2019,M,Diabete,10.6
+Romania,2014,M,Diabete,3.8
+Romania,2019,M,Diabete,4.0
+Svezia,2014,M,Diabete,5.2
+Svezia,2019,M,Diabete,7.1
+Slovenia,2014,M,Diabete,7.0
+Slovenia,2019,M,Diabete,7.5
+Slovacchia,2014,M,Diabete,6.2
+Slovacchia,2019,M,Diabete,7.5
+Austria,2014,F,Depressione cronica,8.6
+Austria,2019,F,Depressione cronica,8.7
+Belgio,2014,F,Depressione cronica,8.3
+Belgio,2019,F,Depressione cronica,9.2
+Bulgaria,2014,F,Depressione cronica,4.3
+Bulgaria,2019,F,Depressione cronica,3.4
+Cipro,2014,F,Depressione cronica,5.6
+Cipro,2019,F,Depressione cronica,6.3
+Repubblica Ceca,2014,F,Depressione cronica,4.7
+Repubblica Ceca,2019,F,Depressione cronica,5.4
+Germania,2014,F,Depressione cronica,11.7
+Germania,2019,F,Depressione cronica,12.6
+Danimarca,2014,F,Depressione cronica,8.8
+Danimarca,2019,F,Depressione cronica,10.4
+Estonia,2014,F,Depressione cronica,5.6
+Estonia,2019,F,Depressione cronica,8.9
+Grecia,2014,F,Depressione cronica,6.3
+Grecia,2019,F,Depressione cronica,5.2
+Spagna,2014,F,Depressione cronica,11.2
+Spagna,2019,F,Depressione cronica,7.9
+Finlandia,2014,F,Depressione cronica,11.5
+Finlandia,2019,F,Depressione cronica,9.7
+Francia,2014,F,Depressione cronica,7.5
+Francia,2019,F,Depressione cronica,9.1
+Croazia,2014,F,Depressione cronica,6.2
+Croazia,2019,F,Depressione cronica,12.7
+Ungheria,2014,F,Depressione cronica,6.6
+Ungheria,2019,F,Depressione cronica,5.1
+Irlanda,2014,F,Depressione cronica,13.5
+Irlanda,2019,F,Depressione cronica,4.4
+Italia,2014,F,Depressione cronica,7.4
+Italia,2019,F,Depressione cronica,7.3
+Lituania,2014,F,Depressione cronica,6.0
+Lituania,2019,F,Depressione cronica,8.7
+Lussemburgo,2014,F,Depressione cronica,10.0
+Lussemburgo,2019,F,Depressione cronica,12.4
+Lettonia,2014,F,Depressione cronica,11.4
+Lettonia,2019,F,Depressione cronica,9.9
+Malta,2014,F,Depressione cronica,6.6
+Malta,2019,F,Depressione cronica,4.6
+Paesi Bassi,2014,F,Depressione cronica,8.0
+Paesi Bassi,2019,F,Depressione cronica,8.5
+Polonia,2014,F,Depressione cronica,5.5
+Polonia,2019,F,Depressione cronica,5.1
+Portogallo,2014,F,Depressione cronica,17.5
+Portogallo,2019,F,Depressione cronica,17.2
+Romania,2014,F,Depressione cronica,2.0
+Romania,2019,F,Depressione cronica,1.3
+Svezia,2014,F,Depressione cronica,12.4
+Svezia,2019,F,Depressione cronica,13.4
+Slovenia,2014,F,Depressione cronica,10.3
+Slovenia,2019,F,Depressione cronica,9.6
+Slovacchia,2014,F,Depressione cronica,5.1
+Slovacchia,2019,F,Depressione cronica,5.5
+Austria,2014,M,Depressione cronica,4.7
+Austria,2019,M,Depressione cronica,5.3
+Belgio,2014,M,Depressione cronica,4.7
+Belgio,2019,M,Depressione cronica,5.8
+Bulgaria,2014,M,Depressione cronica,2.1
+Bulgaria,2019,M,Depressione cronica,1.8
+Cipro,2014,M,Depressione cronica,2.6
+Cipro,2019,M,Depressione cronica,3.6
+Repubblica Ceca,2014,M,Depressione cronica,3.2
+Repubblica Ceca,2019,M,Depressione cronica,3.3
+Germania,2014,M,Depressione cronica,8.6
+Germania,2019,M,Depressione cronica,9.5
+Danimarca,2014,M,Depressione cronica,6.2
+Danimarca,2019,M,Depressione cronica,8.4
+Estonia,2014,M,Depressione cronica,4.0
+Estonia,2019,M,Depressione cronica,5.3
+Grecia,2014,M,Depressione cronica,3.1
+Grecia,2019,M,Depressione cronica,2.5
+Spagna,2014,M,Depressione cronica,5.0
+Spagna,2019,M,Depressione cronica,3.7
+Finlandia,2014,M,Depressione cronica,8.8
+Finlandia,2019,M,Depressione cronica,7.2
+Francia,2014,M,Depressione cronica,3.9
+Francia,2019,M,Depressione cronica,5.6
+Croazia,2014,M,Depressione cronica,4.9
+Croazia,2019,M,Depressione cronica,8.9
+Ungheria,2014,M,Depressione cronica,3.2
+Ungheria,2019,M,Depressione cronica,2.9
+Irlanda,2014,M,Depressione cronica,10.9
+Irlanda,2019,M,Depressione cronica,3.3
+Italia,2014,M,Depressione cronica,4.0
+Italia,2019,M,Depressione cronica,3.7
+Lituania,2014,M,Depressione cronica,3.0
+Lituania,2019,M,Depressione cronica,5.0
+Lussemburgo,2014,M,Depressione cronica,8.5
+Lussemburgo,2019,M,Depressione cronica,9.3
+Lettonia,2014,M,Depressione cronica,6.1
+Lettonia,2019,M,Depressione cronica,6.1
+Malta,2014,M,Depressione cronica,4.3
+Malta,2019,M,Depressione cronica,2.8
+Paesi Bassi,2014,M,Depressione cronica,5.8
+Paesi Bassi,2019,M,Depressione cronica,6.6
+Polonia,2014,M,Depressione cronica,2.7
+Polonia,2019,M,Depressione cronica,3.1
+Portogallo,2014,M,Depressione cronica,6.1
+Portogallo,2019,M,Depressione cronica,7.7
+Romania,2014,M,Depressione cronica,1.0
+Romania,2019,M,Depressione cronica,0.7
+Svezia,2014,M,Depressione cronica,6.2
+Svezia,2019,M,Depressione cronica,9.7
+Slovenia,2014,M,Depressione cronica,6.8
+Slovenia,2019,M,Depressione cronica,5.8
+Slovacchia,2014,M,Depressione cronica,3.1
+Slovacchia,2019,M,Depressione cronica,3.0
+Austria,2019,F,Alti lipidi nel sangue,19.0
+Belgio,2019,F,Alti lipidi nel sangue,17.6
+Bulgaria,2019,F,Alti lipidi nel sangue,2.6
+Cipro,2019,F,Alti lipidi nel sangue,18.8
+Repubblica Ceca,2019,F,Alti lipidi nel sangue,14.7
+Germania,2019,F,Alti lipidi nel sangue,18.2
+Danimarca,2019,F,Alti lipidi nel sangue,13.5
+Estonia,2019,F,Alti lipidi nel sangue,7.2
+Grecia,2019,F,Alti lipidi nel sangue,16.7
+Spagna,2019,F,Alti lipidi nel sangue,16.4
+Finlandia,2019,F,Alti lipidi nel sangue,23.2
+Francia,2019,F,Alti lipidi nel sangue,13.5
+Croazia,2019,F,Alti lipidi nel sangue,20.8
+Ungheria,2019,F,Alti lipidi nel sangue,14.4
+Irlanda,2019,F,Alti lipidi nel sangue,6.3
+Italia,2019,F,Alti lipidi nel sangue,14.1
+Lituania,2019,F,Alti lipidi nel sangue,16.2
+Lussemburgo,2019,F,Alti lipidi nel sangue,15.8
+Lettonia,2019,F,Alti lipidi nel sangue,17.4
+Malta,2019,F,Alti lipidi nel sangue,14.2
+Polonia,2019,F,Alti lipidi nel sangue,9.8
+Portogallo,2019,F,Alti lipidi nel sangue,26.5
+Romania,2019,F,Alti lipidi nel sangue,4.2
+Svezia,2019,F,Alti lipidi nel sangue,6.0
+Slovenia,2019,F,Alti lipidi nel sangue,15.7
+Slovacchia,2019,F,Alti lipidi nel sangue,12.4
+Austria,2019,M,Alti lipidi nel sangue,18.6
+Belgio,2019,M,Alti lipidi nel sangue,19.4
+Bulgaria,2019,M,Alti lipidi nel sangue,2.7
+Cipro,2019,M,Alti lipidi nel sangue,21.1
+Repubblica Ceca,2019,M,Alti lipidi nel sangue,13.3
+Germania,2019,M,Alti lipidi nel sangue,17.7
+Danimarca,2019,M,Alti lipidi nel sangue,13.2
+Estonia,2019,M,Alti lipidi nel sangue,4.9
+Grecia,2019,M,Alti lipidi nel sangue,15.8
+Spagna,2019,M,Alti lipidi nel sangue,16.7
+Finlandia,2019,M,Alti lipidi nel sangue,23.3
+Francia,2019,M,Alti lipidi nel sangue,13.2
+Croazia,2019,M,Alti lipidi nel sangue,16.7
+Ungheria,2019,M,Alti lipidi nel sangue,11.4
+Irlanda,2019,M,Alti lipidi nel sangue,6.2
+Italia,2019,M,Alti lipidi nel sangue,11.9
+Lituania,2019,M,Alti lipidi nel sangue,9.7
+Lussemburgo,2019,M,Alti lipidi nel sangue,16.6
+Lettonia,2019,M,Alti lipidi nel sangue,9.9
+Malta,2019,M,Alti lipidi nel sangue,12.5
+Polonia,2019,M,Alti lipidi nel sangue,8.9
+Portogallo,2019,M,Alti lipidi nel sangue,22.0
+Romania,2019,M,Alti lipidi nel sangue,2.9
+Svezia,2019,M,Alti lipidi nel sangue,7.9
+Slovenia,2019,M,Alti lipidi nel sangue,13.8
+Slovacchia,2019,M,Alti lipidi nel sangue,9.6
+Austria,2014,F,Ipertensione,21.9
+Austria,2019,F,Ipertensione,22.0
+Belgio,2014,F,Ipertensione,17.8
+Belgio,2019,F,Ipertensione,17.8
+Bulgaria,2014,F,Ipertensione,33.0
+Bulgaria,2019,F,Ipertensione,32.7
+Cipro,2014,F,Ipertensione,19.9
+Cipro,2019,F,Ipertensione,20.5
+Repubblica Ceca,2014,F,Ipertensione,23.9
+Repubblica Ceca,2019,F,Ipertensione,25.7
+Germania,2014,F,Ipertensione,27.9
+Germania,2019,F,Ipertensione,27.4
+Danimarca,2014,F,Ipertensione,18.1
+Danimarca,2019,F,Ipertensione,19.6
+Estonia,2014,F,Ipertensione,21.0
+Estonia,2019,F,Ipertensione,21.8
+Grecia,2014,F,Ipertensione,23.6
+Grecia,2019,F,Ipertensione,21.6
+Spagna,2014,F,Ipertensione,20.6
+Spagna,2019,F,Ipertensione,21.0
+Finlandia,2014,F,Ipertensione,24.4
+Finlandia,2019,F,Ipertensione,27.4
+Francia,2014,F,Ipertensione,14.9
+Francia,2019,F,Ipertensione,17.1
+Croazia,2014,F,Ipertensione,26.1
+Croazia,2019,F,Ipertensione,37.8
+Ungheria,2014,F,Ipertensione,34.2
+Ungheria,2019,F,Ipertensione,33.8
+Irlanda,2014,F,Ipertensione,16.3
+Irlanda,2019,F,Ipertensione,13.1
+Italia,2014,F,Ipertensione,22.6
+Italia,2019,F,Ipertensione,22.4
+Lituania,2014,F,Ipertensione,32.1
+Lituania,2019,F,Ipertensione,32.0
+Lussemburgo,2014,F,Ipertensione,16.2
+Lussemburgo,2019,F,Ipertensione,13.6
+Lettonia,2014,F,Ipertensione,30.9
+Lettonia,2019,F,Ipertensione,33.5
+Malta,2014,F,Ipertensione,22.3
+Malta,2019,F,Ipertensione,20.2
+Paesi Bassi,2014,F,Ipertensione,17.1
+Paesi Bassi,2019,F,Ipertensione,16.9
+Polonia,2014,F,Ipertensione,24.9
+Polonia,2019,F,Ipertensione,28.1
+Portogallo,2014,F,Ipertensione,29.5
+Portogallo,2019,F,Ipertensione,29.9
+Romania,2014,F,Ipertensione,21.0
+Romania,2019,F,Ipertensione,18.6
+Svezia,2014,F,Ipertensione,17.8
+Svezia,2019,F,Ipertensione,18.1
+Slovenia,2014,F,Ipertensione,24.9
+Slovenia,2019,F,Ipertensione,25.3
+Slovacchia,2014,F,Ipertensione,28.8
+Slovacchia,2019,F,Ipertensione,29.2
+Austria,2014,M,Ipertensione,21.2
+Austria,2019,M,Ipertensione,22.5
+Belgio,2014,M,Ipertensione,15.9
+Belgio,2019,M,Ipertensione,17.4
+Bulgaria,2014,M,Ipertensione,26.2
+Bulgaria,2019,M,Ipertensione,26.5
+Cipro,2014,M,Ipertensione,18.8
+Cipro,2019,M,Ipertensione,21.6
+Repubblica Ceca,2014,M,Ipertensione,23.4
+Repubblica Ceca,2019,M,Ipertensione,27.2
+Germania,2014,M,Ipertensione,29.4
+Germania,2019,M,Ipertensione,26.9
+Danimarca,2014,M,Ipertensione,18.4
+Danimarca,2019,M,Ipertensione,19.4
+Estonia,2014,M,Ipertensione,17.6
+Estonia,2019,M,Ipertensione,18.5
+Grecia,2014,M,Ipertensione,19.5
+Grecia,2019,M,Ipertensione,18.9
+Spagna,2014,M,Ipertensione,19.5
+Spagna,2019,M,Ipertensione,20.7
+Finlandia,2014,M,Ipertensione,26.5
+Finlandia,2019,M,Ipertensione,28.9
+Francia,2014,M,Ipertensione,14.4
+Francia,2019,M,Ipertensione,15.1
+Croazia,2014,M,Ipertensione,21.7
+Croazia,2019,M,Ipertensione,34.6
+Ungheria,2014,M,Ipertensione,29.4
+Ungheria,2019,M,Ipertensione,29.3
+Irlanda,2014,M,Ipertensione,15.9
+Irlanda,2019,M,Ipertensione,11.7
+Italia,2014,M,Ipertensione,20.9
+Italia,2019,M,Ipertensione,20.5
+Lituania,2014,M,Ipertensione,20.8
+Lituania,2019,M,Ipertensione,24.9
+Lussemburgo,2014,M,Ipertensione,20.5
+Lussemburgo,2019,M,Ipertensione,19.8
+Lettonia,2014,M,Ipertensione,21.0
+Lettonia,2019,M,Ipertensione,24.1
+Malta,2014,M,Ipertensione,21.2
+Malta,2019,M,Ipertensione,17.8
+Paesi Bassi,2014,M,Ipertensione,16.1
+Paesi Bassi,2019,M,Ipertensione,15.7
+Polonia,2014,M,Ipertensione,20.6
+Polonia,2019,M,Ipertensione,24.5
+Portogallo,2014,M,Ipertensione,22.1
+Portogallo,2019,M,Ipertensione,25.3
+Romania,2014,M,Ipertensione,12.9
+Romania,2019,M,Ipertensione,12.6
+Svezia,2014,M,Ipertensione,15.2
+Svezia,2019,M,Ipertensione,18.8
+Slovenia,2014,M,Ipertensione,23.9
+Slovenia,2019,M,Ipertensione,24.4
+Slovacchia,2014,M,Ipertensione,22.1
+Slovacchia,2019,M,Ipertensione,27.3
+Austria,2014,F,Infarto o conseguenze croniche dell'infarto,0.6
+Austria,2019,F,Infarto o conseguenze croniche dell'infarto,1.3
+Belgio,2014,F,Infarto o conseguenze croniche dell'infarto,0.9
+Belgio,2019,F,Infarto o conseguenze croniche dell'infarto,0.6
+Bulgaria,2014,F,Infarto o conseguenze croniche dell'infarto,1.7
+Bulgaria,2019,F,Infarto o conseguenze croniche dell'infarto,1.4
+Cipro,2014,F,Infarto o conseguenze croniche dell'infarto,2.0
+Cipro,2019,F,Infarto o conseguenze croniche dell'infarto,1.6
+Repubblica Ceca,2014,F,Infarto o conseguenze croniche dell'infarto,1.2
+Repubblica Ceca,2019,F,Infarto o conseguenze croniche dell'infarto,1.5
+Germania,2014,F,Infarto o conseguenze croniche dell'infarto,0.9
+Germania,2019,F,Infarto o conseguenze croniche dell'infarto,1.6
+Danimarca,2014,F,Infarto o conseguenze croniche dell'infarto,0.6
+Danimarca,2019,F,Infarto o conseguenze croniche dell'infarto,0.6
+Estonia,2014,F,Infarto o conseguenze croniche dell'infarto,1.0
+Estonia,2019,F,Infarto o conseguenze croniche dell'infarto,0.9
+Grecia,2014,F,Infarto o conseguenze croniche dell'infarto,1.3
+Grecia,2019,F,Infarto o conseguenze croniche dell'infarto,1.7
+Spagna,2014,F,Infarto o conseguenze croniche dell'infarto,0.6
+Spagna,2019,F,Infarto o conseguenze croniche dell'infarto,0.6
+Finlandia,2014,F,Infarto o conseguenze croniche dell'infarto,1.2
+Finlandia,2019,F,Infarto o conseguenze croniche dell'infarto,1.2
+Francia,2014,F,Infarto o conseguenze croniche dell'infarto,0.6
+Francia,2019,F,Infarto o conseguenze croniche dell'infarto,1.0
+Croazia,2014,F,Infarto o conseguenze croniche dell'infarto,1.5
+Croazia,2019,F,Infarto o conseguenze croniche dell'infarto,2.8
+Ungheria,2014,F,Infarto o conseguenze croniche dell'infarto,2.1
+Ungheria,2019,F,Infarto o conseguenze croniche dell'infarto,2.0
+Irlanda,2014,F,Infarto o conseguenze croniche dell'infarto,0.7
+Irlanda,2019,F,Infarto o conseguenze croniche dell'infarto,0.8
+Italia,2014,F,Infarto o conseguenze croniche dell'infarto,1.4
+Italia,2019,F,Infarto o conseguenze croniche dell'infarto,1.1
+Lituania,2014,F,Infarto o conseguenze croniche dell'infarto,1.7
+Lituania,2019,F,Infarto o conseguenze croniche dell'infarto,1.8
+Lussemburgo,2014,F,Infarto o conseguenze croniche dell'infarto,0.0
+Lussemburgo,2019,F,Infarto o conseguenze croniche dell'infarto,0.2
+Lettonia,2014,F,Infarto o conseguenze croniche dell'infarto,1.1
+Lettonia,2019,F,Infarto o conseguenze croniche dell'infarto,0.4
+Malta,2014,F,Infarto o conseguenze croniche dell'infarto,0.7
+Malta,2019,F,Infarto o conseguenze croniche dell'infarto,0.4
+Paesi Bassi,2014,F,Infarto o conseguenze croniche dell'infarto,0.4
+Paesi Bassi,2019,F,Infarto o conseguenze croniche dell'infarto,0.9
+Polonia,2014,F,Infarto o conseguenze croniche dell'infarto,2.3
+Polonia,2019,F,Infarto o conseguenze croniche dell'infarto,1.7
+Portogallo,2014,F,Infarto o conseguenze croniche dell'infarto,1.7
+Portogallo,2019,F,Infarto o conseguenze croniche dell'infarto,1.5
+Romania,2014,F,Infarto o conseguenze croniche dell'infarto,1.1
+Romania,2019,F,Infarto o conseguenze croniche dell'infarto,1.1
+Svezia,2014,F,Infarto o conseguenze croniche dell'infarto,0.6
+Svezia,2019,F,Infarto o conseguenze croniche dell'infarto,0.6
+Slovenia,2014,F,Infarto o conseguenze croniche dell'infarto,1.1
+Slovenia,2019,F,Infarto o conseguenze croniche dell'infarto,1.1
+Slovacchia,2014,F,Infarto o conseguenze croniche dell'infarto,2.0
+Slovacchia,2019,F,Infarto o conseguenze croniche dell'infarto,1.5
+Austria,2014,M,Infarto o conseguenze croniche dell'infarto,1.4
+Austria,2019,M,Infarto o conseguenze croniche dell'infarto,2.0
+Belgio,2014,M,Infarto o conseguenze croniche dell'infarto,1.3
+Belgio,2019,M,Infarto o conseguenze croniche dell'infarto,1.2
+Bulgaria,2014,M,Infarto o conseguenze croniche dell'infarto,2.7
+Bulgaria,2019,M,Infarto o conseguenze croniche dell'infarto,1.8
+Cipro,2014,M,Infarto o conseguenze croniche dell'infarto,3.7
+Cipro,2019,M,Infarto o conseguenze croniche dell'infarto,4.9
+Repubblica Ceca,2014,M,Infarto o conseguenze croniche dell'infarto,2.1
+Repubblica Ceca,2019,M,Infarto o conseguenze croniche dell'infarto,2.8
+Germania,2014,M,Infarto o conseguenze croniche dell'infarto,2.2
+Germania,2019,M,Infarto o conseguenze croniche dell'infarto,3.4
+Danimarca,2014,M,Infarto o conseguenze croniche dell'infarto,1.1
+Danimarca,2019,M,Infarto o conseguenze croniche dell'infarto,1.2
+Estonia,2014,M,Infarto o conseguenze croniche dell'infarto,1.3
+Estonia,2019,M,Infarto o conseguenze croniche dell'infarto,1.5
+Grecia,2014,M,Infarto o conseguenze croniche dell'infarto,3.2
+Grecia,2019,M,Infarto o conseguenze croniche dell'infarto,4.5
+Spagna,2014,M,Infarto o conseguenze croniche dell'infarto,1.0
+Spagna,2019,M,Infarto o conseguenze croniche dell'infarto,1.4
+Finlandia,2014,M,Infarto o conseguenze croniche dell'infarto,2.3
+Finlandia,2019,M,Infarto o conseguenze croniche dell'infarto,2.4
+Francia,2014,M,Infarto o conseguenze croniche dell'infarto,1.5
+Francia,2019,M,Infarto o conseguenze croniche dell'infarto,1.5
+Croazia,2014,M,Infarto o conseguenze croniche dell'infarto,2.4
+Croazia,2019,M,Infarto o conseguenze croniche dell'infarto,3.8
+Ungheria,2014,M,Infarto o conseguenze croniche dell'infarto,2.6
+Ungheria,2019,M,Infarto o conseguenze croniche dell'infarto,2.5
+Irlanda,2014,M,Infarto o conseguenze croniche dell'infarto,2.1
+Irlanda,2019,M,Infarto o conseguenze croniche dell'infarto,1.8
+Italia,2014,M,Infarto o conseguenze croniche dell'infarto,3.0
+Italia,2019,M,Infarto o conseguenze croniche dell'infarto,2.7
+Lituania,2014,M,Infarto o conseguenze croniche dell'infarto,2.6
+Lituania,2019,M,Infarto o conseguenze croniche dell'infarto,1.9
+Lussemburgo,2014,M,Infarto o conseguenze croniche dell'infarto,1.8
+Lussemburgo,2019,M,Infarto o conseguenze croniche dell'infarto,0.7
+Lettonia,2014,M,Infarto o conseguenze croniche dell'infarto,0.8
+Lettonia,2019,M,Infarto o conseguenze croniche dell'infarto,0.9
+Malta,2014,M,Infarto o conseguenze croniche dell'infarto,1.7
+Malta,2019,M,Infarto o conseguenze croniche dell'infarto,2.0
+Paesi Bassi,2014,M,Infarto o conseguenze croniche dell'infarto,0.4
+Paesi Bassi,2019,M,Infarto o conseguenze croniche dell'infarto,1.5
+Polonia,2014,M,Infarto o conseguenze croniche dell'infarto,3.9
+Polonia,2019,M,Infarto o conseguenze croniche dell'infarto,3.4
+Portogallo,2014,M,Infarto o conseguenze croniche dell'infarto,2.0
+Portogallo,2019,M,Infarto o conseguenze croniche dell'infarto,1.5
+Romania,2014,M,Infarto o conseguenze croniche dell'infarto,1.3
+Romania,2019,M,Infarto o conseguenze croniche dell'infarto,1.2
+Svezia,2014,M,Infarto o conseguenze croniche dell'infarto,1.7
+Svezia,2019,M,Infarto o conseguenze croniche dell'infarto,1.3
+Slovenia,2014,M,Infarto o conseguenze croniche dell'infarto,1.6
+Slovenia,2019,M,Infarto o conseguenze croniche dell'infarto,2.2
+Slovacchia,2014,M,Infarto o conseguenze croniche dell'infarto,2.8
+Slovacchia,2019,M,Infarto o conseguenze croniche dell'infarto,2.4
+Austria,2014,F,Problemi renali,1.9
+Austria,2019,F,Problemi renali,2.3
+Belgio,2014,F,Problemi renali,0.9
+Belgio,2019,F,Problemi renali,1.1
+Bulgaria,2014,F,Problemi renali,6.7
+Bulgaria,2019,F,Problemi renali,5.1
+Cipro,2014,F,Problemi renali,1.3
+Cipro,2019,F,Problemi renali,2.2
+Repubblica Ceca,2014,F,Problemi renali,2.6
+Repubblica Ceca,2019,F,Problemi renali,3.1
+Germania,2014,F,Problemi renali,2.1
+Germania,2019,F,Problemi renali,2.4
+Danimarca,2014,F,Problemi renali,1.4
+Danimarca,2019,F,Problemi renali,1.1
+Estonia,2014,F,Problemi renali,2.6
+Estonia,2019,F,Problemi renali,2.3
+Grecia,2014,F,Problemi renali,3.0
+Grecia,2019,F,Problemi renali,2.1
+Spagna,2014,F,Problemi renali,3.1
+Spagna,2019,F,Problemi renali,2.5
+Finlandia,2014,F,Problemi renali,1.4
+Finlandia,2019,F,Problemi renali,1.7
+Francia,2014,F,Problemi renali,1.8
+Francia,2019,F,Problemi renali,3.3
+Croazia,2014,F,Problemi renali,5.2
+Croazia,2019,F,Problemi renali,6.4
+Ungheria,2014,F,Problemi renali,2.3
+Ungheria,2019,F,Problemi renali,2.9
+Irlanda,2014,F,Problemi renali,4.5
+Irlanda,2019,F,Problemi renali,2.1
+Italia,2014,F,Problemi renali,3.8
+Italia,2019,F,Problemi renali,3.9
+Lituania,2014,F,Problemi renali,6.0
+Lituania,2019,F,Problemi renali,5.9
+Lussemburgo,2014,F,Problemi renali,3.0
+Lussemburgo,2019,F,Problemi renali,3.5
+Lettonia,2014,F,Problemi renali,7.3
+Lettonia,2019,F,Problemi renali,5.7
+Malta,2014,F,Problemi renali,0.6
+Malta,2019,F,Problemi renali,0.9
+Paesi Bassi,2014,F,Problemi renali,2.0
+Paesi Bassi,2019,F,Problemi renali,2.4
+Polonia,2014,F,Problemi renali,4.7
+Polonia,2019,F,Problemi renali,4.7
+Portogallo,2014,F,Problemi renali,5.6
+Portogallo,2019,F,Problemi renali,4.8
+Romania,2014,F,Problemi renali,2.4
+Romania,2019,F,Problemi renali,1.2
+Svezia,2014,F,Problemi renali,1.2
+Svezia,2019,F,Problemi renali,1.4
+Slovenia,2014,F,Problemi renali,5.8
+Slovenia,2019,F,Problemi renali,5.4
+Slovacchia,2014,F,Problemi renali,3.9
+Slovacchia,2019,F,Problemi renali,4.0
+Austria,2014,M,Problemi renali,1.3
+Austria,2019,M,Problemi renali,2.2
+Belgio,2014,M,Problemi renali,0.7
+Belgio,2019,M,Problemi renali,0.7
+Bulgaria,2014,M,Problemi renali,4.9
+Bulgaria,2019,M,Problemi renali,4.3
+Cipro,2014,M,Problemi renali,2.2
+Cipro,2019,M,Problemi renali,2.0
+Repubblica Ceca,2014,M,Problemi renali,2.1
+Repubblica Ceca,2019,M,Problemi renali,2.4
+Germania,2014,M,Problemi renali,1.8
+Germania,2019,M,Problemi renali,1.9
+Danimarca,2014,M,Problemi renali,1.8
+Danimarca,2019,M,Problemi renali,1.6
+Estonia,2014,M,Problemi renali,1.1
+Estonia,2019,M,Problemi renali,1.3
+Grecia,2014,M,Problemi renali,2.3
+Grecia,2019,M,Problemi renali,1.9
+Spagna,2014,M,Problemi renali,2.5
+Spagna,2019,M,Problemi renali,2.4
+Finlandia,2014,M,Problemi renali,1.5
+Finlandia,2019,M,Problemi renali,1.7
+Francia,2014,M,Problemi renali,1.9
+Francia,2019,M,Problemi renali,3.5
+Croazia,2014,M,Problemi renali,3.1
+Croazia,2019,M,Problemi renali,6.5
+Ungheria,2014,M,Problemi renali,2.4
+Ungheria,2019,M,Problemi renali,2.2
+Irlanda,2014,M,Problemi renali,3.1
+Irlanda,2019,M,Problemi renali,2.2
+Italia,2014,M,Problemi renali,3.7
+Italia,2019,M,Problemi renali,4.0
+Lituania,2014,M,Problemi renali,3.8
+Lituania,2019,M,Problemi renali,3.0
+Lussemburgo,2014,M,Problemi renali,2.2
+Lussemburgo,2019,M,Problemi renali,3.2
+Lettonia,2014,M,Problemi renali,2.8
+Lettonia,2019,M,Problemi renali,2.2
+Malta,2014,M,Problemi renali,1.0
+Malta,2019,M,Problemi renali,1.0
+Paesi Bassi,2014,M,Problemi renali,1.9
+Paesi Bassi,2019,M,Problemi renali,2.2
+Polonia,2014,M,Problemi renali,3.2
+Polonia,2019,M,Problemi renali,3.5
+Portogallo,2014,M,Problemi renali,3.8
+Portogallo,2019,M,Problemi renali,3.9
+Romania,2014,M,Problemi renali,1.4
+Romania,2019,M,Problemi renali,1.2
+Svezia,2014,M,Problemi renali,1.9
+Svezia,2019,M,Problemi renali,1.5
+Slovenia,2014,M,Problemi renali,3.5
+Slovenia,2019,M,Problemi renali,4.2
+Slovacchia,2014,M,Problemi renali,2.9
+Slovacchia,2019,M,Problemi renali,3.0
+Austria,2014,F,Disturbi lombari o altri difetti cronici della schiena,26.1
+Austria,2019,F,Disturbi lombari o altri difetti cronici della schiena,26.8
+Belgio,2014,F,Disturbi lombari o altri difetti cronici della schiena,22.6
+Belgio,2019,F,Disturbi lombari o altri difetti cronici della schiena,27.0
+Bulgaria,2014,F,Disturbi lombari o altri difetti cronici della schiena,12.1
+Bulgaria,2019,F,Disturbi lombari o altri difetti cronici della schiena,11.7
+Cipro,2014,F,Disturbi lombari o altri difetti cronici della schiena,17.0
+Cipro,2019,F,Disturbi lombari o altri difetti cronici della schiena,19.1
+Repubblica Ceca,2014,F,Disturbi lombari o altri difetti cronici della schiena,19.4
+Repubblica Ceca,2019,F,Disturbi lombari o altri difetti cronici della schiena,18.6
+Germania,2014,F,Disturbi lombari o altri difetti cronici della schiena,41.3
+Germania,2019,F,Disturbi lombari o altri difetti cronici della schiena,32.8
+Danimarca,2014,F,Disturbi lombari o altri difetti cronici della schiena,13.9
+Danimarca,2019,F,Disturbi lombari o altri difetti cronici della schiena,15.0
+Estonia,2014,F,Disturbi lombari o altri difetti cronici della schiena,23.2
+Estonia,2019,F,Disturbi lombari o altri difetti cronici della schiena,25.0
+Grecia,2014,F,Disturbi lombari o altri difetti cronici della schiena,21.7
+Grecia,2019,F,Disturbi lombari o altri difetti cronici della schiena,14.8
+Spagna,2014,F,Disturbi lombari o altri difetti cronici della schiena,23.8
+Spagna,2019,F,Disturbi lombari o altri difetti cronici della schiena,18.7
+Finlandia,2014,F,Disturbi lombari o altri difetti cronici della schiena,35.3
+Finlandia,2019,F,Disturbi lombari o altri difetti cronici della schiena,36.6
+Francia,2014,F,Disturbi lombari o altri difetti cronici della schiena,31.7
+Francia,2019,F,Disturbi lombari o altri difetti cronici della schiena,35.6
+Croazia,2014,F,Disturbi lombari o altri difetti cronici della schiena,31.7
+Croazia,2019,F,Disturbi lombari o altri difetti cronici della schiena,44.3
+Ungheria,2014,F,Disturbi lombari o altri difetti cronici della schiena,31.8
+Ungheria,2019,F,Disturbi lombari o altri difetti cronici della schiena,33.2
+Irlanda,2014,F,Disturbi lombari o altri difetti cronici della schiena,18.6
+Irlanda,2019,F,Disturbi lombari o altri difetti cronici della schiena,9.3
+Italia,2014,F,Disturbi lombari o altri difetti cronici della schiena,21.8
+Italia,2019,F,Disturbi lombari o altri difetti cronici della schiena,20.6
+Lituania,2014,F,Disturbi lombari o altri difetti cronici della schiena,26.8
+Lituania,2019,F,Disturbi lombari o altri difetti cronici della schiena,32.3
+Lussemburgo,2014,F,Disturbi lombari o altri difetti cronici della schiena,33.3
+Lussemburgo,2019,F,Disturbi lombari o altri difetti cronici della schiena,31.8
+Lettonia,2014,F,Disturbi lombari o altri difetti cronici della schiena,37.6
+Lettonia,2019,F,Disturbi lombari o altri difetti cronici della schiena,36.8
+Malta,2014,F,Disturbi lombari o altri difetti cronici della schiena,15.5
+Malta,2019,F,Disturbi lombari o altri difetti cronici della schiena,8.5
+Paesi Bassi,2014,F,Disturbi lombari o altri difetti cronici della schiena,11.7
+Paesi Bassi,2019,F,Disturbi lombari o altri difetti cronici della schiena,10.7
+Polonia,2014,F,Disturbi lombari o altri difetti cronici della schiena,28.2
+Polonia,2019,F,Disturbi lombari o altri difetti cronici della schiena,28.5
+Portogallo,2014,F,Disturbi lombari o altri difetti cronici della schiena,40.5
+Portogallo,2019,F,Disturbi lombari o altri difetti cronici della schiena,44.5
+Romania,2014,F,Disturbi lombari o altri difetti cronici della schiena,12.6
+Romania,2019,F,Disturbi lombari o altri difetti cronici della schiena,8.7
+Svezia,2014,F,Disturbi lombari o altri difetti cronici della schiena,17.4
+Svezia,2019,F,Disturbi lombari o altri difetti cronici della schiena,18.6
+Slovenia,2014,F,Disturbi lombari o altri difetti cronici della schiena,41.2
+Slovenia,2019,F,Disturbi lombari o altri difetti cronici della schiena,37.1
+Slovacchia,2014,F,Disturbi lombari o altri difetti cronici della schiena,19.6
+Slovacchia,2019,F,Disturbi lombari o altri difetti cronici della schiena,19.0
+Austria,2014,M,Disturbi lombari o altri difetti cronici della schiena,22.7
+Austria,2019,M,Disturbi lombari o altri difetti cronici della schiena,24.3
+Belgio,2014,M,Disturbi lombari o altri difetti cronici della schiena,18.5
+Belgio,2019,M,Disturbi lombari o altri difetti cronici della schiena,23.1
+Bulgaria,2014,M,Disturbi lombari o altri difetti cronici della schiena,7.9
+Bulgaria,2019,M,Disturbi lombari o altri difetti cronici della schiena,8.9
+Cipro,2014,M,Disturbi lombari o altri difetti cronici della schiena,11.3
+Cipro,2019,M,Disturbi lombari o altri difetti cronici della schiena,14.8
+Repubblica Ceca,2014,M,Disturbi lombari o altri difetti cronici della schiena,16.9
+Repubblica Ceca,2019,M,Disturbi lombari o altri difetti cronici della schiena,15.5
+Germania,2014,M,Disturbi lombari o altri difetti cronici della schiena,34.9
+Germania,2019,M,Disturbi lombari o altri difetti cronici della schiena,29.3
+Danimarca,2014,M,Disturbi lombari o altri difetti cronici della schiena,11.9
+Danimarca,2019,M,Disturbi lombari o altri difetti cronici della schiena,12.4
+Estonia,2014,M,Disturbi lombari o altri difetti cronici della schiena,20.7
+Estonia,2019,M,Disturbi lombari o altri difetti cronici della schiena,20.8
+Grecia,2014,M,Disturbi lombari o altri difetti cronici della schiena,14.4
+Grecia,2019,M,Disturbi lombari o altri difetti cronici della schiena,10.2
+Spagna,2014,M,Disturbi lombari o altri difetti cronici della schiena,16.4
+Spagna,2019,M,Disturbi lombari o altri difetti cronici della schiena,11.4
+Finlandia,2014,M,Disturbi lombari o altri difetti cronici della schiena,32.3
+Finlandia,2019,M,Disturbi lombari o altri difetti cronici della schiena,33.0
+Francia,2014,M,Disturbi lombari o altri difetti cronici della schiena,28.6
+Francia,2019,M,Disturbi lombari o altri difetti cronici della schiena,33.2
+Croazia,2014,M,Disturbi lombari o altri difetti cronici della schiena,24.5
+Croazia,2019,M,Disturbi lombari o altri difetti cronici della schiena,35.2
+Ungheria,2014,M,Disturbi lombari o altri difetti cronici della schiena,29.0
+Ungheria,2019,M,Disturbi lombari o altri difetti cronici della schiena,29.0
+Irlanda,2014,M,Disturbi lombari o altri difetti cronici della schiena,16.5
+Irlanda,2019,M,Disturbi lombari o altri difetti cronici della schiena,8.4
+Italia,2014,M,Disturbi lombari o altri difetti cronici della schiena,16.6
+Italia,2019,M,Disturbi lombari o altri difetti cronici della schiena,16.6
+Lituania,2014,M,Disturbi lombari o altri difetti cronici della schiena,22.1
+Lituania,2019,M,Disturbi lombari o altri difetti cronici della schiena,27.4
+Lussemburgo,2014,M,Disturbi lombari o altri difetti cronici della schiena,29.3
+Lussemburgo,2019,M,Disturbi lombari o altri difetti cronici della schiena,28.7
+Lettonia,2014,M,Disturbi lombari o altri difetti cronici della schiena,31.0
+Lettonia,2019,M,Disturbi lombari o altri difetti cronici della schiena,34.3
+Malta,2014,M,Disturbi lombari o altri difetti cronici della schiena,11.5
+Malta,2019,M,Disturbi lombari o altri difetti cronici della schiena,5.1
+Paesi Bassi,2014,M,Disturbi lombari o altri difetti cronici della schiena,9.0
+Paesi Bassi,2019,M,Disturbi lombari o altri difetti cronici della schiena,8.4
+Polonia,2014,M,Disturbi lombari o altri difetti cronici della schiena,21.1
+Polonia,2019,M,Disturbi lombari o altri difetti cronici della schiena,22.8
+Portogallo,2014,M,Disturbi lombari o altri difetti cronici della schiena,25.6
+Portogallo,2019,M,Disturbi lombari o altri difetti cronici della schiena,31.9
+Romania,2014,M,Disturbi lombari o altri difetti cronici della schiena,9.3
+Romania,2019,M,Disturbi lombari o altri difetti cronici della schiena,6.4
+Svezia,2014,M,Disturbi lombari o altri difetti cronici della schiena,13.1
+Svezia,2019,M,Disturbi lombari o altri difetti cronici della schiena,14.1
+Slovenia,2014,M,Disturbi lombari o altri difetti cronici della schiena,34.8
+Slovenia,2019,M,Disturbi lombari o altri difetti cronici della schiena,34.6
+Slovacchia,2014,M,Disturbi lombari o altri difetti cronici della schiena,13.2
+Slovacchia,2019,M,Disturbi lombari o altri difetti cronici della schiena,13.7
+Austria,2014,F,Disturbi del collo o altri difetti cronici del collo,23.0
+Austria,2019,F,Disturbi del collo o altri difetti cronici del collo,24.5
+Belgio,2014,F,Disturbi del collo o altri difetti cronici del collo,14.4
+Belgio,2019,F,Disturbi del collo o altri difetti cronici del collo,19.8
+Bulgaria,2014,F,Disturbi del collo o altri difetti cronici del collo,6.8
+Bulgaria,2019,F,Disturbi del collo o altri difetti cronici del collo,5.6
+Cipro,2014,F,Disturbi del collo o altri difetti cronici del collo,11.8
+Cipro,2019,F,Disturbi del collo o altri difetti cronici del collo,14.0
+Repubblica Ceca,2014,F,Disturbi del collo o altri difetti cronici del collo,14.0
+Repubblica Ceca,2019,F,Disturbi del collo o altri difetti cronici del collo,14.6
+Germania,2014,F,Disturbi del collo o altri difetti cronici del collo,40.6
+Germania,2019,F,Disturbi del collo o altri difetti cronici del collo,28.4
+Danimarca,2014,F,Disturbi del collo o altri difetti cronici del collo,8.8
+Danimarca,2019,F,Disturbi del collo o altri difetti cronici del collo,10.0
+Estonia,2014,F,Disturbi del collo o altri difetti cronici del collo,11.5
+Estonia,2019,F,Disturbi del collo o altri difetti cronici del collo,12.7
+Grecia,2014,F,Disturbi del collo o altri difetti cronici del collo,14.2
+Grecia,2019,F,Disturbi del collo o altri difetti cronici del collo,8.9
+Spagna,2014,F,Disturbi del collo o altri difetti cronici del collo,23.2
+Spagna,2019,F,Disturbi del collo o altri difetti cronici del collo,17.4
+Finlandia,2014,F,Disturbi del collo o altri difetti cronici del collo,42.0
+Finlandia,2019,F,Disturbi del collo o altri difetti cronici del collo,39.2
+Francia,2014,F,Disturbi del collo o altri difetti cronici del collo,20.3
+Francia,2019,F,Disturbi del collo o altri difetti cronici del collo,25.5
+Croazia,2014,F,Disturbi del collo o altri difetti cronici del collo,26.6
+Croazia,2019,F,Disturbi del collo o altri difetti cronici del collo,35.8
+Ungheria,2014,F,Disturbi del collo o altri difetti cronici del collo,17.1
+Ungheria,2019,F,Disturbi del collo o altri difetti cronici del collo,15.1
+Irlanda,2014,F,Disturbi del collo o altri difetti cronici del collo,9.1
+Irlanda,2019,F,Disturbi del collo o altri difetti cronici del collo,2.9
+Italia,2014,F,Disturbi del collo o altri difetti cronici del collo,22.5
+Italia,2019,F,Disturbi del collo o altri difetti cronici del collo,22.5
+Lituania,2014,F,Disturbi del collo o altri difetti cronici del collo,13.3
+Lituania,2019,F,Disturbi del collo o altri difetti cronici del collo,14.7
+Lussemburgo,2014,F,Disturbi del collo o altri difetti cronici del collo,18.0
+Lussemburgo,2019,F,Disturbi del collo o altri difetti cronici del collo,19.1
+Lettonia,2014,F,Disturbi del collo o altri difetti cronici del collo,27.9
+Lettonia,2019,F,Disturbi del collo o altri difetti cronici del collo,27.4
+Malta,2014,F,Disturbi del collo o altri difetti cronici del collo,8.1
+Malta,2019,F,Disturbi del collo o altri difetti cronici del collo,3.7
+Paesi Bassi,2014,F,Disturbi del collo o altri difetti cronici del collo,12.3
+Paesi Bassi,2019,F,Disturbi del collo o altri difetti cronici del collo,12.6
+Polonia,2014,F,Disturbi del collo o altri difetti cronici del collo,20.9
+Polonia,2019,F,Disturbi del collo o altri difetti cronici del collo,20.1
+Portogallo,2014,F,Disturbi del collo o altri difetti cronici del collo,32.4
+Portogallo,2019,F,Disturbi del collo o altri difetti cronici del collo,35.2
+Romania,2014,F,Disturbi del collo o altri difetti cronici del collo,8.3
+Romania,2019,F,Disturbi del collo o altri difetti cronici del collo,4.7
+Svezia,2014,F,Disturbi del collo o altri difetti cronici del collo,17.2
+Svezia,2019,F,Disturbi del collo o altri difetti cronici del collo,18.0
+Slovenia,2014,F,Disturbi del collo o altri difetti cronici del collo,28.0
+Slovenia,2019,F,Disturbi del collo o altri difetti cronici del collo,25.5
+Slovacchia,2014,F,Disturbi del collo o altri difetti cronici del collo,17.4
+Slovacchia,2019,F,Disturbi del collo o altri difetti cronici del collo,14.0
+Austria,2014,M,Disturbi del collo o altri difetti cronici del collo,13.6
+Austria,2019,M,Disturbi del collo o altri difetti cronici del collo,14.2
+Belgio,2014,M,Disturbi del collo o altri difetti cronici del collo,9.1
+Belgio,2019,M,Disturbi del collo o altri difetti cronici del collo,10.5
+Bulgaria,2014,M,Disturbi del collo o altri difetti cronici del collo,3.6
+Bulgaria,2019,M,Disturbi del collo o altri difetti cronici del collo,2.8
+Cipro,2014,M,Disturbi del collo o altri difetti cronici del collo,5.0
+Cipro,2019,M,Disturbi del collo o altri difetti cronici del collo,7.7
+Repubblica Ceca,2014,M,Disturbi del collo o altri difetti cronici del collo,6.7
+Repubblica Ceca,2019,M,Disturbi del collo o altri difetti cronici del collo,8.8
+Germania,2014,M,Disturbi del collo o altri difetti cronici del collo,25.8
+Germania,2019,M,Disturbi del collo o altri difetti cronici del collo,17.0
+Danimarca,2014,M,Disturbi del collo o altri difetti cronici del collo,5.6
+Danimarca,2019,M,Disturbi del collo o altri difetti cronici del collo,5.6
+Estonia,2014,M,Disturbi del collo o altri difetti cronici del collo,5.9
+Estonia,2019,M,Disturbi del collo o altri difetti cronici del collo,6.4
+Grecia,2014,M,Disturbi del collo o altri difetti cronici del collo,6.4
+Grecia,2019,M,Disturbi del collo o altri difetti cronici del collo,3.7
+Spagna,2014,M,Disturbi del collo o altri difetti cronici del collo,11.5
+Spagna,2019,M,Disturbi del collo o altri difetti cronici del collo,8.2
+Finlandia,2014,M,Disturbi del collo o altri difetti cronici del collo,26.8
+Finlandia,2019,M,Disturbi del collo o altri difetti cronici del collo,26.2
+Francia,2014,M,Disturbi del collo o altri difetti cronici del collo,11.9
+Francia,2019,M,Disturbi del collo o altri difetti cronici del collo,17.4
+Croazia,2014,M,Disturbi del collo o altri difetti cronici del collo,17.2
+Croazia,2019,M,Disturbi del collo o altri difetti cronici del collo,23.2
+Ungheria,2014,M,Disturbi del collo o altri difetti cronici del collo,11.0
+Ungheria,2019,M,Disturbi del collo o altri difetti cronici del collo,9.8
+Irlanda,2014,M,Disturbi del collo o altri difetti cronici del collo,7.2
+Irlanda,2019,M,Disturbi del collo o altri difetti cronici del collo,2.6
+Italia,2014,M,Disturbi del collo o altri difetti cronici del collo,13.2
+Italia,2019,M,Disturbi del collo o altri difetti cronici del collo,13.2
+Lituania,2014,M,Disturbi del collo o altri difetti cronici del collo,6.2
+Lituania,2019,M,Disturbi del collo o altri difetti cronici del collo,6.7
+Lussemburgo,2014,M,Disturbi del collo o altri difetti cronici del collo,13.2
+Lussemburgo,2019,M,Disturbi del collo o altri difetti cronici del collo,11.5
+Lettonia,2014,M,Disturbi del collo o altri difetti cronici del collo,15.2
+Lettonia,2019,M,Disturbi del collo o altri difetti cronici del collo,14.1
+Malta,2014,M,Disturbi del collo o altri difetti cronici del collo,4.4
+Malta,2019,M,Disturbi del collo o altri difetti cronici del collo,1.8
+Paesi Bassi,2014,M,Disturbi del collo o altri difetti cronici del collo,8.0
+Paesi Bassi,2019,M,Disturbi del collo o altri difetti cronici del collo,7.8
+Polonia,2014,M,Disturbi del collo o altri difetti cronici del collo,13.0
+Polonia,2019,M,Disturbi del collo o altri difetti cronici del collo,11.5
+Portogallo,2014,M,Disturbi del collo o altri difetti cronici del collo,15.8
+Portogallo,2019,M,Disturbi del collo o altri difetti cronici del collo,20.2
+Romania,2014,M,Disturbi del collo o altri difetti cronici del collo,4.0
+Romania,2019,M,Disturbi del collo o altri difetti cronici del collo,2.3
+Svezia,2014,M,Disturbi del collo o altri difetti cronici del collo,12.1
+Svezia,2019,M,Disturbi del collo o altri difetti cronici del collo,11.0
+Slovenia,2014,M,Disturbi del collo o altri difetti cronici del collo,17.8
+Slovenia,2019,M,Disturbi del collo o altri difetti cronici del collo,17.7
+Slovacchia,2014,M,Disturbi del collo o altri difetti cronici del collo,8.3
+Slovacchia,2019,M,Disturbi del collo o altri difetti cronici del collo,7.2
+Austria,2014,F,Ictus o conseguenze croniche dell'ictus,0.9
+Austria,2019,F,Ictus o conseguenze croniche dell'ictus,1.5
+Belgio,2014,F,Ictus o conseguenze croniche dell'ictus,1.0
+Belgio,2019,F,Ictus o conseguenze croniche dell'ictus,0.4
+Bulgaria,2014,F,Ictus o conseguenze croniche dell'ictus,2.6
+Bulgaria,2019,F,Ictus o conseguenze croniche dell'ictus,2.5
+Cipro,2014,F,Ictus o conseguenze croniche dell'ictus,1.4
+Cipro,2019,F,Ictus o conseguenze croniche dell'ictus,1.4
+Repubblica Ceca,2014,F,Ictus o conseguenze croniche dell'ictus,1.4
+Repubblica Ceca,2019,F,Ictus o conseguenze croniche dell'ictus,1.0
+Germania,2014,F,Ictus o conseguenze croniche dell'ictus,1.5
+Germania,2019,F,Ictus o conseguenze croniche dell'ictus,2.2
+Danimarca,2014,F,Ictus o conseguenze croniche dell'ictus,1.0
+Danimarca,2019,F,Ictus o conseguenze croniche dell'ictus,1.3
+Estonia,2014,F,Ictus o conseguenze croniche dell'ictus,0.6
+Estonia,2019,F,Ictus o conseguenze croniche dell'ictus,0.7
+Grecia,2014,F,Ictus o conseguenze croniche dell'ictus,2.1
+Grecia,2019,F,Ictus o conseguenze croniche dell'ictus,1.7
+Spagna,2014,F,Ictus o conseguenze croniche dell'ictus,0.7
+Spagna,2019,F,Ictus o conseguenze croniche dell'ictus,1.1
+Finlandia,2014,F,Ictus o conseguenze croniche dell'ictus,1.0
+Finlandia,2019,F,Ictus o conseguenze croniche dell'ictus,1.4
+Francia,2014,F,Ictus o conseguenze croniche dell'ictus,0.8
+Francia,2019,F,Ictus o conseguenze croniche dell'ictus,1.1
+Croazia,2014,F,Ictus o conseguenze croniche dell'ictus,2.5
+Croazia,2019,F,Ictus o conseguenze croniche dell'ictus,3.3
+Ungheria,2014,F,Ictus o conseguenze croniche dell'ictus,2.0
+Ungheria,2019,F,Ictus o conseguenze croniche dell'ictus,2.1
+Irlanda,2014,F,Ictus o conseguenze croniche dell'ictus,0.6
+Irlanda,2019,F,Ictus o conseguenze croniche dell'ictus,0.7
+Italia,2014,F,Ictus o conseguenze croniche dell'ictus,1.5
+Italia,2019,F,Ictus o conseguenze croniche dell'ictus,1.4
+Lituania,2014,F,Ictus o conseguenze croniche dell'ictus,2.6
+Lituania,2019,F,Ictus o conseguenze croniche dell'ictus,2.2
+Lussemburgo,2014,F,Ictus o conseguenze croniche dell'ictus,0.7
+Lussemburgo,2019,F,Ictus o conseguenze croniche dell'ictus,0.8
+Lettonia,2014,F,Ictus o conseguenze croniche dell'ictus,1.1
+Lettonia,2019,F,Ictus o conseguenze croniche dell'ictus,0.6
+Malta,2014,F,Ictus o conseguenze croniche dell'ictus,0.4
+Malta,2019,F,Ictus o conseguenze croniche dell'ictus,0.2
+Paesi Bassi,2014,F,Ictus o conseguenze croniche dell'ictus,0.4
+Paesi Bassi,2019,F,Ictus o conseguenze croniche dell'ictus,1.4
+Polonia,2014,F,Ictus o conseguenze croniche dell'ictus,1.8
+Polonia,2019,F,Ictus o conseguenze croniche dell'ictus,1.4
+Portogallo,2014,F,Ictus o conseguenze croniche dell'ictus,2.0
+Portogallo,2019,F,Ictus o conseguenze croniche dell'ictus,2.5
+Romania,2014,F,Ictus o conseguenze croniche dell'ictus,1.4
+Romania,2019,F,Ictus o conseguenze croniche dell'ictus,1.2
+Svezia,2014,F,Ictus o conseguenze croniche dell'ictus,1.2
+Svezia,2019,F,Ictus o conseguenze croniche dell'ictus,1.1
+Slovenia,2014,F,Ictus o conseguenze croniche dell'ictus,1.1
+Slovenia,2019,F,Ictus o conseguenze croniche dell'ictus,1.1
+Slovacchia,2014,F,Ictus o conseguenze croniche dell'ictus,1.7
+Slovacchia,2019,F,Ictus o conseguenze croniche dell'ictus,2.2
+Austria,2014,M,Ictus o conseguenze croniche dell'ictus,0.8
+Austria,2019,M,Ictus o conseguenze croniche dell'ictus,1.8
+Belgio,2014,M,Ictus o conseguenze croniche dell'ictus,1.1
+Belgio,2019,M,Ictus o conseguenze croniche dell'ictus,1.4
+Bulgaria,2014,M,Ictus o conseguenze croniche dell'ictus,2.9
+Bulgaria,2019,M,Ictus o conseguenze croniche dell'ictus,2.6
+Cipro,2014,M,Ictus o conseguenze croniche dell'ictus,1.5
+Cipro,2019,M,Ictus o conseguenze croniche dell'ictus,1.6
+Repubblica Ceca,2014,M,Ictus o conseguenze croniche dell'ictus,1.3
+Repubblica Ceca,2019,M,Ictus o conseguenze croniche dell'ictus,1.5
+Germania,2014,M,Ictus o conseguenze croniche dell'ictus,1.4
+Germania,2019,M,Ictus o conseguenze croniche dell'ictus,2.3
+Danimarca,2014,M,Ictus o conseguenze croniche dell'ictus,1.3
+Danimarca,2019,M,Ictus o conseguenze croniche dell'ictus,1.7
+Estonia,2014,M,Ictus o conseguenze croniche dell'ictus,0.9
+Estonia,2019,M,Ictus o conseguenze croniche dell'ictus,0.7
+Grecia,2014,M,Ictus o conseguenze croniche dell'ictus,2.2
+Grecia,2019,M,Ictus o conseguenze croniche dell'ictus,1.8
+Spagna,2014,M,Ictus o conseguenze croniche dell'ictus,1.1
+Spagna,2019,M,Ictus o conseguenze croniche dell'ictus,1.0
+Finlandia,2014,M,Ictus o conseguenze croniche dell'ictus,2.0
+Finlandia,2019,M,Ictus o conseguenze croniche dell'ictus,2.3
+Francia,2014,M,Ictus o conseguenze croniche dell'ictus,1.1
+Francia,2019,M,Ictus o conseguenze croniche dell'ictus,1.2
+Croazia,2014,M,Ictus o conseguenze croniche dell'ictus,2.1
+Croazia,2019,M,Ictus o conseguenze croniche dell'ictus,2.8
+Ungheria,2014,M,Ictus o conseguenze croniche dell'ictus,2.8
+Ungheria,2019,M,Ictus o conseguenze croniche dell'ictus,2.0
+Irlanda,2014,M,Ictus o conseguenze croniche dell'ictus,0.9
+Irlanda,2019,M,Ictus o conseguenze croniche dell'ictus,1.1
+Italia,2014,M,Ictus o conseguenze croniche dell'ictus,1.5
+Italia,2019,M,Ictus o conseguenze croniche dell'ictus,1.4
+Lituania,2014,M,Ictus o conseguenze croniche dell'ictus,2.5
+Lituania,2019,M,Ictus o conseguenze croniche dell'ictus,2.3
+Lussemburgo,2014,M,Ictus o conseguenze croniche dell'ictus,1.9
+Lussemburgo,2019,M,Ictus o conseguenze croniche dell'ictus,0.8
+Lettonia,2014,M,Ictus o conseguenze croniche dell'ictus,1.0
+Lettonia,2019,M,Ictus o conseguenze croniche dell'ictus,0.9
+Malta,2014,M,Ictus o conseguenze croniche dell'ictus,0.4
+Malta,2019,M,Ictus o conseguenze croniche dell'ictus,0.4
+Paesi Bassi,2014,M,Ictus o conseguenze croniche dell'ictus,0.3
+Paesi Bassi,2019,M,Ictus o conseguenze croniche dell'ictus,1.7
+Polonia,2014,M,Ictus o conseguenze croniche dell'ictus,2.2
+Polonia,2019,M,Ictus o conseguenze croniche dell'ictus,2.0
+Portogallo,2014,M,Ictus o conseguenze croniche dell'ictus,2.0
+Portogallo,2019,M,Ictus o conseguenze croniche dell'ictus,1.6
+Romania,2014,M,Ictus o conseguenze croniche dell'ictus,1.2
+Romania,2019,M,Ictus o conseguenze croniche dell'ictus,1.1
+Svezia,2014,M,Ictus o conseguenze croniche dell'ictus,1.1
+Svezia,2019,M,Ictus o conseguenze croniche dell'ictus,1.0
+Slovenia,2014,M,Ictus o conseguenze croniche dell'ictus,1.9
+Slovenia,2019,M,Ictus o conseguenze croniche dell'ictus,1.7
+Slovacchia,2014,M,Ictus o conseguenze croniche dell'ictus,2.0
+Slovacchia,2019,M,Ictus o conseguenze croniche dell'ictus,2.0
+Austria,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",5.1
+Austria,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",5.9
+Belgio,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",5.6
+Belgio,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",6.0
+Bulgaria,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",2.6
+Bulgaria,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",2.4
+Cipro,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",2.5
+Cipro,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",4.7
+Repubblica Ceca,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",5.8
+Repubblica Ceca,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",5.2
+Germania,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",10.2
+Germania,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",10.3
+Danimarca,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",7.6
+Danimarca,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",8.8
+Estonia,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",2.9
+Estonia,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",4.3
+Grecia,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",4.1
+Grecia,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",2.3
+Spagna,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",5.6
+Spagna,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",5.3
+Finlandia,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",13.6
+Finlandia,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",13.4
+Francia,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",7.5
+Francia,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",9.5
+Croazia,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",7.3
+Croazia,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",15.3
+Ungheria,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",6.5
+Ungheria,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",6.5
+Irlanda,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",9.4
+Irlanda,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",1.7
+Italia,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",5.6
+Italia,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",5.3
+Lituania,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",7.0
+Lituania,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",8.4
+Lussemburgo,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",7.7
+Lussemburgo,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",7.3
+Lettonia,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",11.4
+Lettonia,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",10.2
+Malta,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",3.9
+Malta,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",2.0
+Paesi Bassi,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",10.4
+Paesi Bassi,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",11.6
+Polonia,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",5.9
+Polonia,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",6.4
+Portogallo,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",9.8
+Portogallo,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",10.8
+Romania,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",1.3
+Romania,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",1.5
+Svezia,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",9.6
+Svezia,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",11.9
+Slovenia,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",10.7
+Slovenia,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",10.3
+Slovacchia,2014,F,"Incontinenza urinaria, problemi di controllo della vescica",5.1
+Slovacchia,2019,F,"Incontinenza urinaria, problemi di controllo della vescica",5.7
+Austria,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",2.1
+Austria,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",3.0
+Belgio,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",2.8
+Belgio,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",3.7
+Bulgaria,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",3.1
+Bulgaria,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",2.7
+Cipro,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",1.2
+Cipro,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",2.6
+Repubblica Ceca,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",3.8
+Repubblica Ceca,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",0.9
+Germania,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",5.5
+Germania,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",5.3
+Danimarca,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",6.2
+Danimarca,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",6.0
+Estonia,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",0.7
+Estonia,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",2.3
+Grecia,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",2.4
+Grecia,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",1.7
+Spagna,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",3.3
+Spagna,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",2.5
+Finlandia,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",4.5
+Finlandia,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",4.5
+Francia,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",3.8
+Francia,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",4.9
+Croazia,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",5.5
+Croazia,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",10.8
+Ungheria,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",3.9
+Ungheria,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",2.9
+Irlanda,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",5.2
+Irlanda,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",1.4
+Italia,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",4.1
+Italia,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",3.8
+Lituania,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",3.7
+Lituania,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",4.0
+Lussemburgo,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",4.6
+Lussemburgo,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",4.7
+Lettonia,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",4.2
+Lettonia,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",4.5
+Malta,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",1.6
+Malta,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",1.4
+Paesi Bassi,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",2.6
+Paesi Bassi,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",3.2
+Polonia,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",2.1
+Polonia,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",2.6
+Portogallo,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",5.0
+Portogallo,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",4.9
+Romania,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",1.6
+Romania,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",1.5
+Svezia,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",4.2
+Svezia,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",5.2
+Slovenia,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",5.7
+Slovenia,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",5.3
+Slovacchia,2014,M,"Incontinenza urinaria, problemi di controllo della vescica",3.1
+Slovacchia,2019,M,"Incontinenza urinaria, problemi di controllo della vescica",3.1
