@@ -113,6 +113,7 @@ project scope, and data quality notes.
 - Modular ETL architecture
 - MySQL integration
 - Markdown documentation
+- PowerBI
 
 ------------------------------------------------------------
 
