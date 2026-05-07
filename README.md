@@ -1,9 +1,8 @@
-
-Health EU27 Data Project
+# Health EU27 Data Project
 
 ------------------------------------------------------------
 
-OVERVIEW
+# OVERVIEW
 
 The Health EU27 Data Project is a structured data engineering and analytics initiative focused on European Union health indicators.
 
@@ -13,7 +12,7 @@ The project implements a modular ETL pipeline and produces analysis-ready datase
 
 ------------------------------------------------------------
 
-PROJECT STRUCTURE
+# PROJECT STRUCTURE
 
 data/
 - raw/                              Original datasets
@@ -44,7 +43,7 @@ Root files:
 
 ------------------------------------------------------------
 
-DATASETS INCLUDED
+# DATASETS INCLUDED
 
 The project integrates the following EU health datasets:
 
@@ -58,7 +57,7 @@ All datasets are standardized to EU27 countries only and prepared for analytical
 
 ------------------------------------------------------------
 
-WORKFLOW
+# WORKFLOW
 
 1) Run ETL pipeline:
    python -m src.main
@@ -78,7 +77,7 @@ The process is fully reproducible from raw data to visualization.
 
 ------------------------------------------------------------
 
-ANALYTICAL CAPABILITIES
+# ANALYTICAL CAPABILITIES
 
 The prepared datasets enable:
 
@@ -92,7 +91,7 @@ The prepared datasets enable:
 
 ------------------------------------------------------------
 
-DOCUMENTATION
+# DOCUMENTATION
 
 Detailed documentation is available in the docs folder:
 
@@ -106,7 +105,7 @@ project scope, and data quality notes.
 
 ------------------------------------------------------------
 
-TECHNICAL STACK
+# TECHNICAL STACK
 
 - Python
 - Pandas
@@ -117,10 +116,18 @@ TECHNICAL STACK
 
 ------------------------------------------------------------
 
-DESIGN PRINCIPLES
+# DESIGN PRINCIPLES
 
 - Reproducible ETL workflow
 - Modular and maintainable codebase
 - Clear separation between raw, processed, and translated data
 - Transparent data transformations
 - Production-style project organization
+
+------------------------------------------------------------
+
+# SCREENSHOTS
+
+## Main Dashboard Preview
+
+![Main Dashboard](screenshots/main_page_preview.JPG)
