@@ -130,4 +130,4 @@ project scope, and data quality notes.
 
 ## Main Dashboard Preview
 
-![Main Dashboard](screenshots/main_page_preview.JPG)
+![Main Dashboard](screenshot/main_page_preview.JPG)
